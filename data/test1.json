@@ -1,0 +1,1047 @@
+[
+  {
+    "text": "A patient should be warned about taking which vitamin when prescribed warfarin because of its effect on blood coagulation?",
+    "options": [
+      "Vitamin B1",
+      "Vitamin B6",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "answer": 3,
+    "explanation": "Vitamin K is a warfarin antagonist and can increase blood clotting factors."
+  },
+  {
+    "text": "A pharmacy technician should use which of the following when placing pharmacy weights on a balance?",
+    "options": [
+      "Filter paper",
+      "Forceps",
+      "Latex powdered gloves",
+      "Weighing papers"
+    ],
+    "answer": 1,
+    "explanation": "Forceps are used to handle pharmacy weights to prevent oils from a person's hands from affecting the weight."
+  },
+  {
+    "text": "A prescriber has authorized the pharmacy to substitute the generic for Lipitor; which of the following should be dispensed?",
+    "options": [
+      "atorvastatin",
+      "fluvastatin",
+      "pravastatin",
+      "simvastatin"
+    ],
+    "answer": 0,
+    "explanation": "Atorvastatin is the generic name for Lipitor."
+  },
+  {
+    "text": "The Latin abbreviation Signa appears on a prescription; what is its meaning?",
+    "options": [
+      "Directions to the pharmacist",
+      "Dispense as written",
+      "Take this drug",
+      "Write on label"
+    ],
+    "answer": 3,
+    "explanation": "Signa means 'Write on label,' referring to the patient's directions."
+  },
+  {
+    "text": "The following prescription is presented to the pharmacy. How many days will the prescription last the patient? Alendronate Plus D #4, I tab po q week",
+    "options": [
+      "4 days",
+      "7 days",
+      "28 days",
+      "30 days"
+    ],
+    "answer": 2,
+    "explanation": "The prescription is for 4 tablets, taken once a week, so it will last 28 days ($4 \\times 7$)."
+  },
+  {
+    "text": "A prescription for isotretinoin is presented to the pharmacy; what is the maximum number of refills permitted for this prescription?",
+    "options": [
+      "0",
+      "1",
+      "6",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "Prescriptions for isotretinoin are not permitted to have refills under the iPLEDGE program."
+  },
+  {
+    "text": "Which type of inventory must be performed prior to dispensing the first prescription at a new pharmacy?",
+    "options": [
+      "Biennial",
+      "Initial",
+      "Perpetual",
+      "Physical"
+    ],
+    "answer": 1,
+    "explanation": "An initial inventory is performed before a new pharmacy opens for business."
+  },
+  {
+    "text": "When measuring a volume less than 1.0 mL, the pharmacy technician should use which of the following pieces of equipment?",
+    "options": [
+      "Beaker",
+      "Conical graduate",
+      "Cylindrical graduate",
+      "Pipette"
+    ],
+    "answer": 3,
+    "explanation": "A pipette is used to accurately measure small volumes, especially less than 1 mL."
+  },
+  {
+    "text": "A prescription is written for the antibiotic Zithromax. The physician indicated “Voluntary Formulary” permitted on the prescription. Which of the following medications would be dispensed?",
+    "options": [
+      "azithromycin",
+      "clarithromycin",
+      "minocycline",
+      "cephalexin"
+    ],
+    "answer": 0,
+    "explanation": "Zithromax is the brand name for azithromycin."
+  },
+  {
+    "text": "Which of the following workplace issues may contribute to a prescription error?",
+    "options": [
+      "Filling one prescription at a time",
+      "Medication labels that use multiple color and size fonts",
+      "Multitasking",
+      "Quiet work environment"
+    ],
+    "answer": 2,
+    "explanation": "Multitasking can lead to a loss of focus and is a common cause of medication errors."
+  },
+  {
+    "text": "A patient complains of experiencing sleep disorders; which of the following products would a pharmacist recommend to them?",
+    "options": [
+      "Chromium picolinate",
+      "Ginseng",
+      "Glucosamine",
+      "Melatonin"
+    ],
+    "answer": 3,
+    "explanation": "Melatonin is a hormone that can help with sleep regulation."
+  },
+  {
+    "text": "Which dosage form is described as “solid particles dispersed in liquid vehicle?”",
+    "options": [
+      "Emulsions",
+      "Gel",
+      "Lotion",
+      "Suspensions"
+    ],
+    "answer": 3,
+    "explanation": "A suspension consists of solid particles dispersed in a liquid vehicle."
+  },
+  {
+    "text": "Where is an otic medication administered?",
+    "options": [
+      "In the ear",
+      "In the eye",
+      "In the rectum",
+      "Under the tongue"
+    ],
+    "answer": 0,
+    "explanation": "Otic medications are administered in the ear."
+  },
+  {
+    "text": "According to MEDMARX, which of the following medications has been associated with a large number of medication errors?",
+    "options": [
+      "amoxicillin",
+      "heparin",
+      "ibuprofen",
+      "prilosec"
+    ],
+    "answer": 1,
+    "explanation": "Heparin is a high-alert medication that is commonly associated with medication errors due to the risk of serious bleeding."
+  },
+  {
+    "text": "Which USP term is assigned to any temperature between 15° C and 30° C?",
+    "options": [
+      "Freezer",
+      "Cold",
+      "Cool",
+      "Room temperature"
+    ],
+    "answer": 3,
+    "explanation": "The USP defines room temperature as a range from 15° C to 30° C."
+  },
+  {
+    "text": "Which organization issued the List of Error-Prone Abbreviations, Symbols, and Dose Designations?",
+    "options": [
+      "ISMP",
+      "National Association Boards of Pharmacy",
+      "State Board of Pharmacy",
+      "TJC"
+    ],
+    "answer": 0,
+    "explanation": "The ISMP (Institute for Safe Medication Practices) issues a list of error-prone abbreviations."
+  },
+  {
+    "text": "Which type of drug interaction occurs when a medication works against the action of another medication?",
+    "options": [
+      "Addition",
+      "Antagonism",
+      "Potentiation",
+      "Synergism"
+    ],
+    "answer": 1,
+    "explanation": "Antagonism is a drug interaction where one medication counteracts the effects of another."
+  },
+  {
+    "text": "An individual wishes to purchase a 4-ounce bottle of guaifenesin with codeine, which is classified as an “exempt narcotic.” How old must a person be to purchase this medication?",
+    "options": [
+      "12 years",
+      "16 years",
+      "18 years",
+      "21 years"
+    ],
+    "answer": 2,
+    "explanation": "A person must be at least 18 years old to purchase an “exempt” controlled substance."
+  },
+  {
+    "text": "A physician has authorized a generic medication to be dispensed to a patient, but the patient wishes to receive the brand name drug. Which DAW number would be used in submitting this prescription claim to the third-party provider?",
+    "options": [
+      "DAW 0",
+      "DAW 1",
+      "DAW 2",
+      "DAW 3"
+    ],
+    "answer": 2,
+    "explanation": "DAW 2 is used when the prescriber permits generic substitution, but the patient requests the brand name drug."
+  },
+  {
+    "text": "Which of the following pharmacy abbreviations appears on the “Do Not Use” list?",
+    "options": [
+      "as",
+      "bid",
+      "gtt",
+      "prn"
+    ],
+    "answer": 3,
+    "explanation": "The abbreviation prn (as needed) is on the “Do Not Use” list because it can be misunderstood as “per” or “for.”"
+  },
+  {
+    "text": "What term is assigned to a storage temperature of 30° C to 40° C?",
+    "options": [
+      "Cool",
+      "Excessive heat",
+      "Room temperature",
+      "Warm"
+    ],
+    "answer": 3,
+    "explanation": "The USP defines warm as a temperature between 30° C and 40° C."
+  },
+  {
+    "text": "A patient complains of experiencing side effects, such as dry eyes, dry mouth, or difficult urination or defecation. These side effects are associated with which drug classification?",
+    "options": [
+      "Alpha-blockers",
+      "Anticholinergics",
+      "Beta-blockers",
+      "Cephalosporins"
+    ],
+    "answer": 1,
+    "explanation": "These are classic side effects of anticholinergic drugs."
+  },
+  {
+    "text": "What is the maximum number of allowable refills for a prescription of acetaminophen/codeine?",
+    "options": [
+      "None",
+      "One",
+      "Five",
+      "Six"
+    ],
+    "answer": 2,
+    "explanation": "Acetaminophen/codeine is a Schedule III controlled substance, which is permitted five refills within a 6-month period."
+  },
+  {
+    "text": "How many days will a prescription of 40 tablets last if the directions read “i-ii tabs PO q6h”?",
+    "options": [
+      "5 days",
+      "7 days",
+      "10 days",
+      "15 days"
+    ],
+    "answer": 0,
+    "explanation": "A patient takes 1 to 2 tablets every 6 hours (4 times a day). At the maximum dose of 2 tablets, the prescription will last for 5 days ($40 \\div (2 \\times 4)$)."
+  },
+  {
+    "text": "If 120 mL of a 2% (w/v) is diluted with water to 1 pint, what will be the strength of the dilution?",
+    "options": [
+      "0.25%",
+      "0.5%",
+      "1.0%",
+      "8.0%"
+    ],
+    "answer": 1,
+    "explanation": "Using C₁V₁ = C₂V₂: (2%)(120 mL) = C₂(473 mL) ⇒ C₂ ≈ 0.5%."
+  },
+  {
+    "text": "A patient receives their prescribed medication outside of the normal scheduled time. This is an example of which type of hospital error?",
+    "options": [
+      "Monitoring drug error",
+      "Omission error",
+      "Wrong time error",
+      "Wrong dosage form"
+    ],
+    "answer": 2,
+    "explanation": "A wrong time error occurs when a medication is administered at the wrong time."
+  },
+  {
+    "text": "Which of the following is the generic name for Plavix?",
+    "options": [
+      "celecoxib",
+      "clopidogrel",
+      "naproxen",
+      "oxaprozin"
+    ],
+    "answer": 1,
+    "explanation": "Clopidogrel is the generic name for Plavix."
+  },
+  {
+    "text": "A pharmacy technician comes in contact with a hazardous material. Where would they obtain information in treating the affected area?",
+    "options": [
+      "Approved Drug Products with Therapeutic Equivalence Evaluations",
+      "Drug Facts and Comparisons",
+      "Physician’s Desk Reference",
+      "Safety data sheets"
+    ],
+    "answer": 3,
+    "explanation": "Safety data sheets (SDS) contain information on how to handle hazardous materials, including first aid."
+  },
+  {
+    "text": "A prescription is written for hydrochlorothiazide 50 mg. Which of the following would be appropriate directions for use?",
+    "options": [
+      "Take one tablet by mouth at bedtime.",
+      "Take one tablet by mouth in the morning with food.",
+      "Take one tablet by mouth in the morning with orange juice.",
+      "Take one tablet by mouth on an empty stomach."
+    ],
+    "answer": 2,
+    "explanation": "Hydrochlorothiazide is best taken in the morning with orange juice to prevent nighttime urination and to counter potassium loss."
+  },
+  {
+    "text": "Which auxiliary label should be affixed to a prescription of naproxen?",
+    "options": [
+      "Refrigerate",
+      "Shake well",
+      "Take with food",
+      "Take with orange juice"
+    ],
+    "answer": 2,
+    "explanation": "Naproxen can cause stomach irritation and should be taken with food."
+  },
+  {
+    "text": "What is the meaning of DUE?",
+    "options": [
+      "Directions under evaluation",
+      "Drug under evaluation",
+      "Drug used externally",
+      "Drug utilization evaluation"
+    ],
+    "answer": 3,
+    "explanation": "DUE stands for Drug Utilization Evaluation, a process mandated by OBRA '90."
+  },
+  {
+    "text": "Focalin XR is the brand name for which generic medication?",
+    "options": [
+      "atomoxetine",
+      "bupropion",
+      "dexmethylphenidate",
+      "methylphenidate"
+    ],
+    "answer": 2,
+    "explanation": "Dexmethylphenidate is the generic name for Focalin XR."
+  },
+  {
+    "text": "Which of the following medications should NOT be crushed when being administered to a patient?",
+    "options": [
+      "Corgard",
+      "Coreg CR",
+      "Lopressor",
+      "Tenormin"
+    ],
+    "answer": 1,
+    "explanation": "Coreg CR is a controlled-release formulation and should not be crushed."
+  },
+  {
+    "text": "Which of the following is a valid DEA number?",
+    "options": [
+      "AD2865937",
+      "BD0865937",
+      "FD1865937",
+      "MD0865947"
+    ],
+    "answer": 1,
+    "explanation": "A valid DEA number can be verified by summing odd digits + 2×even digits and matching the check digit."
+  },
+  {
+    "text": "What is the minimum amount of time that a patient must wait before purchasing another bottle of an exempt narcotic?",
+    "options": [
+      "24 hr",
+      "48 hr",
+      "72 hr",
+      "96 hr"
+    ],
+    "answer": 1,
+    "explanation": "A patient must wait at least 48 hours before purchasing another exempt narcotic."
+  },
+  {
+    "text": "Which medication is indicated for opioid dependence maintenance?",
+    "options": [
+      "buprenorphine/naloxone",
+      "butorphanol nasal",
+      "solifenacin",
+      "tramadol"
+    ],
+    "answer": 0,
+    "explanation": "Buprenorphine/naloxone is used for opioid dependence maintenance."
+  },
+  {
+    "text": "Which of the following medications is found on the list of “high-alert medications” issued by the ISMP for acute care settings?",
+    "options": [
+      "ciprofloxacin",
+      "methotrexate (oral)",
+      "naproxen",
+      "prednisone"
+    ],
+    "answer": 1,
+    "explanation": "Oral methotrexate is on the ISMP high-alert list due to the potential for significant harm."
+  },
+  {
+    "text": "A patient has a blood pressure of 130/89; which of the following medications would be an appropriate treatment?",
+    "options": [
+      "amiodarone",
+      "ezetimibe/simvastatin",
+      "hydrochlorothiazide",
+      "levalbuterol"
+    ],
+    "answer": 2,
+    "explanation": "Hydrochlorothiazide is a diuretic used to treat high blood pressure."
+  },
+  {
+    "text": "What is the meaning of “DAW 0” when billing a prescription to an insurance carrier?",
+    "options": [
+      "Brand dispensed as a generic",
+      "Physician approved the use of a generic drug",
+      "Physician approved the use of a generic drug; the patient requested brand name",
+      "Physician requested brand name"
+    ],
+    "answer": 1,
+    "explanation": "DAW 0 means a generic substitution is permitted or not required by the prescriber."
+  },
+  {
+    "text": "What is the BUD for a water-containing oral formulation that is stored at a controlled cold temperature?",
+    "options": [
+      "24 hours",
+      "48 hours",
+      "Not more than 4 days",
+      "Not more than 30 days"
+    ],
+    "answer": 2,
+    "explanation": "Per USP <795>, the BUD is not more than 14 days; the closest option is “Not more than 4 days.”"
+  },
+  {
+    "text": "How should a pharmacy technician handle an item that is saturated with blood or body fluids?",
+    "options": [
+      "Incinerated at the facility",
+      "Placed in a biohazard bag",
+      "Placed in a sharps container",
+      "Placed in a trash receptacle"
+    ],
+    "answer": 1,
+    "explanation": "Items saturated with bodily fluids should be placed in a biohazard bag."
+  },
+  {
+    "text": "A patient complains to the pharmacy of experiencing adverse effects associated with a specific medication. Which organization should be provided with this information?",
+    "options": [
+      "CDC",
+      "FAERS",
+      "ISMP",
+      "VAERS"
+    ],
+    "answer": 1,
+    "explanation": "Adverse drug events are reported to the FDA Adverse Event Reporting System (FAERS)."
+  },
+  {
+    "text": "Which of the following organization’s websites should a pharmacy technician refer to in obtaining information for a drug recall of valsartan?",
+    "options": [
+      "CDC",
+      "CMS",
+      "FDA",
+      "USP"
+    ],
+    "answer": 2,
+    "explanation": "The FDA website provides information on drug recalls."
+  },
+  {
+    "text": "Which of the following is an indication for timolol ophthalmic solution?",
+    "options": [
+      "Blepharitis",
+      "Glaucoma",
+      "Keratitis",
+      "Stye"
+    ],
+    "answer": 1,
+    "explanation": "Timolol ophthalmic solution is used to treat glaucoma by reducing intraocular pressure."
+  },
+  {
+    "text": "What is the maximum number of refills permitted by law for the following prescription? Hydrocodone/acetaminophen 7.5 mg/325mg #40, 1 tab PO q 4-6h prn pain",
+    "options": [
+      "0",
+      "1",
+      "5",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "Hydrocodone/acetaminophen is a Schedule II controlled substance and is not permitted refills."
+  },
+  {
+    "text": "Which of the following medications should have the auxiliary label “Medication Causes Photosensitivity—Use Sunscreen”?",
+    "options": [
+      "erythromycin",
+      "metronidazole",
+      "penicillin",
+      "tetracycline"
+    ],
+    "answer": 3,
+    "explanation": "Tetracycline is known to cause photosensitivity."
+  },
+  {
+    "text": "According to the Combat Methamphetamine Act, which medication must be kept behind the pharmacy counter?",
+    "options": [
+      "diphenhydramine",
+      "guaifenesin",
+      "loperamide",
+      "pseudoephedrine"
+    ],
+    "answer": 3,
+    "explanation": "Pseudoephedrine is regulated under the Combat Methamphetamine Epidemic Act."
+  },
+  {
+    "text": "Which term refers to the “0” in 5.0 mg?",
+    "options": [
+      "A leading zero",
+      "A place holder",
+      "A trailing zero",
+      "The tenth’s column"
+    ],
+    "answer": 2,
+    "explanation": "A trailing zero (e.g., 5.0) can lead to a tenfold overdose if the decimal point is missed."
+  },
+  {
+    "text": "Which type of error occurs when the pharmacy dispenses an expired medication to a patient?",
+    "options": [
+      "Deteriorated drug error",
+      "Improper dose error",
+      "Other medication error",
+      "Wrong drug-preparation error"
+    ],
+    "answer": 0,
+    "explanation": "A deteriorated drug error involves dispensing an expired or integrity-lost medication."
+  },
+  {
+    "text": "Levemir and Lovenox are examples of",
+    "options": [
+      "confused drug names.",
+      "medications found on the “High-Alert” list for community pharmacy.",
+      "medications found on the “Do Not Crush” list.",
+      "nonproprietary drugs."
+    ],
+    "answer": 0,
+    "explanation": "Levemir and Lovenox are easily confused due to similar names."
+  },
+  {
+    "text": "While processing a prescription for prenatal vitamins for a woman from her OB-GYN, you notice she filled a prescription for tetracycline last week from her dermatologist. What should you do?",
+    "options": [
+      "Contact her OB-GYN.",
+      "Contact her dermatologist.",
+      "Fill the prescription.",
+      "Inform the pharmacist."
+    ],
+    "answer": 3,
+    "explanation": "The technician should inform the pharmacist of potential drug interactions."
+  },
+  {
+    "text": "Which of the following is required of pharmacists under the Omnibus Budget Reconciliation Act of 1990 (OBRA ‘90)?",
+    "options": [
+      "Be immunized yearly against influenza.",
+      "Offer to counsel patients.",
+      "Provide emergency medication to a patient so their drug therapy is not interrupted.",
+      "Provide medication to a patient in EZ open container if requested."
+    ],
+    "answer": 1,
+    "explanation": "OBRA ‘90 requires pharmacists to offer counseling to Medicaid patients."
+  },
+  {
+    "text": "All of the following are examples of a dispensing error EXCEPT",
+    "options": [
+      "failing to indicate the number of refills permitted on the prescription.",
+      "failing to indicate the strength of the medication on the prescription.",
+      "giving an oral medication intravenously.",
+      "interpreting a prescription."
+    ],
+    "answer": 2,
+    "explanation": "Giving an oral medication intravenously is an administration error, not a dispensing error."
+  },
+  {
+    "text": "Which of the following medications has been associated with a high incidence of medication errors in community pharmacy?",
+    "options": [
+      "cephalexin",
+      "ibuprofen",
+      "metformin",
+      "potassium chloride"
+    ],
+    "answer": 2,
+    "explanation": "Metformin has a high incidence of errors in community pharmacies."
+  },
+  {
+    "text": "A patient is being treated for hypertension with hydrochlorothiazide. Their physician has ordered a chemistry panel be performed on the patient. What will the lab results indicate?",
+    "options": [
+      "A decrease in the patient’s blood sugar",
+      "A decrease in the patient’s blood urea nitrogen (BUN)",
+      "An increase in the patient’s blood sugar",
+      "An increase in the patient’s BUN"
+    ],
+    "answer": 2,
+    "explanation": "Hydrochlorothiazide can increase blood sugar levels."
+  },
+  {
+    "text": "The following prescription has been presented to the pharmacy. How many tablets should be dispensed? Prednisone 5 mg, Sig: 20 mg BID x 2D, 15 mg BID x 2D, 10 mg BID x 2D, 5 mg BID x 2D, 5 mg QD x 2D, 2.5 mg QD x 2D",
+    "options": [
+      "33 tablets",
+      "37 tablets",
+      "43 tablets",
+      "49 tablets"
+    ],
+    "answer": 2,
+    "explanation": "Total = 16 + 12 + 8 + 4 + 2 + 1 = 43 tablets."
+  },
+  {
+    "text": "Which of the following medications is classified as an antiviral agent?",
+    "options": [
+      "acyclovir",
+      "azithromycin",
+      "fluconazole",
+      "nystatin"
+    ],
+    "answer": 0,
+    "explanation": "Acyclovir is an antiviral agent."
+  },
+  {
+    "text": "Which of the following does the superscription contain?",
+    "options": [
+      "Directions for usage",
+      "Name of the medication prescribed, strength, and quantity",
+      "Refill information",
+      "RX symbol"
+    ],
+    "answer": 3,
+    "explanation": "The superscription is the “Rx” symbol on a prescription."
+  },
+  {
+    "text": "A patient has been diagnosed as having type I diabetes mellitus; which of the following would be an appropriate medication?",
+    "options": [
+      "glyburide",
+      "insulin glargine",
+      "metformin",
+      "rosiglitazone"
+    ],
+    "answer": 1,
+    "explanation": "Insulin glargine is used for type I diabetes."
+  },
+  {
+    "text": "The following prescription is presented to the pharmacy. How many capsules should be dispensed? Amoxicillin 250 mg 10 day’s supply, 1 cap PO TID",
+    "options": [
+      "20 capsules",
+      "30 capsules",
+      "40 capsules",
+      "60 capsules"
+    ],
+    "answer": 1,
+    "explanation": "1 cap TID for 10 days = 30 capsules."
+  },
+  {
+    "text": "A patient has been diagnosed with a major depressive episode; which of the following drug classifications would a physician prescribe?",
+    "options": [
+      "Barbiturate",
+      "Benzodiazepines",
+      "Hydantoins",
+      "Selective serotonin reuptake inhibitors"
+    ],
+    "answer": 3,
+    "explanation": "SSRIs are commonly prescribed for depression."
+  },
+  {
+    "text": "A patient is prescribed enoxaparin; how should it be administered?",
+    "options": [
+      "Intravenously",
+      "Orally",
+      "Subcutaneously",
+      "Topically"
+    ],
+    "answer": 2,
+    "explanation": "Enoxaparin is given subcutaneously."
+  },
+  {
+    "text": "A medication is available as a 10 mg/5 mL suspension; how many milliliters are needed to give a dose of 30 mg?",
+    "options": [
+      "10 mL",
+      "15 mL",
+      "20 mL",
+      "30 mL"
+    ],
+    "answer": 1,
+    "explanation": "30 mg × (5 mL / 10 mg) = 15 mL."
+  },
+  {
+    "text": "What is the generic name for Victoza?",
+    "options": [
+      "liraglutide",
+      "lurasidone",
+      "vardenafil",
+      "vilazodone"
+    ],
+    "answer": 0,
+    "explanation": "Liraglutide is the generic for Victoza."
+  },
+  {
+    "text": "Which drug classification is fluticasone?",
+    "options": [
+      "Benzodiazepine",
+      "Corticosteroid",
+      "Electrolyte",
+      "HMG CoA reductase inhibitor"
+    ],
+    "answer": 1,
+    "explanation": "Fluticasone is a corticosteroid."
+  },
+  {
+    "text": "Interpret the following signa: Terconazole supp #7, i supp pv q hs for yeast infection x 7 nights",
+    "options": [
+      "Use one suppository rectally at bedtime for yeast infection for 7 nights.",
+      "Insert one suppository vaginally at bedtime for 7 nights.",
+      "Insert one suppository vaginally at bedtime for yeast infection for 7 nights.",
+      "Take one suppository at bedtime for yeast infection for 7 nights."
+    ],
+    "answer": 2,
+    "explanation": "`i supp pv q hs` means one suppository vaginally at bedtime."
+  },
+  {
+    "text": "A change in medication’s solubility is due to",
+    "options": [
+      "bioequivalence.",
+      "a pharmacological incompatibility.",
+      "a physical incompatibility.",
+      "a therapeutic incompatibility."
+    ],
+    "answer": 2,
+    "explanation": "Physical incompatibility affects solubility."
+  },
+  {
+    "text": "Which of the following pieces of information is useful to verify that the correct medication has been selected from the shelf to fill a prescription?",
+    "options": [
+      "Expiration date",
+      "Lot number",
+      "NDC number",
+      "NPI number"
+    ],
+    "answer": 2,
+    "explanation": "The NDC number uniquely identifies a drug product."
+  },
+  {
+    "text": "Which of the following drugs would be administered using “pulse dosing”?",
+    "options": [
+      "clotrimazole",
+      "fluconazole",
+      "itraconazole",
+      "ketoconazole"
+    ],
+    "answer": 2,
+    "explanation": "Itraconazole is often pulse-dosed."
+  },
+  {
+    "text": "Who is responsible for notifying a patient that a medication they have been prescribed has been recalled by the drug manufacturer?",
+    "options": [
+      "Drug manufacturer",
+      "FDA",
+      "Pharmacy",
+      "Physician"
+    ],
+    "answer": 2,
+    "explanation": "The pharmacy must notify patients of recalls."
+  },
+  {
+    "text": "A patient complains of experiencing bronchospasms. Their physician wishes to prescribe a beta-2 agonist for this patient. Which of the following medications would be appropriate?",
+    "options": [
+      "Advair Diskus",
+      "Proventil HFA",
+      "Singulair",
+      "Spiriva Handihaler"
+    ],
+    "answer": 1,
+    "explanation": "Proventil HFA (albuterol) is a short-acting beta-2 agonist."
+  },
+  {
+    "text": "All of the following drugs are classified as NSAIDs EXCEPT:",
+    "options": [
+      "colchicine",
+      "celecoxib",
+      "ibuprofen",
+      "oxaprozin"
+    ],
+    "answer": 0,
+    "explanation": "Colchicine is not an NSAID."
+  },
+  {
+    "text": "Which of the following medications is indicated for depression?",
+    "options": [
+      "amlodipine",
+      "clopidogrel",
+      "paroxetine",
+      "saxagliptin"
+    ],
+    "answer": 2,
+    "explanation": "Paroxetine is an SSRI used for depression."
+  },
+  {
+    "text": "Cytotoxic drugs from a pharmacy are disposed by which of the following methods?",
+    "options": [
+      "Discarding them in the pharmacy garbage",
+      "Placing them in a sharps container",
+      "Placing them in a specialized sharps container labeled “hazardous waste”",
+      "Rinsing them down the sink or flushing down the toilet"
+    ],
+    "answer": 2,
+    "explanation": "Cytotoxic drugs must go in a specialized hazardous waste container."
+  },
+  {
+    "text": "The Combat Methamphetamine Epidemic Act restricts the sale of which OTC medication?",
+    "options": [
+      "ibuprofen",
+      "loratadine",
+      "loperamide",
+      "pseudoephedrine"
+    ],
+    "answer": 3,
+    "explanation": "Pseudoephedrine is regulated under the Combat Methamphetamine Act."
+  },
+  {
+    "text": "Which term encompasses the absorption, distribution, metabolism, and elimination of a drug?",
+    "options": [
+      "Pharmacokinetics",
+      "Pharmacognosy",
+      "Pharmacology",
+      "Pharmacopeia"
+    ],
+    "answer": 0,
+    "explanation": "Pharmacokinetics is the study of ADME processes."
+  },
+  {
+    "text": "Which therapeutic equivalent code is assigned to a medication in conventional dosage forms not presenting bioequivalence problems?",
+    "options": [
+      "A",
+      "AA",
+      "B",
+      "B*"
+    ],
+    "answer": 1,
+    "explanation": "AA indicates conventional forms without bioequivalence issues."
+  },
+  {
+    "text": "Which of the following is the generic name for Lyrica?",
+    "options": [
+      "carbamazepine",
+      "gabapentin",
+      "pregabalin",
+      "tramadol"
+    ],
+    "answer": 2,
+    "explanation": "Pregabalin is the generic name for Lyrica."
+  },
+  {
+    "text": "Which color of C should the pharmacy technician stamp on filed-paper, controlled substance prescriptions?",
+    "options": [
+      "Black",
+      "Blue",
+      "Green",
+      "Red"
+    ],
+    "answer": 3,
+    "explanation": "A red “C” marks Schedule III–V prescriptions."
+  },
+  {
+    "text": "A patient has been diagnosed with partial seizures; which medication is indicated for this condition?",
+    "options": [
+      "esomeprazole",
+      "gabapentin",
+      "olopatadine",
+      "ritonavir"
+    ],
+    "answer": 1,
+    "explanation": "Gabapentin is an anticonvulsant used for partial seizures."
+  },
+  {
+    "text": "Which of the following auxiliary labels would be appropriate for a prescription of potassium chloride extended release capsules?",
+    "options": [
+      "Avoid sunlight",
+      "Swallow whole: Do not chew or crush",
+      "Take on an empty stomach",
+      "This medication may impair your ability to operate a vehicle, vessel, or machinery"
+    ],
+    "answer": 1,
+    "explanation": "Extended-release capsules must be swallowed whole."
+  },
+  {
+    "text": "Which of the following medications has a narrow therapeutic range?",
+    "options": [
+      "citalopram",
+      "isotretinoin",
+      "naproxen",
+      "warfarin"
+    ],
+    "answer": 3,
+    "explanation": "Warfarin has a narrow therapeutic index and requires close monitoring."
+  },
+  {
+    "text": "Which of the following is an example of a class III antiarrhythmic medication?",
+    "options": [
+      "dronedarone",
+      "lidocaine",
+      "propranolol",
+      "verapamil"
+    ],
+    "answer": 0,
+    "explanation": "Dronedarone is a class III antiarrhythmic agent."
+  },
+  {
+    "text": "Which of the following provided for the first comprehensive federal protection for the privacy of health information?",
+    "options": [
+      "HIPAA Electronic Health Care Transactions and Code Sets Standard",
+      "HIPAA Privacy Rule",
+      "HIPAA Security Rule",
+      "HIPAA Transaction Rule"
+    ],
+    "answer": 1,
+    "explanation": "The HIPAA Privacy Rule established national standards for protecting health information."
+  },
+  {
+    "text": "A vaccine error was discovered by the pharmacy technician. To which organization should this error be reported?",
+    "options": [
+      "FDA",
+      "ISMP",
+      "TJC",
+      "USP"
+    ],
+    "answer": 0,
+    "explanation": "Vaccine errors are reported to VAERS, co-managed by CDC and FDA."
+  },
+  {
+    "text": "A prescriber has ordered an INR test for a patient being prescribed warfarin. Which of the following medications will elevate the patient’s INR values?",
+    "options": [
+      "amiodarone",
+      "carbamazepine",
+      "norethindrone/ethinyl estradiol",
+      "vitamin K"
+    ],
+    "answer": 0,
+    "explanation": "Amiodarone increases warfarin’s effects and raises INR."
+  },
+  {
+    "text": "What type of medication error occurs when a prescriber is not licensed in the state?",
+    "options": [
+      "Compliance drug error",
+      "Monitoring drug error",
+      "Prescribing error",
+      "Unauthorized drug error"
+    ],
+    "answer": 3,
+    "explanation": "An unauthorized drug error occurs when the prescriber is not authorized to prescribe."
+  },
+  {
+    "text": "The MedWatch program can be used to report adverse events for all of the following EXCEPT",
+    "options": [
+      "biologics.",
+      "dietary supplements.",
+      "investigational drugs.",
+      "prescription drugs."
+    ],
+    "answer": 1,
+    "explanation": "MedWatch covers all these categories, including dietary supplements."
+  },
+  {
+    "text": "A patient diagnosed with high cholesterol would be prescribed which of the following?",
+    "options": [
+      "atenolol",
+      "diltiazem",
+      "ezetimibe",
+      "verapamil"
+    ],
+    "answer": 2,
+    "explanation": "Ezetimibe is a cholesterol-lowering medication."
+  },
+  {
+    "text": "Which organization established a list of “high-alert medications” for acute care, community care, and long-term care pharmacies?",
+    "options": [
+      "ASHP",
+      "ISMP",
+      "TJC",
+      "USP"
+    ],
+    "answer": 1,
+    "explanation": "The ISMP maintains the high-alert medication list."
+  },
+  {
+    "text": "Which of the following drug classifications requires that a package insert be provided to the patient?",
+    "options": [
+      "Cephalosporin",
+      "Estrogen",
+      "Nonsteroidal antiinflammatory drug",
+      "Proton pump inhibitor"
+    ],
+    "answer": 1,
+    "explanation": "Estrogen medications require a patient package insert by FDA mandate."
+  },
+  {
+    "text": "What do the last two numbers of a National Drug Code (NDC) number indicate?",
+    "options": [
+      "Drug manufacturer",
+      "Drug product",
+      "Drug package",
+      "Drug quantity"
+    ],
+    "answer": 2,
+    "explanation": "The last segment of the NDC indicates the package size and type."
+  },
+  {
+    "text": "Which of these adverse effects is associated with corticosteroids?",
+    "options": [
+      "Hypoglycemia",
+      "Hypotension",
+      "Hyperkalemia",
+      "Water retention"
+    ],
+    "answer": 3,
+    "explanation": "Water retention is a common side effect of corticosteroids."
+  },
+  {
+    "text": "A deficiency of which vitamin will result in the patient experiencing scurvy?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B1",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 2,
+    "explanation": "Scurvy is caused by severe Vitamin C deficiency."
+  },
+  {
+    "text": "A prescriber wishes to prescribe a beta-blocker for a patient diagnosed with hypertension; which of the following would be an appropriate medication?",
+    "options": [
+      "amlodipine",
+      "losartan",
+      "metoprolol",
+      "simvastatin"
+    ],
+    "answer": 2,
+    "explanation": "Metoprolol is a beta-blocker used to treat hypertension."
+  }
+]

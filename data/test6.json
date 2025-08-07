@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "A pharmacy technician may perform all of the following tasks EXCEPT",
+    "options": [
+      "cleaning the laminar air flow hood.",
+      "ordering medications for the pharmacy.",
+      "performing drug utilization review.",
+      "repackaging medications."
+    ],
+    "answer": 2,
+    "explanation": "A pharmacy technician cannot perform a drug utilization review (DUR). A DUR is a professional review by a pharmacist of a patient's drug therapy to ensure it is appropriate and safe."
+  },
+  {
+    "text": "Amlodipine is indicated for which condition?",
+    "options": [
+      "Angina",
+      "Arrhythmia",
+      "Hyperlipidemia",
+      "Hypertension"
+    ],
+    "answer": 3,
+    "explanation": "Amlodipine is a calcium channel blocker used to treat high blood pressure (hypertension) and certain types of chest pain (angina)."
+  },
+  {
+    "text": "Which of the following would be the correct DEA number used by a resident working at Mercy Hospital who has prescribed 20 tablets of hydrocodone with acetaminophen to a patient?",
+    "options": [
+      "AM1234563",
+      "AM1234563-1234",
+      "MH1234563",
+      "MH1234563-1234"
+    ],
+    "answer": 1,
+    "explanation": "A hospital-based resident's DEA number starts with the hospital's DEA number, followed by a specific number assigned to them. The first letter is A, B, F, or M, followed by the hospital's DEA number and then a personal identifier. Option A is incorrect because it's missing the personal identifier, C is incorrect because the letter is wrong, and D is incorrect because the hospital's DEA number must start with A, B, or F."
+  },
+  {
+    "text": "Self-certification is required of a pharmacy selling which medication?",
+    "options": [
+      "alprazolam",
+      "guaifenesin with codeine",
+      "oxycodone",
+      "pseudoephedrine"
+    ],
+    "answer": 3,
+    "explanation": "The Combat Methamphetamine Epidemic Act of 2005 requires pharmacies that sell products containing pseudoephedrine to be 'self-certified' with the DEA."
+  },
+  {
+    "text": "Which nonsterile compounding involves grinding particles into fine powder with the use of a mortar and pestle?",
+    "options": [
+      "Blending",
+      "Geometric dilution",
+      "Sifting",
+      "Trituration"
+    ],
+    "answer": 3,
+    "explanation": "Trituration is the process of reducing a substance to a fine powder by grinding it in a mortar with a pestle."
+  },
+  {
+    "text": "Which of the following units of measurement should not be used when prescribing an order?",
+    "options": [
+      "gm",
+      "grain",
+      "mcg",
+      "mL"
+    ],
+    "answer": 1,
+    "explanation": "The abbreviation 'grain' is considered an unsafe abbreviation and should not be used when prescribing medication orders."
+  },
+  {
+    "text": "Which of the following pieces of legislation requires pharmacies to perform a prospective drug utilization on all prescriptions?",
+    "options": [
+      "Durham-Humphrey Amendment",
+      "Heath Insurance Portability and Accounting Act",
+      "Medicare Modernization Act",
+      "Omnibus Budget Reconciliation Act"
+    ],
+    "answer": 3,
+    "explanation": "The Omnibus Budget Reconciliation Act of 1990 (OBRA '90) requires pharmacists to perform a prospective Drug Utilization Review (DUR) on all prescriptions to ensure that medications are safe and appropriate."
+  },
+  {
+    "text": "Which over-the-counter medication became restricted as a result of the Combat Methamphetamine Epidemic Act?",
+    "options": [
+      "dextromethorphan",
+      "guaifenesin",
+      "pseudoephedrine",
+      "ranitidine"
+    ],
+    "answer": 2,
+    "explanation": "The Combat Methamphetamine Epidemic Act of 2005 placed restrictions on the sale of products containing pseudoephedrine, ephedrine, and phenylpropanolamine due to their use in the illegal manufacturing of methamphetamine."
+  },
+  {
+    "text": "Which of the following should a pharmacy technician use when reordering drugs, medical devices, or supplies for the pharmacy?",
+    "options": [
+      "Formulary",
+      "Orange Book",
+      "Red Book",
+      "Want Book"
+    ],
+    "answer": 3,
+    "explanation": "A 'Want Book' is a log or list used by pharmacy staff to keep track of items that are out of stock and need to be ordered."
+  },
+  {
+    "text": "A physician has prescribed Synthroid for a patient and wants the brand name to be dispensed. Which DAW code should the pharmacy technician input?",
+    "options": [
+      "DAW 0",
+      "DAW 1",
+      "DAW 2",
+      "DAW 3"
+    ],
+    "answer": 1,
+    "explanation": "DAW 1 means 'Dispense as Written' by the prescriber. This code is used when the prescriber has indicated on the prescription that they want the brand name drug to be dispensed."
+  },
+  {
+    "text": "Mary Williams is having a prescription filled for alendronate. She is the cardholder on her prescription plan. Which patient code should the pharmacy technician input?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Patient code '0' is typically used to indicate the cardholder or primary subscriber on the insurance plan."
+  },
+  {
+    "text": "When should a medication guide be given to a patient if it is required for a medication?",
+    "options": [
+      "Every time the prescription is dispensed",
+      "First time the prescription is filled",
+      "Only on refills",
+      "When requested by the patient"
+    ],
+    "answer": 0,
+    "explanation": "According to the FDA, a medication guide must be provided to a patient every time a prescription for a medication that requires a medication guide is dispensed."
+  },
+  {
+    "text": "Which of the following prescriptions might require the physician to obtain prior authorization from the managed care organization prior to having it processed at the pharmacy?",
+    "options": [
+      "Lasix",
+      "Norvasc",
+      "Propecia",
+      "Tenormin"
+    ],
+    "answer": 2,
+    "explanation": "Prior authorization is often required for medications that are expensive, used for cosmetic purposes, or have a generic alternative available. Propecia (finasteride) is used for male pattern baldness, which is considered a cosmetic condition, and often requires prior authorization."
+  },
+  {
+    "text": "Which piece of legislation requires that safety data sheet (SDS) documents be provided to the purchaser for hazardous materials?",
+    "options": [
+      "Comprehensive Drug Abuse Prevention and Control Act of 1970",
+      "Pure Food and Drug Act of 1906",
+      "Occupational Safety and Health Act",
+      "Poison Prevention Packaging Act of 1970"
+    ],
+    "answer": 2,
+    "explanation": "The Occupational Safety and Health Act (OSHA) requires employers to provide employees with access to safety data sheets (SDS) for all hazardous chemicals in the workplace."
+  },
+  {
+    "text": "Which of the following is the brand name for escitalopram?",
+    "options": [
+      "Celexa",
+      "Lexapro",
+      "Prozac",
+      "Zoloft"
+    ],
+    "answer": 1,
+    "explanation": "Lexapro is the brand name for escitalopram, a selective serotonin reuptake inhibitor (SSRI) used to treat depression and anxiety."
+  },
+  {
+    "text": "Which of the following is classified as an “exempt” narcotic?",
+    "options": [
+      "acetaminophen with codeine",
+      "guaifenesin with codeine",
+      "loperamide",
+      "lorazepam"
+    ],
+    "answer": 1,
+    "explanation": "Guaifenesin with codeine (e.g., Robitussin AC) is a Schedule V controlled substance, which is also known as an 'exempt' narcotic. It can be sold over the counter in some states but is still subject to certain regulations."
+  },
+  {
+    "text": "A patient is diagnosed with hypertension and is prescribed furosemide. Which of the following medications would be appropriate as an adjunct therapy in this situation?",
+    "options": [
+      "lovastatin",
+      "niacin",
+      "potassium chloride",
+      "warfarin"
+    ],
+    "answer": 2,
+    "explanation": "Furosemide is a loop diuretic that can cause a significant loss of potassium. Therefore, potassium chloride is often prescribed as an adjunct therapy to prevent hypokalemia."
+  },
+  {
+    "text": "What is the infusion rate in gtt/min if a total of 500 mL is infused over 4 hours using a microdrip kit?",
+    "options": [
+      "100 gtt/min",
+      "125 gtt/min",
+      "50 gtt/min",
+      "200 gtt/min"
+    ],
+    "answer": 0,
+    "explanation": "A microdrip kit delivers 60 drops per mL. The total volume is 500 mL. The total time is 4 hours, which is 4 * 60 = 240 minutes. The infusion rate is (500 mL * 60 gtt/mL) / 240 min = 30000 / 240 = 125 gtt/min."
+  },
+  {
+    "text": "A pharmacy technician may perform all of these tasks EXCEPT",
+    "options": [
+      "immunizing patients.",
+      "labeling medication doses, preparing intravenous admixtures, and maintaining the cleanliness of the laminar flow hood.",
+      "maintaining patient records, filling and dispensing routine orders for stock supplies, and preparing routine compounding.",
+      "prepackaging drugs in single dose or unit of use, maintaining inventories of drugs."
+    ],
+    "answer": 0,
+    "explanation": "Immunizing patients is a clinical task that can only be performed by a pharmacist with the proper certification and training. The other options are all tasks that can be performed by a pharmacy technician."
+  },
+  {
+    "text": "Which medication requires registration in the iPledge program?",
+    "options": [
+      "clozapine",
+      "isotretinoin",
+      "oxycontin",
+      "thalidomide"
+    ],
+    "answer": 1,
+    "explanation": "Isotretinoin (Accutane) is a medication used to treat severe acne, but it has a high risk of causing birth defects. Therefore, the iPledge program was developed to ensure that female patients do not become pregnant while taking this medication."
+  },
+  {
+    "text": "At what angle should the bevel of a needle enter the rubber stopper of a vial while performing a straight draw?",
+    "options": [
+      "10-degree angle",
+      "30-degree angle",
+      "45-degree angle",
+      "90-degree angle"
+    ],
+    "answer": 2,
+    "explanation": "The bevel of the needle should enter the rubber stopper of a vial at a 45-degree angle to prevent coring (the cutting of a piece of the rubber stopper)."
+  },
+  {
+    "text": "In which drug schedule is tramadol classified?",
+    "options": [
+      "Schedule II",
+      "Schedule III",
+      "Schedule IV",
+      "Schedule V"
+    ],
+    "answer": 2,
+    "explanation": "Tramadol (Ultram) is an opioid pain medication that is classified as a Schedule IV controlled substance."
+  },
+  {
+    "text": "What action should a pharmacy technician take if a pregnant patient presents a prescription for isotretinoin?",
+    "options": [
+      "Alert the pharmacist of the situation.",
+      "Contact the prescriber regarding the prescription and the patient’s condition.",
+      "Fill the prescription.",
+      "Return the prescription to the patient."
+    ],
+    "answer": 0,
+    "explanation": "A pharmacy technician must alert the pharmacist immediately. Isotretinoin is a highly teratogenic drug, and a pharmacist must verify the patient's enrollment in the iPledge program and ensure all safety protocols are followed."
+  },
+  {
+    "text": "When entering quantities into the pharmacy’s computer, which system should be used?",
+    "options": [
+      "Apothecary",
+      "Avoirdupois",
+      "Household",
+      "Metric"
+    ],
+    "answer": 3,
+    "explanation": "The metric system is the standard system of measurement used in pharmacy and is the only system that should be used when entering quantities into the pharmacy's computer."
+  },
+  {
+    "text": "Which pharmacy reference is a compilation of package inserts?",
+    "options": [
+      "Drug Topics Red Book",
+      "Facts and Comparisons",
+      "Physicians’ Desk Reference",
+      "USP DI"
+    ],
+    "answer": 2,
+    "explanation": "The Physicians' Desk Reference (PDR) is a compilation of drug package inserts from manufacturers. It is a common reference used by healthcare professionals."
+  },
+  {
+    "text": "Calculate the day’s supply for the following prescription:\nProAir HFA 200 inhalations\n2 puffs q4–6 h prn",
+    "options": [
+      "16 days",
+      "20 days",
+      "25 days",
+      "30 days"
+    ],
+    "answer": 1,
+    "explanation": "The patient can take 2 puffs every 4 to 6 hours, which means they could take up to 24 hours / 4 hours = 6 doses per day, or 2 puffs * 6 doses = 12 puffs per day. With 200 inhalations, the day's supply is 200 / 12 = 16.67 days. The closest answer is 16 days. The patient could also take a minimum of 24 hours / 6 hours = 4 doses per day, which would be 8 puffs per day. 200 / 8 = 25 days. Given the question is a bit ambiguous, the maximum is a safer answer. The question says '2 puffs q4-6h prn', so we must assume the worst case scenario of 12 puffs a day. Therefore, the answer should be 16 days. Let's re-examine the question. A 'prn' prescription means 'as needed'. This means we should use the minimum frequency to get the longest possible supply. The correct calculation should be: 200 inhalations / (2 puffs * (24 hours / 6 hours)) = 200 / (2*4) = 200 / 8 = 25 days."
+  },
+  {
+    "text": "Which schedule of medications has no approved medical use in the United States and possesses an extremely high potential for abuse?",
+    "options": [
+      "Schedule I",
+      "Schedule II",
+      "Schedule III",
+      "Schedule IV"
+    ],
+    "answer": 0,
+    "explanation": "Schedule I controlled substances have no accepted medical use in the United States and have a high potential for abuse. Examples include heroin, LSD, and marijuana."
+  },
+  {
+    "text": "A patient is experiencing bronchospasms; which medication is an appropriate treatment?",
+    "options": [
+      "Albuterol",
+      "Azithromycin",
+      "Pantoprazole",
+      "Prednisone"
+    ],
+    "answer": 0,
+    "explanation": "Albuterol is a short-acting beta-agonist that is used to treat acute bronchospasms, a sudden constriction of the muscles in the walls of the bronchioles. The other options are an antibiotic, a proton pump inhibitor, and a corticosteroid."
+  },
+  {
+    "text": "Which of the following abbreviations appears on the Joint Commission’s “Do Not Use” list?",
+    "options": [
+      "Q.O.D",
+      "BID",
+      "PO",
+      "IV"
+    ],
+    "answer": 0,
+    "explanation": "The abbreviation 'Q.O.D' (every other day) is on the Joint Commission's 'Do Not Use' list because it can be easily mistaken for 'Q.D' (every day), leading to a dosing error."
+  },
+  {
+    "text": "Strategies that can be used to help prevent look-alike/sound-alike errors include which of the following?",
+    "options": [
+      "Distraction-free environment",
+      "E-prescribing",
+      "Shelf dividers",
+      "Tall man lettering"
+    ],
+    "answer": 3,
+    "explanation": "Tall man lettering is a strategy used to prevent look-alike/sound-alike errors by highlighting the parts of a drug name that are different, such as 'buPROPion' and 'busPIRone'."
+  },
+  {
+    "text": "Which term refers to an order written for a medication in an outpatient setting?",
+    "options": [
+      "Admission orders",
+      "Medication order",
+      "Prescription",
+      "PRN order"
+    ],
+    "answer": 2,
+    "explanation": "A prescription is a written order for a medication from a prescriber to a pharmacist for a patient in an outpatient setting. An 'order' is typically used in a hospital or inpatient setting."
+  },
+  {
+    "text": "A prescription for alprazolam 0.5 mg with three refills is presented to the pharmacy. How many times can it be transferred to another pharmacy?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "A Schedule IV controlled substance prescription can be transferred only once between two pharmacies. If the pharmacies share an online database, the prescription can be transferred as many times as there are refills."
+  },
+  {
+    "text": "The hospital pharmacy stocks 5000 units/mL. A patient is prescribed 13,000 units of heparin; how many milliliters should the patient receive?",
+    "options": [
+      "1 mL",
+      "2.6 mL",
+      "5 mL",
+      "5.2 mL"
+    ],
+    "answer": 1,
+    "explanation": "The calculation is: 13,000 units / 5000 units/mL = 2.6 mL."
+  },
+  {
+    "text": "You have completed filling a prescription for 40 tablets of penicillin VK to be taken four times a day by the patient. Prior to filling the next prescription, which substance should be used to clean the counting tray?",
+    "options": [
+      "Bleach",
+      "Hydrogen peroxide",
+      "70% isopropyl alcohol",
+      "95% ethyl alcohol"
+    ],
+    "answer": 2,
+    "explanation": "A 70% isopropyl alcohol solution is the most commonly used disinfectant for cleaning counting trays and other pharmacy equipment. It is effective at killing bacteria and other microorganisms."
+  },
+  {
+    "text": "What is the meaning of the acronym HEPA?",
+    "options": [
+      "Healthy particulate air",
+      "Hepatitis",
+      "High-efficiency particulate air",
+      "Highly energized particulate air"
+    ],
+    "answer": 2,
+    "explanation": "HEPA stands for 'High-Efficiency Particulate Air.' A HEPA filter is a type of air filter that is used in laminar airflow hoods to remove 99.97% of particles that are 0.3 microns or larger."
+  },
+  {
+    "text": "All of the following are required to be on a sterile compound label EXCEPT",
+    "options": [
+      "date filled.",
+      "expiration date.",
+      "infusion rate.",
+      "total volume."
+    ],
+    "answer": 0,
+    "explanation": "A sterile compound label must include the expiration date, infusion rate, and total volume. The date it was filled is not required, as long as the expiration date is present."
+  },
+  {
+    "text": "Which of the following insulins is classified as long acting?",
+    "options": [
+      "Aspart",
+      "Glargine",
+      "Glulisine",
+      "Lispro"
+    ],
+    "answer": 1,
+    "explanation": "Insulin glargine (Lantus) is a long-acting insulin with a duration of action of up to 24 hours. The other options are all rapid-acting insulins."
+  },
+  {
+    "text": "What term refers to the document describing a purchase made by the pharmacy and the amount due to the vendor?",
+    "options": [
+      "Invoice",
+      "Packing slip",
+      "Prime vendor agreement",
+      "Purchase order"
+    ],
+    "answer": 0,
+    "explanation": "An invoice is a document that is sent from a vendor to a pharmacy that describes the products that were purchased and the amount of money that is owed to the vendor."
+  },
+  {
+    "text": "Which condition is being treated when a patient receives a prescription of metformin?",
+    "options": [
+      "Arrhythmia",
+      "Chronic obstructive pulmonary disease",
+      "Type 1 diabetes",
+      "Epilepsy"
+    ],
+    "answer": 2,
+    "explanation": "Metformin is an oral antidiabetic medication that is used to treat type 2 diabetes by lowering blood glucose levels. The other options are incorrect."
+  },
+  {
+    "text": "When repackaging a medication, all of the following must appear on the label EXCEPT",
+    "options": [
+      "Beyond-use date.",
+      "Lot number.",
+      "Name of medication.",
+      "NDC number."
+    ],
+    "answer": 3,
+    "explanation": "The NDC number is not required on the label of a repackaged medication, but the beyond-use date, lot number, and name of the medication are all required to be on the label."
+  },
+  {
+    "text": "Which of the following routes of administration involve injecting the medication directly into the fatty layer below the skin’s surface?",
+    "options": [
+      "Epidural",
+      "Intramuscular",
+      "Intravenous",
+      "Subcutaneous"
+    ],
+    "answer": 3,
+    "explanation": "A subcutaneous (SC) injection is an injection into the fatty layer of tissue just below the skin. Examples include insulin and heparin injections."
+  },
+  {
+    "text": "Which type of container protects the contents from contamination by liquids, solids, or vapors?",
+    "options": [
+      "Hermetic container",
+      "Light-resistant container",
+      "Tight container",
+      "Well-closed container"
+    ],
+    "answer": 0,
+    "explanation": "A hermetic container is a container that is impervious to air and other gases, which prevents contamination by liquids, solids, or vapors."
+  },
+  {
+    "text": "A physician prescribes the following. How many days will the prescription last?\nFlovent HFA 110 mcg\n120 actuations\n2–4 puffs BID",
+    "options": [
+      "10 days",
+      "15 days",
+      "25 days",
+      "30 days"
+    ],
+    "answer": 1,
+    "explanation": "The patient takes 2 to 4 puffs twice a day (BID). The maximum number of puffs per day is 4 * 2 = 8 puffs. The prescription is for 120 actuations. The day's supply is 120 actuations / 8 puffs per day = 15 days."
+  },
+  {
+    "text": "A pharmacy has received a drug recall from Your Drug Manufacturer for a medication. The pharmacy technician has been asked to determine if the pharmacy has any of the recalled medication in stock. Which of the following should the technician use in identifying if any of the recalled medication is in stock?",
+    "options": [
+      "Drug name and NDC",
+      "Drug strength and lot number",
+      "Lot number and NDC number",
+      "Manufacturer and lot number"
+    ],
+    "answer": 3,
+    "explanation": "To identify a recalled medication, a pharmacy technician should use the manufacturer and lot number. The lot number is a unique number that identifies a specific batch of a product and is used to track it in the event of a recall."
+  },
+  {
+    "text": "An advantage of a centralized automation in a hospital pharmacy is which of the following?",
+    "options": [
+      "Improved accuracy based on bar code recognition",
+      "Dispensing functions in batch mode instead of “on demand”",
+      "Reduced order turnaround time by moving inventory to point of care",
+      "Capability of stocking specific types of drugs, such as injectable, bulk, or refrigerated items"
+    ],
+    "answer": 0,
+    "explanation": "A centralized automation system in a hospital pharmacy, such as a robotic dispensing system, can improve accuracy by using bar code recognition to verify that the correct drug is being dispensed."
+  },
+  {
+    "text": "The pharmacy technician is cleaning a horizontal laminar airflow workbench and observes signs of a crystalized solution on the workbench. Which of the following should be used in removing this stain?",
+    "options": [
+      "Hydrogen peroxide",
+      "Povidone iodine",
+      "Sterile water",
+      "70% IPA"
+    ],
+    "answer": 2,
+    "explanation": "Sterile water should be used to remove any crystalized solution from the workbench. After the stain is removed, the workbench should be disinfected with a 70% isopropyl alcohol solution."
+  },
+  {
+    "text": "What is the generic name for Synthroid?",
+    "options": [
+      "levothyroxine",
+      "liothyronine",
+      "methimazole",
+      "propylthiouracil"
+    ],
+    "answer": 0,
+    "explanation": "Levothyroxine is the generic name for Synthroid, a medication used to treat hypothyroidism."
+  },
+  {
+    "text": "Interpret the following signa:\n1 cap po qid ac and hs",
+    "options": [
+      "Take one capsule by mouth four times a day before meals and at bedtime.",
+      "Take one capsule by mouth four times a day after meals and at bedtime.",
+      "Take one tablet by mouth three times a day before meals and at bedtime.",
+      "Take one tablet by mouth three times a day after meals and at bedtime."
+    ],
+    "answer": 0,
+    "explanation": "The signa '1 cap po qid ac and hs' translates to 'Take one capsule by mouth (po) four times a day (qid) before meals (ac) and at bedtime (hs).'"
+  },
+  {
+    "text": "A patient is asking for a recommendation for an over-the-counter analgesic. Who can make this recommendation?",
+    "options": [
+      "Pharmacy cashier",
+      "Pharmacy technician",
+      "Pharmacist",
+      "All of the above"
+    ],
+    "answer": 2,
+    "explanation": "Only a pharmacist can make a recommendation for an over-the-counter medication. A pharmacy technician can only assist a patient in locating a medication but cannot make a recommendation."
+  },
+  {
+    "text": "Which of the following medications is indicated for hyperlipidemia?",
+    "options": [
+      "losartan",
+      "pravastatin",
+      "trazodone",
+      "verapamil"
+    ],
+    "answer": 1,
+    "explanation": "Pravastatin is a statin medication that is used to treat hyperlipidemia, or high cholesterol. The other options are an antihypertensive, an antidepressant, and a calcium channel blocker, respectively."
+  },
+  {
+    "text": "All of the following are true regarding decentralized automated dispensing systems EXCEPT",
+    "options": [
+      "they are designed to solve medication management problems, such as lost billing charges, pilferage, narcotic diversion, and poor record keeping.",
+      "they are located in patient care units and often contain floor stock medication, supplies, and controlled substances.",
+      "they are used to dispense medications, return medications, and record medication waste.",
+      "they are used to improve manual filling of unit dose carts."
+    ],
+    "answer": 3,
+    "explanation": "Decentralized automated dispensing systems are not used to improve manual filling of unit dose carts. They are designed to automate the process of dispensing medications and are located in patient care units to provide immediate access to medications."
+  },
+  {
+    "text": "An oral syringe is available in all of the following sizes EXCEPT",
+    "options": [
+      "1 mL.",
+      "5 mL.",
+      "10 mL.",
+      "20 mL."
+    ],
+    "answer": 3,
+    "explanation": "Oral syringes are available in various sizes, including 1 mL, 5 mL, and 10 mL. While other sizes exist, 20 mL is not a standard size for an oral syringe, which is designed for smaller, precise doses."
+  },
+  {
+    "text": "Which part of a prescription contains the “Rx” symbol?",
+    "options": [
+      "Inscription",
+      "Subscription",
+      "Superscription",
+      "Signa"
+    ],
+    "answer": 2,
+    "explanation": "The 'Rx' symbol is located in the 'superscription' part of a prescription, which is the section that contains the patient's information and the date."
+  },
+  {
+    "text": "A pharmacy technician observes the abbreviation “SWFI” on a medication order. What does it mean?",
+    "options": [
+      "Distilled water",
+      "Dextrose 10% in sterile water",
+      "Normal saline",
+      "Sterile water for injection"
+    ],
+    "answer": 3,
+    "explanation": "SWFI is the abbreviation for 'Sterile water for injection,' which is a sterile, nonpyrogenic, single-use diluent for drugs that are to be administered by injection."
+  },
+  {
+    "text": "Which of the following is the most accurate method in calculating the dose for a pediatric patient?",
+    "options": [
+      "Body surface area",
+      "Clark’s rule",
+      "Fried’s rule",
+      "Young’s rule"
+    ],
+    "answer": 0,
+    "explanation": "Body surface area (BSA) is the most accurate method for calculating the dose for a pediatric patient. It takes into account both the patient's height and weight, which provides a more accurate dose."
+  },
+  {
+    "text": "Which legislation requires covered entities to establish safeguards to protect PHI?",
+    "options": [
+      "HIPAA Electronic Health Care Transactions and Code Sets Standard",
+      "HIPAA Privacy Rule",
+      "HIPAA Security Rule",
+      "HIPAA Transaction Rule"
+    ],
+    "answer": 2,
+    "explanation": "The HIPAA Security Rule requires covered entities to establish administrative, physical, and technical safeguards to protect the confidentiality, integrity, and availability of electronic protected health information (ePHI)."
+  },
+  {
+    "text": "A prescription is written as “metronidazole 500 mg PO q 8 hours for 10 days.” The pharmacy has only metronidazole 250 mg tablets in stock. How many tablets should be dispensed?",
+    "options": [
+      "30 tablets",
+      "45 tablets",
+      "60 tablets",
+      "90 tablets"
+    ],
+    "answer": 2,
+    "explanation": "The patient is to take 500 mg every 8 hours, which means they will take 3 doses per day. Each dose is 500 mg, which is 2 tablets of 250 mg. The total number of tablets is 2 tablets per dose * 3 doses per day * 10 days = 60 tablets."
+  },
+  {
+    "text": "A prescriber orders 1 liter of medication to be infused over 8 hours using a 10 gtt/mL kit beginning at 0900. What is the infusion rate in gtt/min?",
+    "options": [
+      "2 gtt/min",
+      "21 gtt/min",
+      "125 gtt/min",
+      "167 gtt/min"
+    ],
+    "answer": 1,
+    "explanation": "The total volume is 1000 mL (1 liter). The total time is 8 hours, which is 8 * 60 = 480 minutes. The infusion rate is (1000 mL * 10 gtt/mL) / 480 min = 10000 / 480 = 20.83 gtt/min. The closest answer is 21 gtt/min."
+  },
+  {
+    "text": "If a pharmacy technician encounters an incorrect drug dosage during a prospective utilization review what should they do?",
+    "options": [
+      "Contact the physician about the dose.",
+      "Evaluate the drug dose.",
+      "Inform the pharmacist.",
+      "Return the prescription to the patient."
+    ],
+    "answer": 2,
+    "explanation": "A pharmacy technician is not authorized to contact a physician about a drug dose or to evaluate a drug dose. They should immediately inform the pharmacist, who is legally responsible for the patient's care."
+  },
+  {
+    "text": "Reducing medication errors can best be accomplished by which of the following methods?",
+    "options": [
+      "Assume the error was an isolated situation.",
+      "Educate the pharmacy staff.",
+      "Redesign pharmacy systems and processes that lead to errors.",
+      "Reprimand pharmacy staff for errors discovered."
+    ],
+    "answer": 2,
+    "explanation": "Redesigning pharmacy systems and processes is the most effective way to reduce medication errors. This is a systems-based approach that addresses the root cause of errors, rather than blaming individuals."
+  },
+  {
+    "text": "A patient has been diagnosed with depression and has obsessive-compulsive behavior. Which drug classification may be prescribed?",
+    "options": [
+      "NRTIs",
+      "NSAIDs",
+      "PPIs",
+      "SSRIs"
+    ],
+    "answer": 3,
+    "explanation": "Selective serotonin reuptake inhibitors (SSRIs) are a class of antidepressants that are also used to treat obsessive-compulsive disorder (OCD) and other anxiety disorders."
+  },
+  {
+    "text": "A patient presents a new prescription for Coumadin. Which DAW code should be assigned to the prescription if DAW is written on the prescription?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "DAW 1 means 'Dispense as Written' by the prescriber. This code is used when the prescriber has indicated on the prescription that they want the brand name drug to be dispensed."
+  },
+  {
+    "text": "A patient is prescribed Humalog insulin 50 units/day. How many days will 10 mL last?",
+    "options": [
+      "10 days",
+      "20 days",
+      "25 days",
+      "30 days"
+    ],
+    "answer": 1,
+    "explanation": "Humalog insulin is available in a concentration of 100 units/mL. So, a 10 mL vial contains 10 mL * 100 units/mL = 1000 units. The patient takes 50 units per day, so the vial will last for 1000 units / 50 units per day = 20 days."
+  },
+  {
+    "text": "The abbreviation “OD” means which of the following?",
+    "options": [
+      "Left ear",
+      "Left eye",
+      "Right ear",
+      "Right eye"
+    ],
+    "answer": 3,
+    "explanation": "OD is the abbreviation for 'oculus dexter,' which is Latin for 'right eye.' The other options are OS (left eye), AD (right ear), and AS (left ear)."
+  },
+  {
+    "text": "Which of the following workplace issues may contribute to a prescription error?",
+    "options": [
+      "Filling one prescription at a time",
+      "Medication labels that use multiple colors and font sizes",
+      "Multitasking",
+      "Quiet work environment"
+    ],
+    "answer": 2,
+    "explanation": "Multitasking can lead to medication errors because it can lead to a loss of focus and attention to detail. The other options are all strategies that can help to prevent medication errors."
+  },
+  {
+    "text": "Which of the following should be used in cleaning the critical site of a vial?",
+    "options": [
+      "Hydrogen peroxide",
+      "Povidone iodine",
+      "Sodium hypochlorite",
+      "70% IPA"
+    ],
+    "answer": 3,
+    "explanation": "A 70% isopropyl alcohol (IPA) solution is the most commonly used disinfectant for cleaning the critical site of a vial. It is effective at killing bacteria and other microorganisms."
+  },
+  {
+    "text": "Which of the following automatic dispensing systems would be found in a hospital pharmacy?",
+    "options": [
+      "Kirby Lester",
+      "Parata",
+      "Pyxis",
+      "Script Pro"
+    ],
+    "answer": 2,
+    "explanation": "Pyxis is a brand of automated dispensing systems that are commonly used in hospital pharmacies to store and dispense medications and supplies."
+  },
+  {
+    "text": "All of the following would be appropriate auxiliary labels to be included on a prescription for sulfamethoxazole/trimethoprim suspension EXCEPT",
+    "options": [
+      "Refrigerate.",
+      "Shake well.",
+      "Take until completed.",
+      "Use sunscreen."
+    ],
+    "answer": 0,
+    "explanation": "A sulfamethoxazole/trimethoprim suspension does not need to be refrigerated. It is a sulfonamide antibiotic that is associated with an increased risk of sunburn, so a 'use sunscreen' label is appropriate. It is also important to 'shake well' and 'take until completed'."
+  },
+  {
+    "text": "A patient has been instructed to take their medication at 1400 hours; when should they take their medicine?",
+    "options": [
+      "4 am",
+      "2 pm",
+      "4 pm",
+      "6 pm"
+    ],
+    "answer": 1,
+    "explanation": "The 24-hour clock (military time) is used in healthcare settings to prevent confusion between am and pm. 1400 hours is 2 pm."
+  },
+  {
+    "text": "Who is responsible for developing the REMS for a medication?",
+    "options": [
+      "Centers for Medicare and Medicaid Services",
+      "Drug sponsors",
+      "Food and Drug Administration",
+      "Occupational Safety and Health Administration"
+    ],
+    "answer": 1,
+    "explanation": "Drug sponsors (pharmaceutical companies) are responsible for developing a Risk Evaluation and Mitigation Strategy (REMS) for a medication. The FDA then reviews and approves the REMS."
+  },
+  {
+    "text": "Which of the following is the generic name for Januvia?",
+    "options": [
+      "glimepiride",
+      "glipizide",
+      "glyburide",
+      "sitagliptin"
+    ],
+    "answer": 3,
+    "explanation": "Sitagliptin is the generic name for Januvia, an oral antidiabetic medication that is used to treat type 2 diabetes."
+  },
+  {
+    "text": "All of the following may be found on a patient’s prescription insurance card EXCEPT",
+    "options": [
+      "billing identification number.",
+      "contracted pricing schedule.",
+      "help desk telephone number.",
+      "member’s plan number."
+    ],
+    "answer": 1,
+    "explanation": "A patient's prescription insurance card will include information necessary for billing, such as the member's plan number, a billing identification number, and a help desk telephone number. It does not include the contracted pricing schedule."
+  },
+  {
+    "text": "When withdrawing 6 mL of solution from a vial, which size syringe should the pharmacy technician select?",
+    "options": [
+      "5 mL",
+      "10 ml",
+      "20 mL",
+      "30 mL"
+    ],
+    "answer": 1,
+    "explanation": "When withdrawing a specific volume of solution, the smallest syringe that can accommodate the volume should be used to ensure accuracy. A 10 mL syringe is the most appropriate size for withdrawing 6 mL."
+  },
+  {
+    "text": "All of the following organizations track medication errors EXCEPT",
+    "options": [
+      "CMS",
+      "CDC",
+      "FDA",
+      "USP"
+    ],
+    "answer": 2,
+    "explanation": "The CDC is a federal agency that focuses on public health and disease control. The other organizations (CMS, FDA, and USP) are all involved in tracking and preventing medication errors."
+  },
+  {
+    "text": "Which size graduate syringe should a pharmacy technician use when measuring 4 mL of a solution?",
+    "options": [
+      "10 mL",
+      "50 mL",
+      "100 mL",
+      "200 mL"
+    ],
+    "answer": 0,
+    "explanation": "To ensure accuracy, the smallest graduate syringe that can accommodate the volume should be used. A 10 mL graduate syringe is the most appropriate size for measuring 4 mL of a solution."
+  },
+  {
+    "text": "A patient has been diagnosed with hypertension and the prescriber wishes to prescribe a beta-blocker. Which of the following medications would be prescribed?",
+    "options": [
+      "amlodipine",
+      "lisinopril",
+      "metoprolol",
+      "valsartan"
+    ],
+    "answer": 2,
+    "explanation": "Metoprolol is a beta-blocker that is used to treat high blood pressure (hypertension) and other heart conditions. The other options are a calcium channel blocker, an ACE inhibitor, and an angiotensin II receptor blocker, respectively."
+  },
+  {
+    "text": "All of the following are found in a patient profile EXCEPT",
+    "options": [
+      "allergies.",
+      "insurance information.",
+      "prescription history.",
+      "social security number."
+    ],
+    "answer": 3,
+    "explanation": "A patient profile includes all the information necessary for a pharmacist to safely and accurately fill a prescription, such as allergies, insurance information, and prescription history. A social security number is not typically included."
+  },
+  {
+    "text": "Which of the following medications is indicated for asthma and chronic obstructive pulmonary disease?",
+    "options": [
+      "cromolyn",
+      "fluticasone/salmeterol",
+      "guaifenesin",
+      "prednisone"
+    ],
+    "answer": 1,
+    "explanation": "Fluticasone/salmeterol (Advair) is a combination of a corticosteroid and a long-acting beta-agonist that is used to treat asthma and chronic obstructive pulmonary disease (COPD)."
+  },
+  {
+    "text": "To which of the following chapters of the USP/NF would a pharmacy technician refer to find information regarding the disposal of hazardous drugs?",
+    "options": [
+      "USP ,790.",
+      "USP ,795.",
+      "USP ,797.",
+      "USP ,800."
+    ],
+    "answer": 3,
+    "explanation": "USP <800> is a chapter of the United States Pharmacopeia (USP) that provides standards for the safe handling of hazardous drugs."
+  },
+  {
+    "text": "With what frequency should a counter in an ISO 5 environment be cleaned?",
+    "options": [
+      "Hourly",
+      "Daily",
+      "Weekly",
+      "Monthly"
+    ],
+    "answer": 0,
+    "explanation": "A counter in an ISO 5 environment (e.g., a laminar airflow workbench) should be cleaned at the beginning of each shift and hourly thereafter, as well as whenever a spill occurs."
+  },
+  {
+    "text": "A prescription is written for timolol ophthalmic solution 0.5% 5 mL where the patient is to instill 1 gtt ou BID. How many days will this prescription last?",
+    "options": [
+      "10 days",
+      "25 days",
+      "50 days",
+      "60 days"
+    ],
+    "answer": 2,
+    "explanation": "The prescription calls for 1 gtt (drop) in 'ou' (both eyes) twice a day (BID). This is a total of 4 drops per day. There are 20 drops in 1 mL, so a 5 mL bottle contains 5 mL * 20 drops/mL = 100 drops. The day's supply is 100 drops / 4 drops per day = 25 days."
+  },
+  {
+    "text": "What classification is citalopram?",
+    "options": [
+      "MAOI",
+      "SNRI",
+      "SSRI",
+      "TCA"
+    ],
+    "answer": 2,
+    "explanation": "Citalopram (Celexa) is a selective serotonin reuptake inhibitor (SSRI), a class of antidepressants that work by increasing the levels of serotonin in the brain."
+  },
+  {
+    "text": "A physician prescribes pantoprazole to a patient for GERD; which is the meaning of GERD?",
+    "options": [
+      "Gastric endoscopic reflux disease",
+      "Gastric endoscopic reflux disorder",
+      "Gastroesophageal reflux disease",
+      "Gastroesophageal reflux disorder"
+    ],
+    "answer": 2,
+    "explanation": "GERD is the abbreviation for 'Gastroesophageal reflux disease,' a condition where stomach acid flows back into the esophagus."
+  },
+  {
+    "text": "The pharmacy technician is to prepare 500-mg capsules. Which size capsule should be used?",
+    "options": [
+      "Size 000",
+      "Size 00",
+      "Size 0",
+      "Size 1"
+    ],
+    "answer": 1,
+    "explanation": "A Size 00 capsule is the most appropriate size for a 500 mg dose. A Size 000 capsule can hold more than 500 mg, and a Size 0 or 1 capsule would not be able to hold 500 mg."
+  },
+  {
+    "text": "Which of the following can be done to ensure medications are secure in the pharmacy?",
+    "options": [
+      "Eliminate panic buttons.",
+      "Limit access to the pharmacy.",
+      "Permit pharmacy employees to keep personal belongings in the pharmacy.",
+      "Use low-resolution cameras in the pharmacy."
+    ],
+    "answer": 1,
+    "explanation": "Limiting access to the pharmacy is one of the most effective ways to ensure that medications are secure. This can be done by using a key card system, a coded lock, or a biometric scanner."
+  },
+  {
+    "text": "According to the American Geriatrics Society Beers Criteria for Potentially Inappropriate Medication Use in Older Adults due to drug–disease or drug–syndrome interactions, which drug classification may exacerbate heart failure in these patients?",
+    "options": [
+      "Anticholinergics",
+      "Antiemetics",
+      "Benzodiazepines",
+      "NSAIDS"
+    ],
+    "answer": 3,
+    "explanation": "NSAIDs can cause fluid retention and increase blood pressure, which can worsen heart failure in older adults. Therefore, they should be used with caution or avoided in patients with this condition."
+  },
+  {
+    "text": "A prescription for a diuretic has been prescribed for a 72-year-old male patient. What should the pharmacy technician do?",
+    "options": [
+      "Call the physician.",
+      "Fill the prescription.",
+      "Inform the patient they should not be taking a diuretic.",
+      "Inform the pharmacist of the situation."
+    ],
+    "answer": 3,
+    "explanation": "A pharmacy technician should not make a clinical judgment about whether a medication is appropriate for a patient. They should immediately inform the pharmacist of the situation so that the pharmacist can perform a drug utilization review."
+  },
+  {
+    "text": "An order is presented to the pharmacy calling for an IV solution to be compounded in D5W; which IV should be used?",
+    "options": [
+      "Dextrose 5% in water",
+      "Dextrose 5% in sterile water",
+      "Ringers solution",
+      "1/2 Normal saline solution"
+    ],
+    "answer": 0,
+    "explanation": "D5W is the abbreviation for 'Dextrose 5% in water.' It is a common intravenous fluid that is used as a diluent for many medications."
+  },
+  {
+    "text": "What is the meaning of the abbreviation of SL in the following signa: 1 tab SL prn angina?",
+    "options": [
+      "Between the cheeks",
+      "Swallowed",
+      "Under the skin",
+      "Under the tongue"
+    ],
+    "answer": 3,
+    "explanation": "SL is the abbreviation for 'sublingual,' which means 'under the tongue.' A sublingual tablet is placed under the tongue and allowed to dissolve, which allows the medication to be absorbed directly into the bloodstream."
+  },
+  {
+    "text": "According to the Controlled Substance Act, how long must controlled substance invoices be maintained by a pharmacy?",
+    "options": [
+      "1 year",
+      "2 years",
+      "7 years",
+      "10 years"
+    ],
+    "answer": 1,
+    "explanation": "According to the Controlled Substance Act (CSA), pharmacies must maintain records of controlled substance transactions for at least two years."
+  },
+  {
+    "text": "If a prescriber does not want a proprietary drug to be substituted with a generic drug, how would this be indicated on the prescription?",
+    "options": [
+      "DW",
+      "DAW",
+      "PRN",
+      "STAT"
+    ],
+    "answer": 1,
+    "explanation": "DAW is the abbreviation for 'Dispense as Written.' It is an indication from the prescriber that they do not want a generic substitution to be made."
+  },
+  {
+    "text": "A patient is complaining of muscle spasms; which medication is an appropriate treatment?",
+    "options": [
+      "cyclobenzaprine",
+      "escitalopram",
+      "fenofibrate",
+      "tamsulosin"
+    ],
+    "answer": 0,
+    "explanation": "Cyclobenzaprine (Flexeril) is a muscle relaxant that is used to treat muscle spasms. The other options are an antidepressant, a cholesterol-lowering medication, and a medication for an enlarged prostate."
+  },
+  {
+    "text": "Which condition is pseudoephedrine indicated?",
+    "options": [
+      "Congestion",
+      "Diarrhea",
+      "GERD",
+      "Rhinitis"
+    ],
+    "answer": 0,
+    "explanation": "Pseudoephedrine is a decongestant that is used to relieve nasal and sinus congestion."
+  },
+  {
+    "text": "Which body system is treated using metformin?",
+    "options": [
+      "Circulatory",
+      "Endocrine",
+      "Gastrointestinal",
+      "Hematological"
+    ],
+    "answer": 1,
+    "explanation": "Metformin is an oral antidiabetic medication that is used to treat type 2 diabetes, a condition that affects the endocrine system."
+  },
+  {
+    "text": "A prescription is presented for amoxicillin 250mg/5 mL where the patient is to receive 5 mL PO TID for 10 days. What volume should be dispensed?",
+    "options": [
+      "75 mL",
+      "100 mL",
+      "150 mL",
+      "200 mL"
+    ],
+    "answer": 1,
+    "explanation": "The patient is to receive 5 mL three times a day (TID) for 10 days. The total volume is 5 mL * 3 doses/day * 10 days = 150 mL."
+  },
+  {
+    "text": "What is the maximum number of refills permitted for a prescription of isotretinoin?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "A prescription for isotretinoin (Accutane) cannot have any refills. The patient must have a new prescription written by their doctor each time they need a refill."
+  },
+  {
+    "text": "Which of the following is an example of Schedule III medication?",
+    "options": [
+      "anabolic steroids",
+      "diphenoxylate with atropine",
+      "tramadol",
+      "zolpidem"
+    ],
+    "answer": 0,
+    "explanation": "Anabolic steroids are classified as Schedule III controlled substances. The other options are a Schedule V, Schedule IV, and Schedule IV, respectively."
+  },
+  {
+    "text": "Which solution should be used in disinfecting a laminar airflow workbench?",
+    "options": [
+      "Betadine solution",
+      "Bleach",
+      "70% Isopropyl alcohol",
+      "95% Isopropyl alcohol"
+    ],
+    "answer": 2,
+    "explanation": "A 70% isopropyl alcohol solution is the most commonly used disinfectant for a laminar airflow workbench. It is effective at killing bacteria and other microorganisms."
+  },
+  {
+    "text": "A decimal point error could be attributed to which of the following numbers?",
+    "options": [
+      "0.5",
+      "1.0",
+      "1.5",
+      "100"
+    ],
+    "answer": 0,
+    "explanation": "The number '0.5' can be easily mistaken for '5' if the decimal point is not clearly visible. The other options are not as likely to be misread as a different number."
+  },
+  {
+    "text": "All of the following tasks may be performed by a pharmacy technician EXCEPT",
+    "options": [
+      "cleaning the laminar airflow workbench.",
+      "performing drug utilization review.",
+      "repackaging medications.",
+      "restocking medications."
+    ],
+    "answer": 1,
+    "explanation": "A pharmacy technician cannot perform a drug utilization review (DUR). A DUR is a professional review by a pharmacist of a patient's drug therapy to ensure it is appropriate and safe."
+  }
+]

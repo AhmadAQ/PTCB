@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What substance should be used to disinfect gloves after being in contact with nonsterile objects?",
+    "options": [
+      "Distilled water",
+      "Sterile water",
+      "70% IPA",
+      "90% IPA"
+    ],
+    "answer": 2,
+    "explanation": "70% isopropyl alcohol (IPA) is a common and effective disinfectant for cleaning gloves and surfaces in a pharmacy setting."
+  },
+  {
+    "text": "What is the maximum number of refills allowed for a lorazepam prescription?",
+    "options": [
+      "None",
+      "One",
+      "Five",
+      "Unlimited"
+    ],
+    "answer": 2,
+    "explanation": "Lorazepam is a Schedule IV controlled substance. Federal law limits refills for Schedule III, IV, and V drugs to a maximum of five refills within six months from the date the prescription was written."
+  },
+  {
+    "text": "Which interpretation of the following instructions is correct? 30-mL MOM PO ac and hs prn",
+    "options": [
+      "Take one teaspoonful of milk of magnesia by mouth before meals and at bedtime as needed.",
+      "Take one tablespoonful of milk of magnesia by mouth after meals and at bedtime as needed.",
+      "Take 30 mL (1 oz) of milk of magnesia by mouth after meals and at bedtime as needed.",
+      "Take 30 mL (1 oz) of milk of magnesia by mouth before meals and at bedtime as needed."
+    ],
+    "answer": 3,
+    "explanation": "'30-mL' is the volume. 'MOM' stands for Milk of Magnesia. 'PO' means by mouth. 'ac' means before meals. 'hs' means at bedtime. 'prn' means as needed."
+  },
+  {
+    "text": "Which of the following medications may require a patient to take a potassium supplement?",
+    "options": [
+      "hydrochlorothiazide",
+      "lisinopril",
+      "simvastatin",
+      "spironolactone"
+    ],
+    "answer": 0,
+    "explanation": "Hydrochlorothiazide is a thiazide diuretic, which can cause potassium to be excreted from the body, leading to hypokalemia. Patients on this medication may need potassium supplements."
+  },
+  {
+    "text": "Which of the following drugs is a Schedule II drug?",
+    "options": [
+      "acetaminophen with codeine",
+      "alprazolam",
+      "methylphenidate",
+      "zolpidem"
+    ],
+    "answer": 2,
+    "explanation": "Methylphenidate (Ritalin) is a central nervous system stimulant and is classified as a Schedule II controlled substance. Acetaminophen with codeine is a Schedule III, alprazolam is a Schedule IV, and zolpidem is a Schedule IV."
+  },
+  {
+    "text": "A patient receiving warfarin fails to have their INR/PT checked; what type of medication error is this?",
+    "options": [
+      "Compliance error",
+      "Improper storage error",
+      "Monitoring error",
+      "Unauthorized drug error"
+    ],
+    "answer": 2,
+    "explanation": "A monitoring error occurs when a necessary laboratory test, such as an INR/PT for a patient on warfarin, is not performed as required to ensure the medication is safe and effective."
+  },
+  {
+    "text": "When a pharmacy technician is performing geometric dilution, when does the technician add the most potent ingredient?",
+    "options": [
+      "Any time",
+      "As the first ingredient",
+      "As the last ingredient",
+      "Intermittently during the compounding process"
+    ],
+    "answer": 1,
+    "explanation": "In geometric dilution, the most potent or smallest quantity ingredient is placed in the mortar first. This is then diluted with an equal amount of the base, and this process is repeated to ensure a homogeneous mix."
+  },
+  {
+    "text": "A pharmacy technician is preparing heparin 25,000 units in 500 mL of D5W. Which concentration should appear on the label?",
+    "options": [
+      "50 units/mL",
+      "75 units/mL",
+      "100 units/mL",
+      "125 units/mL"
+    ],
+    "answer": 0,
+    "explanation": "The concentration is calculated by dividing the total units by the total volume: 25,000 units / 500 mL = 50 units/mL."
+  },
+  {
+    "text": "What do the three sets of numbers in a National Drug Code (NDC) number reflect?",
+    "options": [
+      "Drug manufacturer, drug product, and the year the New Drug Application (NDA) was filed",
+      "Drug manufacturer, drug product, and drug schedule",
+      "Drug manufacturer, drug name, and drug strength",
+      "Drug manufacturer, drug product, and package size"
+    ],
+    "answer": 3,
+    "explanation": "The first set of numbers identifies the manufacturer, the second set identifies the specific drug product (strength, dosage form, and formulation), and the third set identifies the package size and type."
+  },
+  {
+    "text": "Which condition is indicated for a patient presenting a prescription for Travoprost to be filled?",
+    "options": [
+      "Glaucoma",
+      "Ocular inflammation",
+      "Otitis media",
+      "Vertigo"
+    ],
+    "answer": 0,
+    "explanation": "Travoprost is a prostaglandin analog used to reduce elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension."
+  },
+  {
+    "text": "Which is the generic name for the brand name drug Augmentin?",
+    "options": [
+      "amoxicillin/clavulanate",
+      "cephalexin",
+      "sulfamethoxazole/trimethoprim",
+      "sulfadiazine"
+    ],
+    "answer": 0,
+    "explanation": "Augmentin is a combination antibiotic composed of amoxicillin and clavulanate potassium."
+  },
+  {
+    "text": "According to the USP, what temperature is considered a warm temperature?",
+    "options": [
+      "8° C",
+      "8° to 15° C",
+      "15° to 30° C",
+      "30° to 40° C"
+    ],
+    "answer": 3,
+    "explanation": "The USP defines warm temperature as 30° to 40°C (86° to 104°F)."
+  },
+  {
+    "text": "Which DEA Form is required for a pharmacy to dispense controlled substances?",
+    "options": [
+      "DEA form 222",
+      "DEA form 224",
+      "DEA form 225",
+      "DEA form 363"
+    ],
+    "answer": 1,
+    "explanation": "DEA Form 224 is the application for a new registration to dispense controlled substances. DEA Form 222 is for ordering Schedule I and II drugs, and DEA Form 41 is for the destruction of controlled substances."
+  },
+  {
+    "text": "What is MedWatch?",
+    "options": [
+      "A program that identifies controlled substances being overprescribed in areas where there has been an outbreak of heroin overdoses",
+      "A reporting program available to pharmacies indicating physicians who may be overprescribing narcotics",
+      "A reporting program available to health care providers to report adverse events that pose serious health threats",
+      "A service established by the AARP to monitor polypharmacy in elderly adults"
+    ],
+    "answer": 2,
+    "explanation": "MedWatch is the FDA's safety information and adverse event reporting program. It is a tool for healthcare professionals and the public to report serious problems suspected with medical products, including medications."
+  },
+  {
+    "text": "How many days would a prescription of 60 tablets last if the directions were “i tab PO qid ac”?",
+    "options": [
+      "10 days",
+      "15 days",
+      "20 days",
+      "30 days"
+    ],
+    "answer": 1,
+    "explanation": "The directions 'i tab PO qid ac' mean to take one tablet by mouth four times a day before meals. The total daily dose is 4 tablets. To find the days' supply, divide the total quantity by the daily dose: 60 tablets / 4 tablets/day = 15 days."
+  },
+  {
+    "text": "A hazardous drug must be stored in an externally ventilated, negative-pressure room that has a minimum of how many air changes per hour?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": 2,
+    "explanation": "According to USP <800>, a room where hazardous drugs are handled, such as a negative-pressure storage room, must have a minimum of 12 air changes per hour (ACPH)."
+  },
+  {
+    "text": "Which of the following professions permits a practitioner to prescribe medications?",
+    "options": [
+      "Chiropractor",
+      "Optometrist",
+      "Physician assistant",
+      "Psychologist"
+    ],
+    "answer": 2,
+    "explanation": "A physician assistant (PA) is a medical professional who is authorized to prescribe medications under the supervision of a physician, with the specific scope of practice varying by state."
+  },
+  {
+    "text": "How many milliliters of water should be added to 100 mL of 10% stock solution of sodium chloride to prepare a 0.9% solution of sodium chloride?",
+    "options": [
+      "10.1 mL",
+      "101 mL",
+      "1011 mL",
+      "1111 mL"
+    ],
+    "answer": 2,
+    "explanation": "This is a dilution problem. Use the formula C1V1 = C2V2, where C1 = 10%, V1 = 100 mL, C2 = 0.9%. Solving for V2, the final volume: (10%)(100 mL) = (0.9%)(V2), which gives V2 = 1111.11 mL. The amount of water to add is the final volume minus the initial volume: 1111.11 mL - 100 mL = 1011.11 mL."
+  },
+  {
+    "text": "The following prescription is presented to the pharmacy to be filled. When prompted by the pharmacy computer for the day’s supply, which would the technician enter? Amoxicillin 250 mg/ 5 mL 75 mL 2.5 mL PO TID",
+    "options": [
+      "5 days",
+      "7 days",
+      "10 days",
+      "14 days"
+    ],
+    "answer": 2,
+    "explanation": "The daily dose is 2.5 mL taken three times a day, so the total daily dose is 2.5 mL * 3 = 7.5 mL. The total volume is 75 mL. Divide the total volume by the daily dose to find the days' supply: 75 mL / 7.5 mL/day = 10 days."
+  },
+  {
+    "text": "Which dosage form is an aqueous solution with sucrose?",
+    "options": [
+      "Elixir",
+      "Emulsion",
+      "Suspension",
+      "Syrup"
+    ],
+    "answer": 3,
+    "explanation": "A syrup is a concentrated, viscous aqueous solution containing a high percentage of sugar, typically sucrose."
+  },
+  {
+    "text": "Which is the maximum BUD that may be assigned to a water-containing oral formulation of a nonsterile compound at a controlled cold temperature?",
+    "options": [
+      "10 days",
+      "12 days",
+      "14 days",
+      "16 days"
+    ],
+    "answer": 2,
+    "explanation": "According to USP <795>, the beyond-use date (BUD) for a water-containing oral formulation stored at a controlled cold temperature (refrigerator) is no later than 14 days."
+  },
+  {
+    "text": "Mary Smith presents a prescription of fluticasone/salmeterol to be filled; which condition is being treated?",
+    "options": [
+      "Allergic rhinitis",
+      "Asthma",
+      "Emphysema",
+      "Tuberculosis"
+    ],
+    "answer": 1,
+    "explanation": "Fluticasone/salmeterol is a combination of an inhaled corticosteroid and a long-acting beta2-agonist, commonly used for the long-term maintenance treatment of asthma."
+  },
+  {
+    "text": "A child weighs 30 kg and is prescribed a 5-mg/kg dose of amoxicillin tid. The pharmacy stocks 50 mg/mL. How many mL will the patient receive each day?",
+    "options": [
+      "3 mL",
+      "6 mL",
+      "9 mL",
+      "18 mL"
+    ],
+    "answer": 2,
+    "explanation": "The dose per administration is 30 kg * 5 mg/kg = 150 mg. The daily dose is 150 mg * 3 (tid) = 450 mg. To find the daily volume, divide the daily dose by the concentration: 450 mg / 50 mg/mL = 9 mL."
+  },
+  {
+    "text": "A patient is being treated with olanzapine; for which condition is this medication indicated?",
+    "options": [
+      "Delirium tremens",
+      "Epilepsy",
+      "Schizophrenia",
+      "Smoking"
+    ],
+    "answer": 2,
+    "explanation": "Olanzapine is an atypical antipsychotic medication used to treat schizophrenia and bipolar disorder."
+  },
+  {
+    "text": "Under OBRA ‘90, which of the following tasks is a pharmacy technician permitted to perform?",
+    "options": [
+      "Call a physician and recommend a different drug dosage.",
+      "Counsel a patient with regard to his or her drug therapy.",
+      "Offer to counsel a patient, if allowed by state law.",
+      "Screen patient profiles for drug-disease contraindications."
+    ],
+    "answer": 2,
+    "explanation": "The Omnibus Budget Reconciliation Act of 1990 (OBRA '90) requires pharmacists to offer to counsel patients. While a technician cannot counsel, they can offer counseling and then refer the patient to the pharmacist if they accept."
+  },
+  {
+    "text": "Interpret the following: “ii caps stat, then i cap q hr, max 5 caps/12 hr.”",
+    "options": [
+      "Take 2 capsules by mouth immediately, then 1 capsule at bedtime, maximum of 5 capsules in 5 hours.",
+      "Take 5 capsules by mouth immediately, then 1 capsule each hour, maximum of 5 capsules in 12 hours.",
+      "Take 11 capsules by mouth immediately, then 1 capsule at bedtime, maximum of 5 capsules within the next 12 hours.",
+      "Take 11 capsules by mouth immediately, then one capsule each hour, maximum of five additional capsules in 12 hours."
+    ],
+    "answer": 3,
+    "explanation": "'ii caps stat' means take two capsules immediately. 'then i cap q hr' means then take one capsule every hour. 'max 5 caps/12 hr' means the maximum number of capsules to take is five within a 12-hour period."
+  },
+  {
+    "text": "Medication X has been reported to cause irreversible harm to an individual. This will result in which type of drug recall being issued?",
+    "options": [
+      "Class I",
+      "Class II",
+      "Class III",
+      "Class IV"
+    ],
+    "answer": 0,
+    "explanation": "A Class I recall is issued when there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death."
+  },
+  {
+    "text": "Alkeran and Leukeran are examples of:",
+    "options": [
+      "Drugs found on the “Do Not Crush” drug list.",
+      "Medication found on the The Joint Commission’s “Do Not Use” list.",
+      "Confused drug names.",
+      "Nonproprietary drugs."
+    ],
+    "answer": 2,
+    "explanation": "Alkeran (melphalan) and Leukeran (chlorambucil) are both brand-name chemotherapy drugs with similar-sounding names, making them a common source of medication errors due to confusion."
+  },
+  {
+    "text": "A pharmacy technician is asked to compound a liquid preparation. Which type of mortar and pestle should be selected in performing this task?",
+    "options": [
+      "Glass",
+      "Porcelain",
+      "Wedgewood",
+      "Plastic"
+    ],
+    "answer": 0,
+    "explanation": "A glass mortar and pestle is nonporous and is the best choice for compounding liquid preparations or for mixing ingredients that may stain or are highly potent, as it is easy to clean and does not absorb ingredients."
+  },
+  {
+    "text": "Which of the following is a side effect of a diphenhydramine?",
+    "options": [
+      "Drowsiness",
+      "Rapid heartbeat",
+      "Stomach distress",
+      "Watery eyes"
+    ],
+    "answer": 0,
+    "explanation": "Diphenhydramine (Benadryl) is an antihistamine that causes drowsiness and sedation as a common side effect."
+  },
+  {
+    "text": "Which is another name for a nonproprietary drug?",
+    "options": [
+      "Brand name drug",
+      "Generic drug",
+      "Investigational drug",
+      "OTC drug"
+    ],
+    "answer": 1,
+    "explanation": "A nonproprietary drug is a drug that is not protected by a patent or trademark, which is also known as a generic drug."
+  },
+  {
+    "text": "In multiples of what number should tablets or capsules be counted at a time using a spatula and a pill tray?",
+    "options": [
+      "1",
+      "2",
+      "5",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "Tablets and capsules are typically counted in multiples of five using a spatula and a pill tray to ensure accuracy and efficiency."
+  },
+  {
+    "text": "Which DEA form must be submitted to the Drug Enforcement Administration (DEA) to request permission to destroy controlled substances?",
+    "options": [
+      "DEA form 41",
+      "DEA form 222",
+      "DEA form 224",
+      "DEA form 225"
+    ],
+    "answer": 0,
+    "explanation": "DEA Form 41 is used by DEA registrants to request permission to destroy controlled substances. DEA Form 222 is for ordering, DEA Form 224 is for registration, and DEA Form 225 is for manufacturing/distributing."
+  },
+  {
+    "text": "Which is the generic name for the beta-blocker Tenormin?",
+    "options": [
+      "atenolol",
+      "metoprolol",
+      "nadolol",
+      "propranolol"
+    ],
+    "answer": 0,
+    "explanation": "The generic name for the brand name drug Tenormin is atenolol."
+  },
+  {
+    "text": "Which is the brand name for tetanus/reduced diphtheria toxoids and acellular pertussis vaccine?",
+    "options": [
+      "Adacel",
+      "Afluria",
+      "Aggrenox",
+      "Aloxi"
+    ],
+    "answer": 0,
+    "explanation": "Adacel is a brand name for the Tdap vaccine, which protects against tetanus, diphtheria, and pertussis (whooping cough)."
+  },
+  {
+    "text": "Which Medication Error Reporting and Prevention (MERP) category is assigned when the error occurred may have contributed to the patient’s death?",
+    "options": [
+      "Category G",
+      "Category H",
+      "Category I",
+      "Category J"
+    ],
+    "answer": 2,
+    "explanation": "Category I in the MERP classification system is assigned to an error that may have contributed to the patient's death."
+  },
+  {
+    "text": "Which auxiliary label should be affixed to a prescription bottle for a medication that has the following instruction: “i gtt os bid”?",
+    "options": [
+      "For external use",
+      "For the ear",
+      "For the eye",
+      "Use rectally"
+    ],
+    "answer": 2,
+    "explanation": "'gtt' means drop. 'os' means left eye. 'bid' means twice a day. This is an eye drop, so the label should indicate 'For the eye'."
+  },
+  {
+    "text": "Which of the following medications should have the auxiliary label “May Discolor Urine” affixed to the prescription container?",
+    "options": [
+      "ciprofloxacin",
+      "nitrofurantoin",
+      "phenazopyridine",
+      "tetracycline"
+    ],
+    "answer": 2,
+    "explanation": "Phenazopyridine (Pyridium) is a urinary tract analgesic that can cause the urine to turn a reddish-orange color."
+  },
+  {
+    "text": "Citalopram is indicated for the treatment of",
+    "options": [
+      "alcohol abuse.",
+      "attention deficit hyperactivity disorder.",
+      "depression.",
+      "smoking."
+    ],
+    "answer": 2,
+    "explanation": "Citalopram (Celexa) is a selective serotonin reuptake inhibitor (SSRI) used to treat depression."
+  },
+  {
+    "text": "Interpret the following prescription. Which directions for use should appear on the prescription label? Lorazepam 0.5 mg #30 1 tab PO TID prn anxiety Refill x 2",
+    "options": [
+      "Take one tablet by mouth as needed for anxiety.",
+      "Take one tablet by mouth three times a day for anxiety.",
+      "Take one tablet by mouth three times a day as needed for anxiety.",
+      "Take one tablet three times a day as needed for anxiety."
+    ],
+    "answer": 2,
+    "explanation": "The instructions '1 tab PO TID prn anxiety' mean to take one tablet by mouth three times a day as needed for anxiety. The 'PO' is implicit in 'by mouth'."
+  },
+  {
+    "text": "Which of the following categories of medications is found on the list of “High-Alert Medications” issued by the ISMP for community/ambulatory care settings?",
+    "options": [
+      "Antibiotics",
+      "HMG-CoA reductase inhibitors",
+      "Opioids",
+      "Proton pump inhibitors"
+    ],
+    "answer": 2,
+    "explanation": "The Institute for Safe Medication Practices (ISMP) lists opioids as a 'High-Alert' medication due to the high risk of causing significant harm to a patient if used improperly."
+  },
+  {
+    "text": "MEDMARX is overseen by which organization?",
+    "options": [
+      "ASHP",
+      "IOM",
+      "ISMP",
+      "USP"
+    ],
+    "answer": 2,
+    "explanation": "MEDMARX is a subscription-based, anonymous, online medication error reporting program overseen by the Institute for Safe Medication Practices (ISMP)."
+  },
+  {
+    "text": "What type of hospital error occurs when a patient is administered a dose that is greater or less than the prescribed amount?",
+    "options": [
+      "Improper dose error",
+      "Omission error",
+      "Wrong dosage form",
+      "Wrong dose preparation"
+    ],
+    "answer": 0,
+    "explanation": "An improper dose error is a type of medication error where the patient receives a dose that is either too high or too low compared to what was prescribed."
+  },
+  {
+    "text": "How much Demerol would be given to a patient if the dose on hand was 50 mg/mL and the patient was to receive 75 mg?",
+    "options": [
+      "0.5 mL",
+      "1.0 mL",
+      "1.5 mL",
+      "2.0 mL"
+    ],
+    "answer": 2,
+    "explanation": "To calculate the volume, divide the required dose by the concentration on hand: 75 mg / 50 mg/mL = 1.5 mL."
+  },
+  {
+    "text": "Which of the following is considered a mechanical error?",
+    "options": [
+      "Failing to counsel a patient",
+      "Failing to make the correct decision during drug utilization evaluation",
+      "Failing to screen a patient properly",
+      "Performing incorrect pharmacy calculations"
+    ],
+    "answer": 3,
+    "explanation": "A mechanical error is a physical, non-judgmental mistake in the dispensing process, such as incorrect calculations, counting, or labeling."
+  },
+  {
+    "text": "A patient comes to the pharmacy seeking a prescription refill. The patient does not know their prescription number or the name of the medication; however, they know that it is used to relieve the symptoms of atrial fibrillation. After reviewing the patient’s profile and speaking to the pharmacist, the patient is requesting which medication?",
+    "options": [
+      "adalimumab",
+      "digoxin",
+      "lamotrigine",
+      "lisinopril"
+    ],
+    "answer": 1,
+    "explanation": "Digoxin is a cardiac glycoside commonly used to treat atrial fibrillation by controlling heart rate."
+  },
+  {
+    "text": "A pharmacy must register with the CNR prior to dispensing which medication?",
+    "options": [
+      "ciprofloxacin",
+      "clozapine",
+      "isotretinoin",
+      "thalidomide"
+    ],
+    "answer": 1,
+    "explanation": "Clozapine requires registration with a national registry (Clozapine National Registry, CNR) due to the risk of agranulocytosis, a severe decrease in white blood cells."
+  },
+  {
+    "text": "Which is the generic name for Cymbalta?",
+    "options": [
+      "duloxetine",
+      "fluoxetine",
+      "paroxetine",
+      "sertraline"
+    ],
+    "answer": 0,
+    "explanation": "The generic name for the brand name drug Cymbalta is duloxetine."
+  },
+  {
+    "text": "Which of the following medications has been associated with a high incidence of medication errors?",
+    "options": [
+      "acetaminophen",
+      "glyburide",
+      "levothyroxine",
+      "naproxen"
+    ],
+    "answer": 2,
+    "explanation": "Levothyroxine has a narrow therapeutic index and is available in many strengths, making it susceptible to medication errors, particularly with incorrect dosing."
+  },
+  {
+    "text": "Which of the following is an Internet-accessible database that hospitals and health care systems can use to report medication errors?",
+    "options": [
+      "ISMP",
+      "MEDMARX",
+      "MedWatch",
+      "NCCMERP"
+    ],
+    "answer": 1,
+    "explanation": "MEDMARX is an internet-accessible database managed by the ISMP for hospitals and healthcare systems to report medication errors anonymously."
+  },
+  {
+    "text": "Which is the generic name for Detrol LA?",
+    "options": [
+      "ibandronate",
+      "mirtazapine",
+      "ramelteon",
+      "tolterodine"
+    ],
+    "answer": 3,
+    "explanation": "The generic name for the brand name drug Detrol LA is tolterodine."
+  },
+  {
+    "text": "Which of the following medications is indicated for seizure disorders?",
+    "options": [
+      "adapalene",
+      "darifenacin",
+      "fluconazole",
+      "phenytoin"
+    ],
+    "answer": 3,
+    "explanation": "Phenytoin (Dilantin) is a well-known anticonvulsant medication used to treat and prevent seizure disorders."
+  },
+  {
+    "text": "Which of the following proprietary medications is a combination product?",
+    "options": [
+      "Cozaar",
+      "Hyzaar",
+      "Plavix",
+      "Zetia"
+    ],
+    "answer": 1,
+    "explanation": "Hyzaar is a combination product containing losartan (an angiotensin II receptor blocker) and hydrochlorothiazide (a diuretic)."
+  },
+  {
+    "text": "Which of the following is a valid DEA number for Dr. Mary Rocket?",
+    "options": [
+      "AM 4525890",
+      "BM 4525891",
+      "BR4525892",
+      "MR4525893"
+    ],
+    "answer": 1,
+    "explanation": "A valid DEA number has a specific format. The first letter indicates the type of registrant (e.g., A/B/F for physicians), the second letter is the first letter of the registrant's last name. The sum of the first, third, and fifth digits, plus twice the sum of the second, fourth, and sixth digits, must equal a number whose last digit matches the last digit of the DEA number. In this case, M is not the first letter of the last name."
+  },
+  {
+    "text": "A 75-year old female patient presents a prescription for nitrofurantoin to be filled; what should the pharmacy technician do?",
+    "options": [
+      "Contact the prescriber’s office",
+      "Fill the prescription",
+      "Inform the pharmacist of the situation",
+      "Refuse to fill the prescription"
+    ],
+    "answer": 2,
+    "explanation": "According to the Beers Criteria, nitrofurantoin is a potentially inappropriate medication for elderly patients due to concerns about pulmonary toxicity, hepatotoxicity, and peripheral neuropathy. The technician should inform the pharmacist for a professional judgment call."
+  },
+  {
+    "text": "The iPledge is a mandatory program for patients receiving prescriptions of which medication?",
+    "options": [
+      "conjugated estrogens",
+      "isotretinoin",
+      "medroxyprogesterone",
+      "methylphenidate"
+    ],
+    "answer": 1,
+    "explanation": "The iPledge program is a mandatory risk management program for isotretinoin, a drug used to treat severe acne, due to its high risk of causing severe birth defects."
+  },
+  {
+    "text": "A patient calls the pharmacy and informs you that they forgot to take their morning dose of their medication; what do you do?",
+    "options": [
+      "Inform the pharmacist.",
+      "Tell them that it is alright to miss a dose.",
+      "Tell them to call their physician.",
+      "Tell them to take the medicine immediately."
+    ],
+    "answer": 0,
+    "explanation": "A pharmacy technician is not permitted to give medical advice. Any questions regarding missed doses or other clinical advice must be directed to a pharmacist."
+  },
+  {
+    "text": "Which of the following abbreviations should NOT be used in prescriptions?",
+    "options": [
+      "“aa”",
+      "“dc”",
+      "“dtd”",
+      "“emul”"
+    ],
+    "answer": 1,
+    "explanation": "The abbreviation 'dc' can be misinterpreted as 'discontinue' or 'discharge,' leading to potential medication errors. It is on the ISMP's list of error-prone abbreviations."
+  },
+  {
+    "text": "Which is the generic name for Diovan?",
+    "options": [
+      "losartan",
+      "pioglitazone",
+      "rabeprazole",
+      "valsartan"
+    ],
+    "answer": 3,
+    "explanation": "The generic name for the brand name drug Diovan is valsartan."
+  },
+  {
+    "text": "Which is the generic name for Effexor XR?",
+    "options": [
+      "dutasteride",
+      "nebivolol",
+      "varenicline",
+      "venlafaxine"
+    ],
+    "answer": 3,
+    "explanation": "The generic name for the brand name drug Effexor XR is venlafaxine."
+  },
+  {
+    "text": "Which of the following classifications of medications are considered as “High-Alert” medications in a long-term care facility by the ISMP?",
+    "options": [
+      "ACE inhibitors",
+      "Insulins",
+      "NSAIDs",
+      "Macrolides"
+    ],
+    "answer": 1,
+    "explanation": "Insulins are on the ISMP's 'High-Alert' medication list due to the high risk of patient harm with incorrect dosing, regardless of the healthcare setting."
+  },
+  {
+    "text": "Which type of insulin can be added to an IV solution?",
+    "options": [
+      "Extended insulin zinc",
+      "Isophane insulin",
+      "NPH insulin",
+      "Regular insulin"
+    ],
+    "answer": 3,
+    "explanation": "Regular insulin is the only type of insulin that can be administered intravenously. It is a clear, short-acting insulin."
+  },
+  {
+    "text": "What is the correct interpretation of the following prescription: “1 tsp PCN 250 mg PO qid for 10 days”?",
+    "options": [
+      "Take one tablespoon of penicillin 250 mg by mouth four times a day for 10 days.",
+      "Take one teaspoon of penicillin 250 mg by mouth every other day for 10 days.",
+      "Take one teaspoon of penicillin G 250 mg by mouth four times a day for 10 days.",
+      "Take one teaspoon of penicillin 250 mg by mouth four times a day for 10 days."
+    ],
+    "answer": 3,
+    "explanation": "'1 tsp' is one teaspoon. 'PCN' is the abbreviation for penicillin. '250 mg' is the dose. 'PO' is by mouth. 'qid' is four times a day. 'for 10 days' is the duration."
+  },
+  {
+    "text": "Which of the following medications should be dispensed to the patient in the manufacturer’s container?",
+    "options": [
+      "Crixivan",
+      "Diflucan",
+      "Epitol",
+      "Singulair"
+    ],
+    "answer": 0,
+    "explanation": "Crixivan (indinavir) is a protease inhibitor that is very sensitive to moisture and must be dispensed in its original manufacturer's container to protect it from degradation."
+  },
+  {
+    "text": "A patient is prescribed Proventil HFA for bronchospasms; which of the following would be appropriate directions?",
+    "options": [
+      "1 inhalation every 12 hours",
+      "1 spray qid",
+      "1–2 sprays/nostril bid",
+      "2 puffs inhaled q4–6h"
+    ],
+    "answer": 3,
+    "explanation": "Proventil HFA (albuterol) is a short-acting bronchodilator used for quick relief of bronchospasms. The typical directions are '2 puffs inhaled every 4-6 hours as needed'."
+  },
+  {
+    "text": "All of the following medications must be packaged in a child-resistant container EXCEPT",
+    "options": [
+      "digoxin.",
+      "ibuprofen.",
+      "nitroglycerin.",
+      "simvastatin."
+    ],
+    "answer": 2,
+    "explanation": "Nitroglycerin, specifically sublingual tablets, is exempt from the Poison Prevention Packaging Act (PPPA) requirement for a child-resistant container to ensure easy access for patients with a heart condition."
+  },
+  {
+    "text": "All of the following are required on a prescription label EXCEPT for which one?",
+    "options": [
+      "Directions for usage",
+      "Drug name with strength and quantity",
+      "Physician’s DEA number",
+      "Prescription or serial number"
+    ],
+    "answer": 2,
+    "explanation": "A physician's DEA number is required on the prescription itself for controlled substances but is not required on the patient's prescription label."
+  },
+  {
+    "text": "A patient has been diagnosed with gastroesophageal reflux disease; which medication would be an appropriate treatment?",
+    "options": [
+      "citalopram",
+      "esomeprazole",
+      "gabapentin",
+      "venlafaxine"
+    ],
+    "answer": 1,
+    "explanation": "Esomeprazole (Nexium) is a proton pump inhibitor (PPI) used to treat gastroesophageal reflux disease (GERD) by reducing the amount of acid produced in the stomach."
+  },
+  {
+    "text": "What type of medication error occurs but did not reach the patient?",
+    "options": [
+      "No error",
+      "Error, no harm",
+      "Error, harm",
+      "Error, death"
+    ],
+    "answer": 1,
+    "explanation": "According to the NCCMERP classification system, a medication error that occurs but does not reach the patient is considered an 'Error, no harm' event (Category C)."
+  },
+  {
+    "text": "The pharmacy technician receives a prescription for amoxicillin 250 mg, and the instructions read “i cap PO tid.” What is the total daily dose?",
+    "options": [
+      "250 mg",
+      "500 mg",
+      "750 mg",
+      "100 mg"
+    ],
+    "answer": 2,
+    "explanation": "The instructions 'i cap PO tid' mean to take one capsule (250 mg) three times a day. The total daily dose is 250 mg * 3 = 750 mg."
+  },
+  {
+    "text": "What auxiliary label should be included on a container of medication that has the following instruction: “iv gtt au bid”?",
+    "options": [
+      "For external use",
+      "For the ear",
+      "For the eye",
+      "Use rectally"
+    ],
+    "answer": 1,
+    "explanation": "'iv gtt' means four drops. 'au' means both ears. 'bid' means twice a day. The label should specify that the medication is for the ear."
+  },
+  {
+    "text": "All of the following are controlled substances indicated for attention deficit hyperactivity disorder EXCEPT",
+    "options": [
+      "amphetamine/dextroamphetamine.",
+      "atomoxetine.",
+      "lisdexamfetamine.",
+      "methylphenidate."
+    ],
+    "answer": 1,
+    "explanation": "Atomoxetine (Strattera) is a non-stimulant medication for ADHD and is not a controlled substance. The others listed are Schedule II controlled substances."
+  },
+  {
+    "text": "How many days will the following prescription last? Amoxicillin 250 mg/5 mL 150 mL i tsp PO tid",
+    "options": [
+      "1",
+      "5",
+      "10",
+      "15"
+    ],
+    "answer": 2,
+    "explanation": "The directions 'i tsp PO tid' mean to take one teaspoon (5 mL) three times a day. The total daily volume is 5 mL * 3 = 15 mL. The total volume is 150 mL. To find the days' supply, divide the total volume by the daily volume: 150 mL / 15 mL/day = 10 days."
+  },
+  {
+    "text": "The formation of a precipitate indicates instability of which dosage form?",
+    "options": [
+      "Cream",
+      "Emulsion",
+      "Ointment",
+      "Solution"
+    ],
+    "answer": 3,
+    "explanation": "A solution is a homogeneous mixture where the solute is completely dissolved. The formation of a precipitate (a solid that comes out of the solution) indicates that the solution is no longer stable."
+  },
+  {
+    "text": "Which of the following medications may exacerbate heart failure in an elderly patient according to the Beers criteria?",
+    "options": [
+      "bupropion",
+      "medroxyprogesterone",
+      "naproxen",
+      "ondansetron"
+    ],
+    "answer": 2,
+    "explanation": "According to the Beers Criteria, NSAIDs like naproxen are potentially inappropriate for elderly patients with heart failure as they can cause fluid retention and worsen the condition."
+  },
+  {
+    "text": "Which of the following antidepressant is classified as an SNRI?",
+    "options": [
+      "duloxetine",
+      "escitalopram",
+      "fluoxetine",
+      "phenelzine"
+    ],
+    "answer": 0,
+    "explanation": "Duloxetine (Cymbalta) is a serotonin-norepinephrine reuptake inhibitor (SNRI). Escitalopram and fluoxetine are SSRIs, and phenelzine is an MAOI."
+  },
+  {
+    "text": "Which USP chapter addresses compounding nonsterile products?",
+    "options": [
+      "USP <790>.",
+      "USP <795>.",
+      "USP <797>.",
+      "USP <800>."
+    ],
+    "answer": 1,
+    "explanation": "USP <795> provides guidelines for the compounding of nonsterile preparations."
+  },
+  {
+    "text": "A patient is being prescribed Hytrin for benign prostate hypertrophy. When should the patient take their medication?",
+    "options": [
+      "After meals",
+      "At bedtime",
+      "Before meals",
+      "In the morning"
+    ],
+    "answer": 1,
+    "explanation": "Hytrin (terazosin) is an alpha-blocker that can cause dizziness and hypotension, especially with the first dose. It is typically taken at bedtime to minimize these effects."
+  },
+  {
+    "text": "All of the following medications may be crushed or chewed EXCEPT",
+    "options": [
+      "amoxicillin.",
+      "ampicillin.",
+      "isotretinoin.",
+      "trimethoprim/sulfamethoxazole."
+    ],
+    "answer": 2,
+    "explanation": "Isotretinoin (Accutane) capsules should not be crushed or chewed because they contain a potent teratogen that can be harmful if the contents are released prematurely."
+  },
+  {
+    "text": "A patient is experiencing an overdose associated with Coumadin; which medication should be prescribed to treat this situation?",
+    "options": [
+      "cyanocobalamin",
+      "folic acid",
+      "phytonadione",
+      "thiamine"
+    ],
+    "answer": 2,
+    "explanation": "Phytonadione (Vitamin K) is the specific antidote for a Coumadin (warfarin) overdose, as it helps reverse the anticoagulant effects."
+  },
+  {
+    "text": "All of the following pharmacy abbreviations would be used for a regularly scheduled maintenance medication EXCEPT",
+    "options": [
+      "BID.",
+      "QID.",
+      "STAT.",
+      "TID."
+    ],
+    "answer": 2,
+    "explanation": "'STAT' means immediately. It is used for a single, urgent dose, not for a regularly scheduled maintenance medication."
+  },
+  {
+    "text": "A patient has been diagnosed with bipolar disease but has difficulty swallowing. Which of the following medications is available as a chewable tablet?",
+    "options": [
+      "carbamazepine",
+      "divalproex",
+      "lithium",
+      "valproic acid"
+    ],
+    "answer": 0,
+    "explanation": "Carbamazepine (Tegretol) is an anticonvulsant and mood stabilizer that is available in a chewable tablet formulation."
+  },
+  {
+    "text": "A patient receives the following prescription. How many days will the prescription last? Albuterol HFA 200 inhalations 1 canister 2 puffs inhaled q 6h",
+    "options": [
+      "15 days",
+      "20 days",
+      "25 days",
+      "30 days"
+    ],
+    "answer": 2,
+    "explanation": "The patient uses 2 puffs every 6 hours, so they will use 24 / 6 = 4 doses per day. The total number of puffs per day is 2 puffs * 4 doses = 8 puffs. The canister contains 200 inhalations. To find the days' supply, divide the total inhalations by the daily usage: 200 / 8 = 25 days."
+  },
+  {
+    "text": "You have received a prescription for amoxicillin 500 mg PO. The patient is unable to chew or swallow capsules or tablets. The physician has approved the dispensing of amoxicillin suspension. How many milliliters should be given in each dose if the concentration is 125 mg/5 mL?",
+    "options": [
+      "5 mL",
+      "10 mL",
+      "15 mL",
+      "20 mL"
+    ],
+    "answer": 3,
+    "explanation": "To determine the volume needed for a 500 mg dose, set up a proportion: (125 mg / 5 mL) = (500 mg / X mL). Cross-multiply to solve for X: 125X = 2500, so X = 20 mL."
+  },
+  {
+    "text": "What is the generic name for Glucophage?",
+    "options": [
+      "glimepiride",
+      "glipizide",
+      "glyburide",
+      "metformin"
+    ],
+    "answer": 3,
+    "explanation": "The generic name for the brand name drug Glucophage is metformin, an oral hypoglycemic medication."
+  },
+  {
+    "text": "Cozaar and Zocor are examples of",
+    "options": [
+      "confused drug names.",
+      "medications using tall man lettering.",
+      "medications that may be therapeutically substituted.",
+      "nonproprietary drugs."
+    ],
+    "answer": 0,
+    "explanation": "Cozaar (losartan) and Zocor (simvastatin) are brand name drugs that have similar sounding names, making them a source of confusion and potential medication errors."
+  },
+  {
+    "text": "Interpret the following prescription. Which of the following is appropriate for this prescription? prochlorperazine 25 mg supp #12 i supp pr q 6-8 h prn N&V",
+    "options": [
+      "Insert one suppository pr every 6–8 hours as needed for nausea and vomiting.",
+      "Insert one suppository every 6–8 hour for nausea and vomiting.",
+      "Insert one suppository every 6–8 hours as needed for N&V.",
+      "Insert one suppository rectally every 6–8 hours as needed for nausea and vomiting."
+    ],
+    "answer": 3,
+    "explanation": "'i supp' means one suppository. 'pr' means per rectum or rectally. 'q 6-8 h' means every 6 to 8 hours. 'prn' means as needed. 'N&V' means nausea and vomiting. Option D provides the most complete and accurate interpretation."
+  },
+  {
+    "text": "Which of the following does not need to be dispensed in a child-resistant container?",
+    "options": [
+      "amoxicillin",
+      "ethinyl estradiol/norethindrone",
+      "metformin",
+      "prednisone"
+    ],
+    "answer": 1,
+    "explanation": "Oral contraceptives, such as ethinyl estradiol/norethindrone, are exempt from the child-resistant packaging requirements of the PPPA."
+  },
+  {
+    "text": "Which of the following is classified as a bowel evacuant?",
+    "options": [
+      "docusate sodium",
+      "lactulose",
+      "methylcellulose",
+      "polyethylene glycol/electrolytes"
+    ],
+    "answer": 3,
+    "explanation": "Polyethylene glycol/electrolytes (e.g., GoLYTELY) is a bowel evacuant used to cleanse the bowel before a colonoscopy or surgery."
+  },
+  {
+    "text": "Which of the following agents is used to increase the viscosity of a suspension?",
+    "options": [
+      "Emulsifier",
+      "Flocculating agent",
+      "Mucilage",
+      "Thickening agent"
+    ],
+    "answer": 3,
+    "explanation": "A thickening agent is a substance added to a suspension to increase its viscosity, which helps to keep the solid particles suspended and prevent sedimentation."
+  },
+  {
+    "text": "Which of the following drugs requires a medication guide be given to a patient every time they receive a prescription of that medication?",
+    "options": [
+      "Alendronate",
+      "Ampicillin",
+      "Cephalexin",
+      "Normal saline"
+    ],
+    "answer": 0,
+    "explanation": "Medication guides are required for drugs with serious risks. Alendronate, a bisphosphonate, requires a medication guide due to the risk of esophageal side effects and other serious adverse events."
+  },
+  {
+    "text": "A patient has prescribed Humalog insulin. Which of the following routes of administration should be used?",
+    "options": [
+      "ID",
+      "IM",
+      "PO",
+      "SC"
+    ],
+    "answer": 3,
+    "explanation": "Humalog (insulin lispro) is a rapid-acting insulin that is administered via subcutaneous (SC) injection."
+  },
+  {
+    "text": "Which of the following medications should have the auxiliary label “This Drug May Impair the Ability to Operate a Car” affixed to the prescription bottle?",
+    "options": [
+      "azithromycin",
+      "metformin",
+      "naproxen",
+      "spironolactone"
+    ],
+    "answer": 2,
+    "explanation": "Naproxen (a non-steroidal anti-inflammatory drug) can cause drowsiness, dizziness, and blurred vision, which may impair a person's ability to operate a car or other machinery."
+  },
+  {
+    "text": "Which of the following is true about pharmaceutical equivalent drugs?",
+    "options": [
+      "Chemically different but are expected to produce the same therapeutic outcome and toxicity",
+      "Chemically identical in strength, concentration, dosage form, and route of administration",
+      "Contain different active ingredients",
+      "Priced exactly the same as brand name drugs"
+    ],
+    "answer": 1,
+    "explanation": "Pharmaceutical equivalents are drug products that contain the same active ingredient, are of the same dosage form, route of administration, and are identical in strength or concentration."
+  },
+  {
+    "text": "predniSONE and prednisoLONE are examples of",
+    "options": [
+      "drugs that should not be crushed.",
+      "drugs using tall man lettering.",
+      "high-alert medications.",
+      "proprietary drug names."
+    ],
+    "answer": 1,
+    "explanation": "predniSONE and prednisoLONE are look-alike, sound-alike drugs that are differentiated using 'tall man lettering' to reduce the risk of medication errors."
+  },
+  {
+    "text": "What is the duration of action for Humulin N insulin?",
+    "options": [
+      "1 to 4 hours",
+      "6 to 10 hours",
+      "10 to 16 hours",
+      "20–14 hours"
+    ],
+    "answer": 2,
+    "explanation": "Humulin N (NPH insulin) is an intermediate-acting insulin with a duration of action of approximately 10 to 16 hours."
+  },
+  {
+    "text": "A patient has been diagnosed as suffering schizophrenia; which of the following would be prescribed?",
+    "options": [
+      "amitriptyline",
+      "escitalopram",
+      "paroxetine",
+      "quetiapine fumarate"
+    ],
+    "answer": 3,
+    "explanation": "Quetiapine fumarate (Seroquel) is an atypical antipsychotic medication used to treat schizophrenia, as well as bipolar disorder."
+  },
+  {
+    "text": "Which of the following would be an appropriate auxiliary label for an inhaled corticosteroid medication?",
+    "options": [
+      "Discard After 14 Days Use",
+      "May Cause Drowsiness",
+      "Refrigerate",
+      "Shake Well"
+    ],
+    "answer": 3,
+    "explanation": "Inhaled corticosteroid suspensions, like most suspensions, require shaking to ensure the active ingredient is evenly dispersed for a consistent dose."
+  },
+  {
+    "text": "A physician ordered a blood cholesterol test for a patient. The results of the test indicated the patient had a blood cholesterol level of 240 mg/mL. Which of the following medications would be appropriate to dispense?",
+    "options": [
+      "amlodipine",
+      "bupropion",
+      "esomeprazole",
+      "simvastatin"
+    ],
+    "answer": 3,
+    "explanation": "A blood cholesterol level of 240 mg/mL is very high. Simvastatin is an HMG-CoA reductase inhibitor (statin) used to lower cholesterol levels."
+  },
+  {
+    "text": "The pharmacy technician has dispensed a prescription of penicillin 500 mg tablets to a patient. Which of the following should they use to clean the pill tray?",
+    "options": [
+      "70% isopropyl alcohol",
+      "90% isopropyl alcohol",
+      "Hydrogen peroxide",
+      "Water"
+    ],
+    "answer": 0,
+    "explanation": "The pill tray should be cleaned with 70% isopropyl alcohol after dispensing an antibiotic to prevent cross-contamination with other medications, especially those for which a patient may have an allergy."
+  }
+]

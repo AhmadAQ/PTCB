@@ -1,0 +1,1045 @@
+[
+  {
+    "text": "How much guaifenesin with codeine would you dispense for a 7-day supply if the prescription calls for \"Guaifenesin with Codeine 5 mL q4h PO prn\"?",
+    "options": [
+      "120 mL",
+      "150 mL",
+      "180 mL",
+      "210 mL"
+    ],
+    "answer": 3,
+    "explanation": "The prescription is for 5 mL every 4 hours. In a 24-hour period, this is 5 mL * 6 doses (24/4) = 30 mL/day. For a 7-day supply, the total amount is 30 mL/day * 7 days = 210 mL. The 'prn' (as needed) part of the directions is typically calculated based on the maximum possible use to ensure the patient has enough medication. Therefore, a 210 mL supply is the correct amount to dispense for a 7-day period if taken at the maximum frequency."
+  },
+  {
+    "text": "Which of the following interpretations of \"i cap PO qid ac and hs\" is correct?",
+    "options": [
+      "Take one caplet by mouth 1 hour before meals and at bedtime.",
+      "Take one capsule by mouth 1 hour before meals and at bedtime.",
+      "Take one capsule by mouth after meals and before bedtime.",
+      "Take one capsule by mouth four times a day before meals and at bedtime."
+    ],
+    "answer": 3,
+    "explanation": "The abbreviations break down as follows: 'i' means one; 'cap' means capsule; 'PO' means by mouth; 'qid' means four times a day; 'ac' means before meals; and 'hs' means at bedtime. Therefore, the correct interpretation is 'Take one capsule by mouth four times a day before meals and at bedtime.'"
+  },
+  {
+    "text": "What is the generic name for Zestril?",
+    "options": [
+      "enalapril",
+      "fosinopril",
+      "lisinopril",
+      "quinapril"
+    ],
+    "answer": 2,
+    "explanation": "The brand name Zestril corresponds to the generic name lisinopril, which is an ACE inhibitor used to treat hypertension."
+  },
+  {
+    "text": "Which term refers to the name of the medication, its strength, and the quantity to be dispensed?",
+    "options": [
+      "Inscription",
+      "Rx",
+      "Signa",
+      "Subscription"
+    ],
+    "answer": 0,
+    "explanation": "In a prescription, the **inscription** is the part that specifies the name of the medication, its strength, and the quantity to be dispensed. The 'Rx' is the 'superscription' or the symbol for a prescription. The 'signa' (or 'sig') gives the directions for use, and the 'subscription' provides directions to the pharmacist on how to prepare the medication."
+  },
+  {
+    "text": "Which organization is responsible for issuing drug recalls?",
+    "options": [
+      "Board of pharmacy",
+      "DEA",
+      "FDA",
+      "NABP"
+    ],
+    "answer": 2,
+    "explanation": "The **FDA (Food and Drug Administration)** is the federal agency responsible for protecting public health by ensuring the safety, efficacy, and security of human and veterinary drugs, and is the primary entity that issues drug recalls."
+  },
+  {
+    "text": "What should a pharmacy technician do while processing a prescription if they receive a contraindication message on the pharmacy terminal screen?",
+    "options": [
+      "Bypass the screen and continue to process the prescription.",
+      "Contact the physician and ask that a different drug be prescribed.",
+      "Inform the patient that you cannot fill the prescription because the physician made an error.",
+      "Inform the pharmacist of the message."
+    ],
+    "answer": 3,
+    "explanation": "A pharmacy technician's role is to assist the pharmacist. A contraindication message is a significant clinical alert that requires the professional judgment of a licensed pharmacist. Therefore, the technician must **inform the pharmacist** of the message so the pharmacist can assess the situation and determine the appropriate course of action."
+  },
+  {
+    "text": "Which medication if expired and dispensed to a patient may be fatal to the patient?",
+    "options": [
+      "amoxicillin",
+      "cephalexin",
+      "clarithromycin",
+      "tetracycline"
+    ],
+    "answer": 3,
+    "explanation": "Expired **tetracycline** can degrade into toxic compounds that can cause a severe form of kidney damage known as Fanconi syndrome, which can be fatal. This is a well-known and dangerous risk associated with this specific antibiotic."
+  },
+  {
+    "text": "What do the first five digits of an NDC number represent?",
+    "options": [
+      "Drug item",
+      "Drug manufacturer",
+      "Drug package",
+      "Drug schedule"
+    ],
+    "answer": 1,
+    "explanation": "The NDC (National Drug Code) is a unique 10-digit, 3-segment number. The **first segment (the first 5 digits)** identifies the **drug manufacturer** or labeler. The second segment identifies the specific strength, dosage form, and formulation of the drug, and the third segment identifies the package size and type."
+  },
+  {
+    "text": "How many days would 40 capsules of a medication last if the directions were \"i cap qid\"?",
+    "options": [
+      "4 days",
+      "6 days",
+      "8 days",
+      "10 days"
+    ],
+    "answer": 3,
+    "explanation": "The abbreviation 'i cap qid' means to take one capsule four times a day. This is a total of 4 capsules per day. With a supply of 40 capsules, the prescription will last for 40 capsules / 4 capsules/day = **10 days**."
+  },
+  {
+    "text": "What is the maximum number of different medications that may be ordered on a paper DEA form 222?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": 2,
+    "explanation": "The paper **DEA form 222** is used to order Schedule I and II controlled substances. This form has a maximum of **15 lines**, allowing for the ordering of up to 15 different medications."
+  },
+  {
+    "text": "What is the correct interpretation of \"10 mg MSO4 IM q4h prn pain\"?",
+    "options": [
+      "Inhale 10 mg of morphine sulfate every 4 hours as needed for pain.",
+      "Insert 10 mL of morphine sulfate intramuscularly every 4 hours as needed for pain.",
+      "Inject 10 mg of morphine sulfate intravenously every 4 hours as needed for pain.",
+      "Inject 10 mg of morphine sulfate intramuscularly every 4 hours as needed for pain."
+    ],
+    "answer": 3,
+    "explanation": "The abbreviations mean: '10 mg' is the dose, 'MSO4' is a dangerous abbreviation for morphine sulfate, 'IM' means intramuscularly, 'q4h' means every 4 hours, and 'prn pain' means as needed for pain. The correct interpretation is to **inject 10 mg of morphine sulfate intramuscularly every 4 hours as needed for pain**."
+  },
+  {
+    "text": "Which is the correct way to write five milligrams on a prescription/medication order?",
+    "options": [
+      "0.5 mg",
+      "5 mg",
+      "5.0 mg",
+      "5.00 mg"
+    ],
+    "answer": 1,
+    "explanation": "According to the **'Do Not Use' list** for abbreviations and symbols, trailing zeros (e.g., 5.0 mg or 5.00 mg) should be avoided because they can be misinterpreted. The correct and safest way to write five milligrams is simply **5 mg**."
+  },
+  {
+    "text": "Which term is defined as the process of identifying the most up-to-date list of all the medications a patient is taking?",
+    "options": [
+      "Drug utilization evaluation",
+      "Drug utilization review",
+      "Medication reconciliation",
+      "Patient profile update"
+    ],
+    "answer": 2,
+    "explanation": "**Medication reconciliation** is the formal process of creating the most complete and accurate list possible of a patient's current medications and comparing that list against the physician's admission, transfer, and/or discharge orders. This is a critical step to prevent medication errors."
+  },
+  {
+    "text": "If a patient is to receive 2.4 g of medication per day and the drug is available in 600-mg tablets, how many tablets are needed for a day’s dose?",
+    "options": [
+      "Half a tablet",
+      "1 tablet",
+      "4 tablets",
+      "8 tablets"
+    ],
+    "answer": 2,
+    "explanation": "First, convert the daily dose from grams to milligrams: 2.4 g * 1000 mg/g = 2400 mg. The tablets are available in 600 mg. To find the number of tablets needed per day, divide the total daily dose by the strength of each tablet: 2400 mg / 600 mg = **4 tablets**."
+  },
+  {
+    "text": "A pharmacy technician has been asked to compound a medication and has been instructed by the pharmacist to reduce the substance to small, fine particles. This is an example of which compounding technique?",
+    "options": [
+      "Blending",
+      "Comminution",
+      "Levigation",
+      "Tumbling"
+    ],
+    "answer": 1,
+    "explanation": "**Comminution** is the general term for the process of reducing the particle size of a substance. Techniques such as trituration, pulverization by intervention, and levigation are all types of comminution. The other options are more specific methods or processes."
+  },
+  {
+    "text": "Which of the following may handle the disposition of controlled substances?",
+    "options": [
+      "DEA",
+      "FDA",
+      "Drug manufacturer",
+      "Reverse distributor"
+    ],
+    "answer": 3,
+    "explanation": "The proper disposal or destruction of controlled substances is a highly regulated process. A **reverse distributor** is a company that specializes in handling and disposing of expired or unwanted pharmaceutical products, including controlled substances, in compliance with DEA regulations. The DEA regulates this process but does not directly handle the disposition themselves."
+  },
+  {
+    "text": "A patient has been prescribed a fentanyl patch for severe chronic pain. How often should the patch be changed?",
+    "options": [
+      "Once a day",
+      "Every 2 days",
+      "Every 3 days",
+      "Once a week"
+    ],
+    "answer": 2,
+    "explanation": "Fentanyl transdermal patches are typically designed to deliver a consistent dose of medication over a period of time. For most fentanyl patches, the manufacturer's instructions specify that the patch should be changed and a new one applied **every 72 hours**, or **every 3 days**."
+  },
+  {
+    "text": "According to MEDMARX, which of the following medications has resulted in a large number of medication errors?",
+    "options": [
+      "hydrochlorothiazide",
+      "naproxen",
+      "propranolol",
+      "warfarin"
+    ],
+    "answer": 3,
+    "explanation": "**Warfarin** is a high-alert medication that is commonly associated with a high number of medication errors, often due to its narrow therapeutic index and the complex dosing and monitoring requirements (e.g., INR values). MEDMARX, a medication error reporting system, has frequently highlighted this issue."
+  },
+  {
+    "text": "A patient has been prescribed clotrimazole oropharyngeal buccal tablets. Where should the patient place this tablet?",
+    "options": [
+      "Between the cheeks and gum",
+      "In the mouth and swallow",
+      "In the rectum",
+      "Under the tongue"
+    ],
+    "answer": 0,
+    "explanation": "The term **'buccal'** refers to the oral cavity. A buccal tablet is designed to be placed in the buccal pouch, which is the space **between the cheeks and the gum**, where the medication dissolves and is absorbed through the mucous membranes."
+  },
+  {
+    "text": "A patient has developed a goiter, which is a symptom of which condition?",
+    "options": [
+      "Cancer",
+      "Hypertension",
+      "Hypoglycemia",
+      "Hyperthyroidism"
+    ],
+    "answer": 3,
+    "explanation": "A **goiter** is an abnormal enlargement of the thyroid gland. While it can be a symptom of both hypo- and hyperthyroidism, it is a classic symptom of **hyperthyroidism** (Graves' disease), which is a condition where the thyroid gland is overactive."
+  },
+  {
+    "text": "All of the following medications are measured in international units EXCEPT",
+    "options": [
+      "heparin.",
+      "insulin.",
+      "vitamin B6.",
+      "vitamin E."
+    ],
+    "answer": 2,
+    "explanation": "International units (IU) are used to measure the biological activity of certain substances, such as vitamins and hormones. Heparin, insulin, and vitamin E are all commonly measured in IU. **Vitamin B6**, however, is typically measured in milligrams (mg)."
+  },
+  {
+    "text": "How much water should be added to 1 L of 70% isopropyl alcohol to prepare a 30% solution?",
+    "options": [
+      "2.33 mL",
+      "42.86 mL",
+      "1333 mL",
+      "2.33 L"
+    ],
+    "answer": 2,
+    "explanation": "This can be solved using the alligation method or the formula C1V1 = C2V2. Using the formula, where C1 = 70%, V1 = 1 L, C2 = 30%, and V2 is the final volume. So, (70%)(1 L) = (30%)(V2), which gives V2 = 70/30 L = 2.33 L. The amount of water to add is the final volume minus the initial volume: 2.33 L - 1 L = 1.33 L. Converting to milliliters gives 1333 mL. Therefore, **1333 mL** of water should be added."
+  },
+  {
+    "text": "A pharmacy technician has accidentally spilled a pint of guaifenesin/codeine, which is a controlled substance. Which DEA form is used to document the spillage of a controlled substance in a pharmacy?",
+    "options": [
+      "DEA form 41",
+      "DEA form 106",
+      "DEA form 222",
+      "DEA form 224"
+    ],
+    "answer": 0,
+    "explanation": "DEA Form **41** is used to document the destruction of controlled substances, which includes accidental spillage or breakage. DEA Form 106 is for reporting theft or loss, Form 222 is for ordering, and Form 224 is for a new pharmacy registration."
+  },
+  {
+    "text": "How many grams of a 10% and 2% ointment should be used to make 25 g of a 5% ointment?",
+    "options": [
+      "2%: 9.4 g; 10%: 15.6 g",
+      "2%: 10 g; 10%: 15 g",
+      "2%: 12.5 g; 10%: 12.5 g",
+      "2%: 15.6 g; 10%: 9.4 g"
+    ],
+    "answer": 3,
+    "explanation": "First, convert the patient's weight from pounds to kilograms: 154 lbs / 2.2 lbs/kg = 70 kg. The daily dose is 12 mg/kg/day * 70 kg = 840 mg/day. The total dose over 5 days is 840 mg/day * 5 days = 4200 mg. Finally, convert this to grams: 4200 mg / 1000 mg/g = **4.2 g**."  },
+  {
+    "text": "Under the Controlled Substance Act, which drug schedule is meperidine classified?",
+    "options": [
+      "Schedule I controlled substance",
+      "Schedule II controlled substance",
+      "Schedule III controlled substance",
+      "Schedule IV controlled substance"
+    ],
+    "answer": 1,
+    "explanation": "**Meperidine** (brand name Demerol) is a potent opioid analgesic with a high potential for abuse and dependence. As such, it is classified as a **Schedule II controlled substance**."
+  },
+  {
+    "text": "Which type of hospital error occurs when a medication is compounded incorrectly and administered to the patient?",
+    "options": [
+      "Wrong administration",
+      "Wrong dosage form",
+      "Wrong drug preparation",
+      "Unauthorized drug error"
+    ],
+    "answer": 2,
+    "explanation": "A **wrong drug preparation error** occurs when a medication is incorrectly compounded, formulated, or prepared before it is administered. This is a specific type of medication error that happens during the preparation phase."
+  },
+  {
+    "text": "How many grams of fluorouracil will a 154-lb patient receive in 5 successive days at a dosage rate of 12 mg/kg/day?",
+    "options": [
+      "0.84 g",
+      "1.848 g",
+      "4.2 g",
+      "9.24 g"
+    ],
+    "answer": 2,
+    "explanation": "First, convert the patient's weight from pounds to kilograms: 154 lbs / 2.2 lbs/kg = 70 kg. The daily dose is 12 mg/kg/day * 70 kg = 840 mg/day. The total dose over 5 days is 840 mg/day * 5 days = 4200 mg. Finally, convert this to grams: 4200 mg / 1000 mg/g = **4.2 g**."
+  },
+  {
+    "text": "Which medication is being monitored if a patient has an INR value of 3.0?",
+    "options": [
+      "dabigatran",
+      "enoxaparin",
+      "rivaroxaban",
+      "warfarin"
+    ],
+    "answer": 3,
+    "explanation": "The International Normalized Ratio (**INR**) is a laboratory test used to monitor the effectiveness of the oral anticoagulant **warfarin**. Dabigatran and rivaroxaban are newer anticoagulants that do not require routine INR monitoring."
+  },
+  {
+    "text": "Which of the following medications carries a boxed warning?",
+    "options": [
+      "allopurinol",
+      "ezetimibe",
+      "levalbuterol",
+      "sertraline"
+    ],
+    "answer": 3,
+    "explanation": "The FDA requires a boxed warning (also known as a black box warning) for medications that have a significant risk of serious or life-threatening adverse effects. **Sertraline**, like other antidepressants, carries a boxed warning regarding the increased risk of suicidal thoughts and behaviors in children, adolescents, and young adults."
+  },
+  {
+    "text": "A 52-year-old male has been diagnosed with hypertension; which of the medications is indicated for this condition?",
+    "options": [
+      "etanercept",
+      "fluticasone",
+      "tamsulosin",
+      "triamterene/hydrochlorothiazide"
+    ],
+    "answer": 3,
+    "explanation": "**Triamterene/hydrochlorothiazide** is a combination medication that includes a potassium-sparing diuretic (triamterene) and a thiazide diuretic (hydrochlorothiazide). It is commonly prescribed to treat **hypertension**."
+  },
+  {
+    "text": "How long must a pharmacy maintain the original prescription order for a patient?",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "4 years"
+    ],
+    "answer": 1,
+    "explanation": "According to the federal Controlled Substances Act, all records, including prescription records for controlled substances, must be maintained for a minimum of **2 years**. Many states have longer requirements, so a pharmacy should follow the most stringent rule, but the federal minimum is 2 years."
+  },
+  {
+    "text": "Which of the following medications should have the auxiliary label “Take on an Empty Stomach” affixed to the prescription vial?",
+    "options": [
+      "alendronate",
+      "carbamazepine",
+      "carvedilol",
+      "celecoxib"
+    ],
+    "answer": 0,
+    "explanation": "**Alendronate** (brand name Fosamax) is a bisphosphonate used for osteoporosis. It has very poor oral bioavailability and must be taken on an empty stomach with a full glass of water, with the patient remaining upright for at least 30 minutes to prevent esophageal irritation and to improve absorption."
+  },
+  {
+    "text": "A patient informs you they have experienced an adverse effect as a result of the vaccination they received this morning from the pharmacy. After informing the pharmacist of this situation, which organization should be notified?",
+    "options": [
+      "FAERS",
+      "ISMP VERP",
+      "MEDMARX",
+      "VAERS"
+    ],
+    "answer": 3,
+    "explanation": "**VAERS** (**V**accine **A**dverse **E**vent **R**eporting **S**ystem) is a national vaccine safety surveillance program run by the CDC and FDA. It is the specific organization to report adverse events following vaccinations."
+  },
+  {
+    "text": "Which of the following will elevate blood glucose levels?",
+    "options": [
+      "Aspirin",
+      "Beta blockers",
+      "Thiazide diuretics",
+      "Trimethoprim/sulfamethoxazole"
+    ],
+    "answer": 2,
+    "explanation": "**Thiazide diuretics** (e.g., hydrochlorothiazide) are known to have a side effect of increasing blood glucose levels, a phenomenon known as hyperglycemia. This is particularly relevant for patients with diabetes."
+  },
+  {
+    "text": "A medication guide must be provided in all of the following situations EXCEPT",
+    "options": [
+      "when the drug is dispensed in an outpatient setting and the product will then be used by the patient without direct supervision by a health care professional.",
+      "when the drug is dispensed in an inpatient setting.",
+      "when the medication is a requirement of a REMS.",
+      "when the patient requests it."
+    ],
+    "answer": 1,
+    "explanation": "Medication guides are required to be dispensed in outpatient settings, when the medication is part of a REMS program, or when the patient requests one. However, in an **inpatient setting**, where the patient is under the direct supervision of healthcare professionals, a medication guide is typically not required as patient education is provided by the clinical staff."
+  },
+  {
+    "text": "If a hospital pharmacy fails to review a patient’s INR/PT lab results; which type of medication error is this?",
+    "options": [
+      "Unauthorized drug error",
+      "Compliance error",
+      "Improper dose error",
+      "Monitoring error"
+    ],
+    "answer": 3,
+    "explanation": "An error that involves a failure to perform or review necessary clinical assessments, such as lab values, is classified as a **monitoring error**. In this case, not monitoring the INR/PT lab results for a patient on warfarin could lead to a serious adverse event."
+  },
+  {
+    "text": "Which of the following medications is indicated for diabetes mellitus?",
+    "options": [
+      "clonazepam",
+      "lamotrigine",
+      "lurasidone",
+      "sitagliptin"
+    ],
+    "answer": 3,
+    "explanation": "**Sitagliptin** (brand name Januvia) is a dipeptidyl peptidase-4 (DPP-4) inhibitor, a class of oral medications used to treat **Type 2 diabetes mellitus**."
+  },
+  {
+    "text": "Which medications requires that a patient have a negative pregnancy test within 24 hours of beginning it?",
+    "options": [
+      "doxycycline",
+      "insulin lispro",
+      "methotrexate",
+      "thalidomide"
+    ],
+    "answer": 3,
+    "explanation": "**Thalidomide** is a highly teratogenic drug, meaning it can cause severe birth defects. Due to this risk, it is part of a strict REMS program (S.T.E.P.S.) that requires female patients to have a negative pregnancy test within 24 hours of starting the medication, and to use two forms of contraception."
+  },
+  {
+    "text": "Interpret the following prescription: Tussionex PennKinetic suspension 60 mL, 1 tsp PO q 12h for cough. Which are the appropriate directions for use to appear on the prescription label?",
+    "options": [
+      "Take 1 tsp by mouth every 12 hours for cough.",
+      "Take 1 teaspoon by mouth every 12 hours as needed for cough.",
+      "Take 1 teaspoon by mouth every 12 hours for cough.",
+      "Take 1 tablespoon by mouth every 12 hours for cough."
+    ],
+    "answer": 2,
+    "explanation": "The prescription uses the abbreviation 'tsp', which stands for **teaspoon**. The 'PO' means by mouth, and 'q 12h' means every 12 hours. Therefore, the most accurate and patient-friendly label instruction is 'Take 1 teaspoon by mouth every 12 hours for cough.'"
+  },
+  {
+    "text": "Which organization determines the medications requiring medication guides be distributed to the patient?",
+    "options": [
+      "FDA",
+      "ISMP",
+      "TJC",
+      "USP"
+    ],
+    "answer": 0,
+    "explanation": "The **FDA (Food and Drug Administration)** is the federal agency that mandates which medications require a Medication Guide to be provided to the patient. These are drugs that the FDA has determined pose a serious health risk."
+  },
+  {
+    "text": "Which of the following medications is a selective serotonin reuptake inhibitor and is indicated for depression?",
+    "options": [
+      "escitalopram",
+      "eszopiclone",
+      "omega-3-acid ethyl esters",
+      "vardenafil"
+    ],
+    "answer": 0,
+    "explanation": "**Escitalopram** (brand name Lexapro) is a well-known **SSRI (selective serotonin reuptake inhibitor)** used to treat depression and anxiety."
+  },
+  {
+    "text": "Both glipiZIDE and glyBURIDE are examples of which of the following?",
+    "options": [
+      "Drugs found on the \"Do Not Use\" list",
+      "Drugs using tall man letters",
+      "Investigational drugs",
+      "Proprietary drugs"
+    ],
+    "answer": 1,
+    "explanation": "**Tall man letters** are a form of highlighting that uses a mixture of uppercase and lowercase letters in a drug name (e.g., glipiZIDE and glyBURIDE) to emphasize the dissimilar parts of look-alike, sound-alike drug names, thereby reducing medication errors."
+  },
+  {
+    "text": "A patient presents you with a prescription for furosemide 20 mg. As you are processing the prescription, you receive a therapy-duplication message, because they have a prescription for spironolactone 25 mg. What should you do?",
+    "options": [
+      "Call the physician about the situation.",
+      "Inform the patient they should stop taking the spironolactone.",
+      "Inform the pharmacist.",
+      "Process the prescription."
+    ],
+    "answer": 2,
+    "explanation": "A therapy-duplication message means the patient is on two medications with similar therapeutic effects, in this case, two diuretics. While this may be an intentional combination, it is a significant clinical decision. The pharmacy technician's role is to alert the pharmacist, who can then verify the order, check with the prescriber if necessary, and ensure patient safety. The technician should **inform the pharmacist** of the message."
+  },
+  {
+    "text": "Which of the following is a Risk Evaluation and Mitigation Strategy (REMS) used to manage a known or potential serious risk?",
+    "options": [
+      "Compounds",
+      "Investigational new drugs",
+      "OTC medications",
+      "Prescription medications"
+    ],
+    "answer": 3,
+    "explanation": "A **Risk Evaluation and Mitigation Strategy (REMS)** is a program required by the FDA for certain **prescription medications** with serious safety concerns. It is designed to ensure that the benefits of the drug outweigh its risks by educating patients and healthcare providers about the risks."
+  },
+  {
+    "text": "A patient has been diagnosed with deep vein thrombosis. Which of the following medications is an appropriate treatment for this condition?",
+    "options": [
+      "enoxaparin",
+      "lovastatin",
+      "pramipexole",
+      "pregabalin"
+    ],
+    "answer": 0,
+    "explanation": "**Enoxaparin** (brand name Lovenox) is a low-molecular-weight heparin, a type of anticoagulant, that is commonly used to prevent and treat **deep vein thrombosis**."
+  },
+  {
+    "text": "The following prescription is presented to the pharmacy. How many days will it last? Latanoprost ophthalmic 0.005% 2.5 mL, 1 gtt in each eye q pm",
+    "options": [
+      "15 days",
+      "20 days",
+      "25 days",
+      "30 days"
+    ],
+    "answer": 2,
+    "explanation": "The prescription is for 1 drop ('gtt') in 'each eye' (which is two drops total) every night ('q pm'). This is 2 drops per day. There are approximately 20 drops per milliliter. The total volume is 2.5 mL, so the total number of drops is $2.5 mL * 20 drops/mL = 50 drops$. The number of days the prescription will last is $50 drops / 2 drops/day = **25 days**$."
+  },
+  {
+    "text": "Which is the maximum quantity of pseudoephedrine that may be sold in 1 day to a patient?",
+    "options": [
+      "2.5 g",
+      "3.6 g",
+      "7.5 g",
+      "9 g"
+    ],
+    "answer": 1,
+    "explanation": "According to the Combat Methamphetamine Epidemic Act of 2005, the maximum amount of pseudoephedrine that can be sold to a single customer in a **single day** is **3.6 grams**."
+  },
+  {
+    "text": "Which is the generic name for Namenda?",
+    "options": [
+      "gabapentin",
+      "memantine",
+      "naproxen",
+      "saxagliptin"
+    ],
+    "answer": 1,
+    "explanation": "The brand name **Namenda** corresponds to the generic name **memantine**, a medication used to treat moderate to severe Alzheimer's disease."
+  },
+  {
+    "text": "Which of the following routes of administration is the quickest in producing a pharmacological response?",
+    "options": [
+      "Intradermally",
+      "Intramuscularly",
+      "Intravenously",
+      "Subcutaneously"
+    ],
+    "answer": 2,
+    "explanation": "An **intravenous** ('IV') injection delivers the medication directly into the bloodstream, bypassing the absorption process. This results in the fastest onset of action and therefore the quickest pharmacological response."
+  },
+  {
+    "text": "When transferring a controlled substance prescription to another pharmacy, which of the following must be written on the front of the original prescription?",
+    "options": [
+      "Copy",
+      "New",
+      "Transferred",
+      "Void"
+    ],
+    "answer": 3,
+    "explanation": "When a controlled substance prescription is transferred to another pharmacy, the original prescription must be marked with the word '**VOID**' on its face to prevent it from being filled again at the original pharmacy."
+  },
+  {
+    "text": "Which of the following would be an appropriate auxiliary label for a prescription of metoprolol?",
+    "options": [
+      "May discolor urine or feces.",
+      "Federal law prohibits the transfer of this drug to any person other than the person for whom it was prescribed.",
+      "Take with food or milk.",
+      "Take with orange juice."
+    ],
+    "answer": 2,
+    "explanation": "Metoprolol, a beta-blocker, is often prescribed to be taken **with food or milk** to enhance absorption and reduce stomach upset. The other labels are not typically associated with this medication."
+  },
+  {
+    "text": "Which of the following actions should you take when receiving an illegible prescription?",
+    "options": [
+      "Ask the patient if they remember the name of the medication.",
+      "Call the prescriber for clarification.",
+      "Inform the patient that you can’t fill the prescription because you can’t read it.",
+      "Inform the pharmacist of the situation."
+    ],
+    "answer": 3,
+    "explanation": "An illegible prescription is a significant safety risk. The technician should **inform the pharmacist** of the situation. The pharmacist is then responsible for taking the necessary steps, which may include contacting the prescriber for clarification, to ensure the correct medication is dispensed."
+  },
+  {
+    "text": "Which of the following is the generic name for Paxil?",
+    "options": [
+      "lansoprazole",
+      "paroxetine",
+      "pravastatin",
+      "sertraline"
+    ],
+    "answer": 1,
+    "explanation": "The brand name **Paxil** corresponds to the generic name **paroxetine**, which is an SSRI used to treat depression and anxiety disorders."
+  },
+  {
+    "text": "A patient has been prescribed Singulair; which of the following auxiliary labels should be affixed to the prescription bottle?",
+    "options": [
+      "May cause drowsiness.",
+      "Take on an empty stomach.",
+      "Take 1 hour before or 2 hours after a meal.",
+      "Take with milk."
+    ],
+    "answer": 2,
+    "explanation": "**Singulair** (montelukast) is a leukotriene receptor antagonist used for asthma and allergies. To ensure proper absorption, it is recommended to be taken on an empty stomach, which is typically **1 hour before or 2 hours after a meal**."
+  },
+  {
+    "text": "Which of the following is the purpose of tall man lettering?",
+    "options": [
+      "Identify dissimilarities in drug classifications.",
+      "Identify dissimilarities in drug names.",
+      "Identify similarities in drug classifications.",
+      "Identify similarities in drug names."
+    ],
+    "answer": 1,
+    "explanation": "**Tall man lettering** is a strategy developed by the FDA and the ISMP to reduce medication errors by highlighting the **dissimilar parts of look-alike, sound-alike drug names** to make them more distinct (e.g., buPROPion and busPIRone)."
+  },
+  {
+    "text": "Who must adhere to the \"Do Not Use\" List?",
+    "options": [
+      "Community pharmacies",
+      "Compounding pharmacies",
+      "Health care facilities accredited by The Joint Commission",
+      "Mail order pharmacies"
+    ],
+    "answer": 2,
+    "explanation": "The **Joint Commission** is a non-profit organization that accredits and certifies healthcare organizations and programs. The 'Do Not Use' list is a mandatory requirement for all **health care facilities accredited by The Joint Commission** to reduce medication errors associated with confusing abbreviations."
+  },
+  {
+    "text": "If taken with alcohol, which of the following antibiotics may result in a disulfiram-like reaction?",
+    "options": [
+      "amoxicillin/clavulanate",
+      "cephalexin",
+      "clarithromycin",
+      "metronidazole"
+    ],
+    "answer": 3,
+    "explanation": "**Metronidazole** (brand name Flagyl) can cause a severe reaction when combined with alcohol, known as a **disulfiram-like reaction**. Symptoms include flushing, headache, nausea, vomiting, and abdominal cramps."
+  },
+  {
+    "text": "Which of the following medications if taken with nitroglycerin may result in postural hypotension?",
+    "options": [
+      "losartan",
+      "simvastatin",
+      "spironolactone",
+      "tadalafil"
+    ],
+    "answer": 3,
+    "explanation": "**Tadalafil** (brand name Cialis), a phosphodiesterase-5 inhibitor used for erectile dysfunction, should not be taken with nitrates like nitroglycerin. The combination can lead to a severe drop in blood pressure, causing life-threatening **postural hypotension**."
+  },
+  {
+    "text": "A pharmacy technician uses D10W solution to compound a sterile compound instead of normal saline solution. Which type of medication error has occurred?",
+    "options": [
+      "Improper dose error",
+      "Wrong dosage-form error",
+      "Wrong drug preparation error",
+      "Wrong administration-technique error"
+    ],
+    "answer": 2,
+    "explanation": "This is a classic example of a **wrong drug preparation error**. The incorrect diluent (D10W instead of normal saline) was used during the compounding process, resulting in a product with the wrong composition, even if the active drug and dose were correct."
+  },
+  {
+    "text": "A patient has been diagnosed having seizures and has been prescribed carbamazepine. While on this medication, the patient should have which laboratory test performed?",
+    "options": [
+      "Blood glucose",
+      "BUN",
+      "HDL cholesterol",
+      "Triglycerides"
+    ],
+    "answer": 1,
+    "explanation": "**Carbamazepine** (brand name Tegretol) can cause serious side effects, including bone marrow suppression and aplastic anemia. It is crucial to monitor a patient's liver and kidney function, as well as blood counts. The **BUN (Blood Urea Nitrogen)** test is used to assess kidney function."
+  },
+  {
+    "text": "A 75-year-old patient presents a prescription for Zoloft to be filled. Which of the following should the pharmacy technician do?",
+    "options": [
+      "Ask the patient if they would like to have their prescription dispensed in a child-resistant container.",
+      "Contact the physician to see if a generic may be dispensed to save the patient money.",
+      "Dispense the prescription as written.",
+      "Notify the pharmacist."
+    ],
+    "answer": 0,
+    "explanation": "According to the Poison Prevention Packaging Act (PPPA), all prescription drugs must be dispensed in child-resistant containers unless the patient or prescriber requests otherwise. For an elderly patient, it is common to struggle with these containers, so it is appropriate to **ask the patient if they would like a non-child-resistant container**."
+  },
+  {
+    "text": "Which of the following medications may require a prior authorization be obtained before dispensing?",
+    "options": [
+      "Cipro",
+      "Lasix",
+      "Retin-A",
+      "Zoloft"
+    ],
+    "answer": 2,
+    "explanation": "A **prior authorization** is often required by insurance companies for high-cost, non-preferred, or cosmetic-use medications. **Retin-A** (tretinoin), a topical medication often used for acne and wrinkles, is frequently subject to prior authorization, especially when used for cosmetic purposes, as it can be expensive and is often not covered by insurance without a clinical justification."
+  },
+  {
+    "text": "How many teaspoon doses are in a pint of elixir?",
+    "options": [
+      "24",
+      "48",
+      "72",
+      "96"
+    ],
+    "answer": 3,
+    "explanation": "A pint is a unit of volume. There are 16 fluid ounces in a pint. Each fluid ounce is approximately 30 mL. So, a pint is 16 oz * 30 mL/oz ≈ 480 mL. A teaspoon is 5 mL. Therefore, the number of teaspoon doses is 480 mL / 5 mL/teaspoon = **96 teaspoon doses**."  },
+  {
+    "text": "Which drug classification does a medication with a -sartan suffix belong?",
+    "options": [
+      "Angiotensin-converting enzyme inhibitor",
+      "Angiotensin II receptor antagonist",
+      "Calcium channel blocker",
+      "Loop diuretic"
+    ],
+    "answer": 1,
+    "explanation": "The suffix '-sartan' is a common ending for the generic names of **angiotensin II receptor antagonists (ARBs)**, such as losartan, valsartan, and candesartan. These drugs are primarily used to treat hypertension and heart failure."
+  },
+  {
+    "text": "Which of the following branded over-the-counter medications contains naproxen sodium as its active ingredient?",
+    "options": [
+      "Aleve",
+      "Maalox",
+      "Motrin IB",
+      "Tylenol"
+    ],
+    "answer": 0,
+    "explanation": "**Aleve** is the brand name for the over-the-counter pain reliever that contains **naproxen sodium** as its active ingredient. Motrin IB contains ibuprofen, Tylenol contains acetaminophen, and Maalox is an antacid."
+  },
+  {
+    "text": "A patient complains of having difficulty focusing their attention in a quiet inattentive manner and displays hyperactivity at times. Which medication would be appropriate for physician to prescribe?",
+    "options": [
+      "amitriptyline",
+      "atomoxetine",
+      "eletriptan",
+      "olanzapine"
+    ],
+    "answer": 1,
+    "explanation": "The patient's symptoms of inattention and hyperactivity are consistent with **Attention Deficit Hyperactivity Disorder (ADHD)**. **Atomoxetine** (brand name Strattera) is a selective norepinephrine reuptake inhibitor that is approved for the treatment of ADHD."
+  },
+  {
+    "text": "How many milliliters of a 1:50 (w/v) stock solution can be prepared from 1 pint of a 5% stock solution?",
+    "options": [
+      "96 mL",
+      "192 mL",
+      "720 mL",
+      "1200 mL"
+    ],
+    "answer": 1,
+    "explanation": "First, convert the volumes and concentrations to a consistent unit. 1 pint is approximately 473 mL. The 5% solution is equivalent to 5 g/100 mL. The 1:50 solution is equivalent to 1 g/50 mL, or 2 g/100 mL, or a 2% solution. Using the formula C1V1 = C2V2: (5%)(473 mL) = (2%)(V2). Solving for V2 gives V2 = (5/2)*473 = 1182.5 mL. None of the options are correct. Let's re-examine the question. A pint is 480 mL. The 5% solution is 5 g/100 mL or 480 mL * 0.05 = 24 g of drug. The 1:50 solution is 1 g/50 mL or 0.02 g/mL. To find the volume of the 1:50 solution, we divide the total grams of drug by the new concentration: 24 g / (1 g/50 mL) = 24 g * 50 mL/g = 1200 mL. This is the volume of the new solution. Let's re-examine the alligation method: (C1) * V1 = (C2) * V2 where C1=5%, V1=1 pint=480 mL, C2 = (1/50) = 2%, and V2 is the unknown volume. (0.05) * 480 = (0.02) * V2. V2 = (0.05 * 480) / 0.02 = 1200 mL.  The question is asking how many mL of the 1:50 solution can be prepared *from* a 1 pint stock. So we have 1 pint of a 5% solution, which is 480mL. The amount of active ingredient is 0.05 * 480 = 24g. We want to prepare a 1:50 (1g/50mL) solution. The final volume would be 24g * 50mL/1g = 1200mL. Ah, the question is likely flawed or there is a misinterpretation.  Let's re-evaluate the previous calculation. It is possible there is a typo in the question and it should be 1 pint of a 10% solution instead of 5%. If it were a 10% solution, we would have 0.10 * 480 = 48g. The final volume would be 48g * 50mL/1g = 2400mL. Let's assume the question is asking to prepare 1200 mL from the stock solution. Let's go with the answer that is the closest to the calculation. The closest answer is 1200 mL. Let's reconsider another way of approaching this.  Using the provided options, let's see which one works. C1 * V1 = C2 * V2. 5% * 1 pint = (1/50) * V2. V2 = 5% * 1 pint / (1/50). A pint is 473 mL. V2 = 0.05 * 473 / 0.02 = 1182.5 mL. This is closest to 1200 mL. Let's reconsider the conversion of 1:50 w/v. This means 1 g of drug in 50 mL of solution. So we have a 2% solution. Our starting solution is 5% w/v. The total amount of drug is 1 pint (473 mL) * 5% = 23.65g. To make a 2% solution with 23.65g of drug, the total volume would be 23.65g / 0.02 = 1182.5 mL. The closest answer is **1200 mL**. The discrepancy is likely due to using 1 pint = 480 mL instead of 473 mL."
+  },
+  {
+    "text": "Which of the following medications should be tapered when discontinuing therapy?",
+    "options": [
+      "atorvastatin",
+      "furosemide",
+      "lisinopril",
+      "metoprolol"
+    ],
+    "answer": 3,
+    "explanation": "**Metoprolol** is a beta-blocker. Abruptly discontinuing beta-blocker therapy can lead to rebound hypertension, angina, or a heart attack. Therefore, it is essential to **taper** the dose gradually when discontinuing the medication."
+  },
+  {
+    "text": "How frequently must a pharmacy technician who handles hazardous drugs receive training?",
+    "options": [
+      "Every 4 months",
+      "Every 6 months",
+      "Every 12 months",
+      "Every 24 months"
+    ],
+    "answer": 2,
+    "explanation": "According to USP <800>, personnel who handle hazardous drugs must receive training and competency assessment at least **every 12 months** (annually)."
+  },
+  {
+    "text": "How often must the temperature be taken and recorded in a pharmacy compounding sterile preparations?",
+    "options": [
+      "Once a day",
+      "Twice a day",
+      "Three times a day",
+      "Four times a day"
+    ],
+    "answer": 1,
+    "explanation": "According to USP <797>, the temperature of the compounding area and refrigerator must be monitored and documented **at least twice a day** (once in the morning and once in the evening) to ensure the stability of compounded sterile preparations."
+  },
+  {
+    "text": "A patient has been diagnosed with a major depressive episode and duloxetine has been prescribed; which of the following are appropriate directions for use?",
+    "options": [
+      "PO q AM",
+      "PO bid",
+      "PO q 6 hours",
+      "PO q hs"
+    ],
+    "answer": 0,
+    "explanation": "**Duloxetine** (brand name Cymbalta) is a serotonin-norepinephrine reuptake inhibitor (SNRI) that is typically prescribed to be taken **once a day (q AM)**, as it has a long half-life and is effective with a single daily dose."
+  },
+  {
+    "text": "A patient is prescribed Humulin N 25 units BID subcutaneous; how many days will the prescription last?",
+    "options": [
+      "10 days",
+      "15 days",
+      "20 days",
+      "30 days"
+    ],
+    "answer": 2,
+    "explanation": "The prescription is for 25 units BID, which means 25 units twice a day, for a total of 50 units per day. Insulin comes in a 10 mL vial, and a standard concentration is U-100, which means there are 100 units/mL. So, a 10 mL vial contains $100 units/mL * 10 mL = 1000 units$. The number of days the vial will last is $1000 units / 50 units/day = **20 days**$."
+  },
+  {
+    "text": "Which of the following may be used when treating a sunburn?",
+    "options": [
+      "Aloe Vera",
+      "Goldenseal",
+      "Peppermint",
+      "Valerian"
+    ],
+    "answer": 0,
+    "explanation": "**Aloe vera** is a plant extract that is widely used topically to soothe and moisturize the skin. It is a common and effective treatment for minor burns, including sunburn."
+  },
+  {
+    "text": "Which of the following electrolytes is necessary for the heart to function properly?",
+    "options": [
+      "Calcium",
+      "Iodine",
+      "Potassium",
+      "Zinc"
+    ],
+    "answer": 2,
+    "explanation": "**Potassium** is a crucial electrolyte that plays a vital role in nerve and muscle function, including the electrical activity of the heart. Low potassium levels (hypokalemia) or high levels (hyperkalemia) can lead to serious cardiac arrhythmias and other heart problems."
+  },
+  {
+    "text": "A deficiency of which vitamin results in pernicious anemia?",
+    "options": [
+      "B1",
+      "B7",
+      "B12",
+      "C"
+    ],
+    "answer": 2,
+    "explanation": "**Pernicious anemia** is a type of anemia caused by a deficiency of **vitamin B12** (cobalamin), which is often due to a lack of intrinsic factor needed for its absorption from the gut."
+  },
+  {
+    "text": "Which of the following medications should a patient take with a glass of water and should remain in an upright position for a minimum of 30 minutes?",
+    "options": [
+      "Alendronate",
+      "Estradiol",
+      "Levothyroxine",
+      "Zolpidem"
+    ],
+    "answer": 0,
+    "explanation": "**Alendronate** (brand name Fosamax), a bisphosphonate for osteoporosis, must be taken with a full glass of water and the patient must remain upright for at least 30 minutes to prevent esophageal irritation and ulceration, which is a common and serious side effect."
+  },
+  {
+    "text": "Which of the following medications would be prescribed for a patient diagnosed with fibromyalgia?",
+    "options": [
+      "cyclobenzaprine",
+      "escitalopram",
+      "fenofibrate",
+      "tamsulosin"
+    ],
+    "answer": 0,
+    "explanation": "**Cyclobenzaprine** (brand name Flexeril) is a muscle relaxant that is often prescribed off-label to help with the pain and sleep disturbances associated with **fibromyalgia**. Other medications like pregabalin (Lyrica) and duloxetine (Cymbalta) are also FDA-approved for this condition."
+  },
+  {
+    "text": "Which of the following is the generic name for vitamin K?",
+    "options": [
+      "ergocalciferol",
+      "phytonadione",
+      "retinol",
+      "tocopherol"
+    ],
+    "answer": 1,
+    "explanation": "The generic name for **vitamin K** is **phytonadione**. Ergocalciferol is vitamin D2, retinol is vitamin A, and tocopherol is vitamin E."
+  },
+  {
+    "text": "Which of the following medication is indicated for glaucoma?",
+    "options": [
+      "bacitracin ophthalmic",
+      "cromolyn ophthalmic",
+      "gentamicin ophthalmic",
+      "latanoprost ophthalmic"
+    ],
+    "answer": 3,
+    "explanation": "**Latanoprost ophthalmic** is a prostaglandin analog that is used to reduce intraocular pressure in patients with **glaucoma** or ocular hypertension."
+  },
+  {
+    "text": "Which of the following is an indication for angiotensin-converting enzyme inhibitor?",
+    "options": [
+      "Epilepsy",
+      "Hypertension",
+      "Schizophrenia",
+      "Type II diabetes mellitus"
+    ],
+    "answer": 1,
+    "explanation": "**Angiotensin-converting enzyme (ACE) inhibitors** (e.g., lisinopril, enalapril) are a class of medications that are widely used to treat **hypertension** by relaxing blood vessels and decreasing blood volume."
+  },
+  {
+    "text": "Which of the following medications is exempted from being dispensed in a child-resistant container?",
+    "options": [
+      "Lyrica",
+      "Metformin",
+      "Ortho-Novum 7/7/7",
+      "Singulair"
+    ],
+    "answer": 2,
+    "explanation": "The Poison Prevention Packaging Act (PPPA) requires most prescription and OTC medications to be in child-resistant packaging. However, certain drugs are exempted, including oral contraceptives like **Ortho-Novum 7/7/7**, which are dispensed in special packaging designed for the drug's regimen."
+  },
+  {
+    "text": "Which of the following drug classifications is indicated for depression?",
+    "options": [
+      "Biguanide",
+      "HMG Co-A reductase inhibitor",
+      "Protease inhibitor",
+      "Selective serotonin receptor inhibitor"
+    ],
+    "answer": 3,
+    "explanation": "A **selective serotonin reuptake inhibitor (SSRI)** is a class of antidepressant drugs that includes medications like fluoxetine and sertraline. They are a primary treatment for **depression**."
+  },
+  {
+    "text": "A patient has been diagnosed with breast cancer, and their physician wishes to prescribe a selective estrogen receptor modulator. Which of the following should be prescribed?",
+    "options": [
+      "anastrozole",
+      "megestrol",
+      "paclitaxel",
+      "tamoxifen"
+    ],
+    "answer": 3,
+    "explanation": "**Tamoxifen** is a well-known **selective estrogen receptor modulator (SERM)**. It is widely used in the treatment and prevention of hormone-receptor-positive breast cancer by blocking the effects of estrogen on breast tissue."
+  },
+  {
+    "text": "Which of the following drug classifications may result in the patient experiencing nephrotoxicity and ototoxicity?",
+    "options": [
+      "Aminoglycosides",
+      "Cephalosporins",
+      "Fluoroquinolones",
+      "Macrolides"
+    ],
+    "answer": 0,
+    "explanation": "**Aminoglycoside** antibiotics (e.g., gentamicin, tobramycin) are known for their potential to cause serious adverse effects on the kidneys (**nephrotoxicity**) and the inner ear (**ototoxicity**). For this reason, their use is carefully monitored."
+  },
+  {
+    "text": "Which of the following is a side effect of prednisone?",
+    "options": [
+      "Drowsiness",
+      "Edema",
+      "Hypotension",
+      "Hypothyroidism"
+    ],
+    "answer": 1,
+    "explanation": "**Prednisone** is a corticosteroid. A common side effect of long-term corticosteroid use is fluid retention, which can lead to swelling, or **edema**."
+  },
+  {
+    "text": "Which of the following analgesics may cause liver damage as an adverse reaction?",
+    "options": [
+      "acetaminophen",
+      "aspirin",
+      "celecoxib",
+      "naproxen"
+    ],
+    "answer": 0,
+    "explanation": "**Acetaminophen** (brand name Tylenol) is well-known for its potential to cause severe **liver damage** or hepatotoxicity, especially when taken in high doses or with alcohol."
+  },
+  {
+    "text": "Which of the following OTC ingredients is indicated for flatulence?",
+    "options": [
+      "docusate",
+      "polyethylene glycol/electrolytes",
+      "psyllium",
+      "simethicone"
+    ],
+    "answer": 3,
+    "explanation": "**Simethicone** is an antiflatulent agent that works by breaking up gas bubbles in the stomach and intestines. It is a common active ingredient in over-the-counter medications for **flatulence** and bloating."
+  },
+  {
+    "text": "Which of the following medications is available as a suspension and is injected intramuscularly?",
+    "options": [
+      "ethinyl estradiol/etonogestrel",
+      "ethinyl estradiol/norelgestromin",
+      "levonorgestrel",
+      "medroxyprogesterone"
+    ],
+    "answer": 3,
+    "explanation": "**Medroxyprogesterone** (brand name Depo-Provera) is a progestin-only contraceptive. It is available as an aqueous suspension and is administered as a deep **intramuscular injection** every 3 months."
+  },
+  {
+    "text": "A 27-year-old female patient has been diagnosed with depression and obsessive-compulsive disorder. Her physician wishes to prescribe an SSRI; which medication would be an appropriate choice?",
+    "options": [
+      "amitriptyline",
+      "bupropion",
+      "imipramine",
+      "sertraline"
+    ],
+    "answer": 3,
+    "explanation": "**Sertraline** (brand name Zoloft) is an **SSRI** that is FDA-approved for the treatment of both major depressive disorder and **obsessive-compulsive disorder (OCD)**. The other options are either older antidepressants or are not the first-line choice for OCD."
+  },
+  {
+    "text": "If a pharmacy technician spills a hazardous substance in their eye, how long should they flood the affected eye with water or an isotonic eye wash?",
+    "options": [
+      "5 minutes",
+      "10 minutes",
+      "15 minutes",
+      "20 minutes"
+    ],
+    "answer": 2,
+    "explanation": "In the event of a chemical splash to the eye, the affected area should be flushed immediately. According to safety protocols, the eye should be flooded with water or an isotonic eye wash for a minimum of **15 minutes** to ensure the complete removal of the hazardous substance and prevent serious injury."
+  },
+  {
+    "text": "A patient has been prescribed Transderm-Scop for vertigo. How often should the transdermal patch be changed?",
+    "options": [
+      "Daily",
+      "Twice a day",
+      "Every 3 days",
+      "Weekly"
+    ],
+    "answer": 2,
+    "explanation": "**Transderm-Scop** (scopolamine) is a transdermal patch used to prevent nausea and vomiting associated with motion sickness or surgery. The patch is designed to be changed **every 72 hours**, or **every 3 days**."
+  },
+  {
+    "text": "Which of the following medications should not be crushed?",
+    "options": [
+      "Lasix",
+      "Naprosyn",
+      "Tenormin",
+      "Toprol XL"
+    ],
+    "answer": 3,
+    "explanation": "**Toprol XL** (metoprolol succinate) is an extended-release medication, denoted by the 'XL'. Crushing or chewing extended-release tablets can destroy their special coating, leading to the rapid release of the entire dose, which can cause serious adverse effects. The medication should be swallowed whole."
+  },
+  {
+    "text": "If a medication has awarded a “B” therapeutic equivalent code by the FDA, which of the following does it mean?",
+    "options": [
+      "It is therapeutically equivalent to other pharmaceutically equivalent products.",
+      "In conventional dosage forms it does not present bioequivalence problems.",
+      "It is not therapeutically equivalent to other pharmaceutically equivalent products.",
+      "It requires further FDA investigation and review to determine therapeutic equivalence."
+    ],
+    "answer": 2,
+    "explanation": "The FDA's 'Orange Book' uses a two-letter therapeutic equivalence code. A code starting with 'A' means the product is therapeutically equivalent to the reference drug. A code starting with '**B**' means the product is **not therapeutically equivalent** to other pharmaceutically equivalent products, often due to documented bioequivalence problems or other issues."
+  },
+  {
+    "text": "Which of the following is the strongest dose?",
+    "options": [
+      "NTG 1/100 gr",
+      "NTG 1/150 gr",
+      "NTG 1/200 gr",
+      "NTG 1/400 gr"
+    ],
+    "answer": 0,
+    "explanation": "This question is about dosage strength expressed in apothecary units (grains, or 'gr'). The fractions represent the amount of a grain. The larger the fraction, the smaller the denominator, and the stronger the dose. Therefore, **1/100 gr** is the largest fraction and thus the strongest dose."
+  },
+  {
+    "text": "Which of the following medications would be appropriate to dispense to a 64-year-old woman diagnosed with osteoporosis?",
+    "options": [
+      "alendronate with vitamin D",
+      "estradiol",
+      "naproxen",
+      "sertraline"
+    ],
+    "answer": 0,
+    "explanation": "**Alendronate with vitamin D** is a bisphosphonate medication specifically indicated for the prevention and treatment of **osteoporosis**. The combination with vitamin D is common to support bone health."
+  }
+]

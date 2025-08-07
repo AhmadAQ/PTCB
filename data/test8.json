@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "A patient is to receive 1 L of D5/0.45 NS with 20 mEq solution over 24 hours. What is the flow rate?",
+    "options": [
+      "21 mL/hr",
+      "24 mL/hr",
+      "42 mL/hr",
+      "84 mL/hr"
+    ],
+    "answer": 2,
+    "explanation": "To calculate the flow rate, you divide the total volume by the total time. The total volume is 1 L, which is equal to 1000 mL. The total time is 24 hours. So, the flow rate is 1000 mL / 24 hr = 41.67 mL/hr, which rounds to 42 mL/hr."
+  },
+  {
+    "text": "What is a critical site?",
+    "options": [
+      "A space where microbial containment is kept at a specific level",
+      "An area exposed to air or touch, such as a vial, needle, or ampule",
+      "An area in which all preparations for IV admixtures are gathered",
+      "The area in which the laminar airflow workbenches are kept"
+    ],
+    "answer": 1,
+    "explanation": "A critical site is any area that is at risk of contamination when a sterile product is being compounded. This includes the tip of a syringe, the hub of a needle, and the stopper of a vial."
+  },
+  {
+    "text": "How often is electronic sampling of viable particles required to be performed and documented according to USP ,797.?",
+    "options": [
+      "Every month",
+      "Every 2 months",
+      "Every 3 months",
+      "Every 6 months"
+    ],
+    "answer": 3,
+    "explanation": "According to USP <797>, electronic sampling of viable particles must be performed and documented at least every 6 months to ensure that the compounding environment is sterile."
+  },
+  {
+    "text": "What direction does air flow in a horizontal laminar airflow hood?",
+    "options": [
+      "From the back of the hood to the front",
+      "From the bottom of the hood to the top",
+      "From the front of the hood to the back",
+      "From the top of the hood to the bottom"
+    ],
+    "answer": 0,
+    "explanation": "In a horizontal laminar airflow hood, air flows from the back of the hood to the front. This is a critical factor in maintaining a sterile environment."
+  },
+  {
+    "text": "A total of 500 mL of Ringer’s lactate is to be infused over 8 hours; how should it be labeled on the IV bag?",
+    "options": [
+      "6.25 mL/hr",
+      "12.5 mL/hr",
+      "62.5 mL/hr",
+      "125 mL/hr"
+    ],
+    "answer": 2,
+    "explanation": "To calculate the flow rate, you divide the total volume by the total time. The total volume is 500 mL, and the total time is 8 hours. So, the flow rate is 500 mL / 8 hr = 62.5 mL/hr."
+  },
+  {
+    "text": "Prior to preparing a CSP, how many pair(s) of powder-free gloves should be worn by a technician preparing an IV admixture?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": 1,
+    "explanation": "According to USP <797>, a technician should wear two pairs of powder-free gloves when preparing a compounded sterile product (CSP)."
+  },
+  {
+    "text": "Before compounding a sterile product, how long must a laminar airflow hood be on?",
+    "options": [
+      "15 minutes",
+      "30 minutes",
+      "1 hour",
+      "2 hours"
+    ],
+    "answer": 1,
+    "explanation": "A laminar airflow hood must be on for at least 30 minutes before compounding a sterile product. This allows the hood to remove any contaminants that may be in the air."
+  },
+  {
+    "text": "After using a syringe to compound a sterile product, where would a pharmacy technician dispose of it?",
+    "options": [
+      "In a biohazard container",
+      "In a red plastic bag",
+      "In a sharps container",
+      "With normal trash"
+    ],
+    "answer": 2,
+    "explanation": "A syringe with a needle is a sharp, and it must be disposed of in a sharps container to prevent needlestick injuries."
+  },
+  {
+    "text": "How often must a pharmacy technician who handles hazardous drugs receive competency training?",
+    "options": [
+      "Every 3 months",
+      "Every 6 months",
+      "Every 9 months",
+      "Every 12 months"
+    ],
+    "answer": 3,
+    "explanation": "A pharmacy technician who handles hazardous drugs must receive competency training at least every 12 months."
+  },
+  {
+    "text": "What is the flow rate of 1 L of NS to be infused over 8 hr?",
+    "options": [
+      "8 mL/hr",
+      "12.5 mL/hr",
+      "125 mL/hr",
+      "1000 mL/hr"
+    ],
+    "answer": 2,
+    "explanation": "To calculate the flow rate, you divide the total volume by the total time. The total volume is 1 L, which is equal to 1000 mL. The total time is 8 hours. So, the flow rate is 1000 mL / 8 hr = 125 mL/hr."
+  },
+  {
+    "text": "Which pharmacy standards must be adhered to when compounding a sterile product?",
+    "options": [
+      "USP ,790.",
+      "USP ,795.",
+      "USP ,797.",
+      "USP ,800."
+    ],
+    "answer": 2,
+    "explanation": "USP <797> is the chapter of the United States Pharmacopeia that provides standards for compounding sterile preparations (CSPs) to ensure their safety and quality."
+  },
+  {
+    "text": "Which of the following medications is an example of hazardous waste?",
+    "options": [
+      "heparin",
+      "hydrocodone",
+      "insulin",
+      "warfarin"
+    ],
+    "answer": 3,
+    "explanation": "Warfarin is an anticoagulant that is considered a hazardous drug by the National Institute for Occupational Safety and Health (NIOSH). It is considered hazardous waste if it is not used in a pharmacy."
+  },
+  {
+    "text": "How many inches inside a laminar airflow hood should a technician prepare a sterile product?",
+    "options": [
+      "4 inches",
+      "6 inches",
+      "10 inches",
+      "12 inches"
+    ],
+    "answer": 1,
+    "explanation": "A pharmacy technician should prepare a sterile product at least 6 inches inside a laminar airflow hood. This prevents contamination from the air in the room."
+  },
+  {
+    "text": "USP ,797. requires that hands, fingernails, wrists, and up to the elbows be washed for a minimum of",
+    "options": [
+      "30 seconds.",
+      "45 seconds.",
+      "60 seconds.",
+      "75 seconds."
+    ],
+    "answer": 0,
+    "explanation": "According to USP <797>, a technician must wash their hands, fingernails, wrists, and up to their elbows for a minimum of 30 seconds."
+  },
+  {
+    "text": "Which of the following needles has the smallest diameter?",
+    "options": [
+      "16 gauge",
+      "18 gauge",
+      "25 gauge",
+      "31 gauge"
+    ],
+    "answer": 3,
+    "explanation": "The larger the gauge number, the smaller the diameter of the needle. A 31-gauge needle has the smallest diameter of the options provided."
+  },
+  {
+    "text": "How many drops per milliliter does a “mini-drip” system provide?",
+    "options": [
+      "10 gtt/mL",
+      "15 gtt/mL",
+      "30 gtt/mL",
+      "60 gtt/mL"
+    ],
+    "answer": 3,
+    "explanation": "A 'mini-drip' system, also known as a microdrip system, provides 60 drops per mL. It is used to deliver a small volume of fluid over a long period of time."
+  },
+  {
+    "text": "When compounding a hazardous medication for injection, which of the following would be used?",
+    "options": [
+      "A biologic safety hood",
+      "A horizontal laminar airflow hood",
+      "A vertical laminar airflow hood",
+      "Any of the above"
+    ],
+    "answer": 0,
+    "explanation": "A biological safety cabinet (BSC) is used when compounding hazardous medications. A horizontal laminar airflow hood is not appropriate because it directs air toward the technician."
+  },
+  {
+    "text": "How quickly must a multidose container be used after opening it?",
+    "options": [
+      "7 days",
+      "14 days",
+      "21 days",
+      "28 days"
+    ],
+    "answer": 3,
+    "explanation": "According to USP <797>, a multidose container must be used within 28 days of opening it unless the manufacturer specifies a different time."
+  },
+  {
+    "text": "Which of the following is used to remove water-soluble residues found in the sterile compounding area?",
+    "options": [
+      "Clorox",
+      "IPA 70%",
+      "IPA 95%",
+      "USP purified water"
+    ],
+    "answer": 3,
+    "explanation": "USP purified water is used to remove water-soluble residues found in the sterile compounding area. It is then followed by a disinfecting agent, such as 70% isopropyl alcohol."
+  },
+  {
+    "text": "What is a universal precaution?",
+    "options": [
+      "An infection control principle",
+      "An infection control principle that requires a health care provider to treat human blood as infectious",
+      "An infection control principle required when using equipment",
+      "An infection control principle used when handling hazardous waste"
+    ],
+    "answer": 1,
+    "explanation": "A universal precaution is an infection control principle that requires a healthcare provider to treat all human blood and other bodily fluids as if they are infectious."
+  },
+  {
+    "text": "Which of the following medications is an example of hazardous waste?",
+    "options": [
+      "epinephrine",
+      "heparin",
+      "hydrocodone",
+      "insulin"
+    ],
+    "answer": 0,
+    "explanation": "Epinephrine is a hazardous waste medication. The other options are not considered hazardous waste."
+  },
+  {
+    "text": "Gentamicin 120 mg in 100 mL D5W is administered over 30 min every 8 hours with a 10-drop kit. What will the rate be?",
+    "options": [
+      "2 gtt/min",
+      "4 gtt/min",
+      "16 gtt/min",
+      "33 gtt/min"
+    ],
+    "answer": 3,
+    "explanation": "To calculate the flow rate, you divide the total volume by the total time and multiply it by the drop factor. The total volume is 100 mL. The total time is 30 minutes. The drop factor is 10 gtt/mL. The rate is (100 mL / 30 min) * 10 gtt/mL = 3.33 * 10 = 33.33 gtt/min. The closest answer is 33 gtt/min."
+  },
+  {
+    "text": "What volume does a small-volume parenteral contain?",
+    "options": [
+      "100 mL or less",
+      "250 mL",
+      "500 mL",
+      "1000 mL or more"
+    ],
+    "answer": 0,
+    "explanation": "A small-volume parenteral (SVP) is a sterile product that contains 100 mL or less. A large-volume parenteral (LVP) is a sterile product that contains 1000 mL or more."
+  },
+  {
+    "text": "Why is a gauze swab used when opening a glass ampule?",
+    "options": [
+      "Protect your finger from cuts",
+      "Prevent contamination of the product inside the ampule",
+      "Disinfect the ampule",
+      "Minimize slivers of glass from falling into the ampule"
+    ],
+    "answer": 0,
+    "explanation": "A gauze swab is used when opening a glass ampule to protect your fingers from cuts. The gauze also helps to prevent slivers of glass from falling into the ampule."
+  },
+  {
+    "text": "What should be done when preparing a prescription for etoposide?",
+    "options": [
+      "Flush the remaining contents down a sink or toilet.",
+      "Wear protective clothing if you are allergic to etoposide.",
+      "Place labels on the container so that it has a professional appearance.",
+      "Prepare it in a biologic safety cabinet."
+    ],
+    "answer": 3,
+    "explanation": "Etoposide is a hazardous drug, and it must be prepared in a biological safety cabinet to protect the technician from exposure."
+  },
+  {
+    "text": "What part of the laminar flow hood is responsible for removing contaminants?",
+    "options": [
+      "The blower",
+      "The HEPA filter",
+      "The recovery vent",
+      "The side walls of the laminar flow hood"
+    ],
+    "answer": 1,
+    "explanation": "The HEPA (High-Efficiency Particulate Air) filter is the part of the laminar flow hood that removes contaminants from the air. It removes 99.97% of particles that are 0.3 microns or larger."
+  },
+  {
+    "text": "An IV bag is being infused at a rate of 80 mL/hour for 5 1/2 hours. What volume has the patient received?",
+    "options": [
+      "400 mL",
+      "425 mL",
+      "440 mL",
+      "500 mL"
+    ],
+    "answer": 2,
+    "explanation": "To calculate the total volume, you multiply the flow rate by the total time. The flow rate is 80 mL/hr, and the total time is 5.5 hours. So, the total volume is 80 mL/hr * 5.5 hr = 440 mL."
+  },
+  {
+    "text": "Which is the minimum number of air changes per hour in the buffer area?",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "answer": 2,
+    "explanation": "The buffer area is an area where compounding is performed. It must have a minimum of 30 air changes per hour (ACPH) to maintain a sterile environment."
+  },
+  {
+    "text": "What would be the infusion rate for a 50-mg/mL magnesium sulfate solution to provide 1.2 g/hr?",
+    "options": [
+      "0.4 mL/hr",
+      "2.5 mL/hr",
+      "20 mL/hr",
+      "24 mL/hr"
+    ],
+    "answer": 3,
+    "explanation": "First, convert the desired dose to milligrams: 1.2 g = 1200 mg. Then, divide the desired dose by the concentration of the solution to get the infusion rate: 1200 mg / 50 mg/mL = 24 mL/hr."
+  },
+  {
+    "text": "All of the following ingredients are contained in a total parenteral nutrient admixture EXCEPT",
+    "options": [
+      "amino acids.",
+      "dextrose.",
+      "lipids.",
+      "proteins."
+    ],
+    "answer": 3,
+    "explanation": "A total parenteral nutrient (TPN) admixture contains amino acids, dextrose, and lipids. Proteins are not an ingredient, but amino acids are the building blocks of proteins."
+  },
+  {
+    "text": "Lidocaine HCl injection is indicated for all of the following conditions EXCEPT",
+    "options": [
+      "Angina",
+      "Local anesthesia",
+      "Status epilepticus",
+      "Ventricular arrhythmia"
+    ],
+    "answer": 0,
+    "explanation": "Lidocaine HCl injection is used for local anesthesia, ventricular arrhythmia, and status epilepticus. It is not used to treat angina."
+  },
+  {
+    "text": "What type of documentation does OSHA require for pharmacies that handle hazardous chemicals to have on file?",
+    "options": [
+      "Manufacturer safety documentation sheets",
+      "Manufacturer sheets for documentation of safety",
+      "Safety data sheet",
+      "Mixture safety documentation sheets"
+    ],
+    "answer": 2,
+    "explanation": "The Occupational Safety and Health Administration (OSHA) requires pharmacies that handle hazardous chemicals to have a Safety Data Sheet (SDS) on file. An SDS provides information on the chemical's hazards, safe handling procedures, and emergency procedures."
+  },
+  {
+    "text": "Which of the following is contained in lactated Ringer’s solution but not Ringer’s solution?",
+    "options": [
+      "CaCl2",
+      "KCl",
+      "NaCL",
+      "Na lactate"
+    ],
+    "answer": 3,
+    "explanation": "Lactated Ringer's solution contains sodium lactate, which Ringer's solution does not. Lactate is a buffer that helps to correct acidosis."
+  },
+  {
+    "text": "Under which environment must a sterile product be compounded?",
+    "options": [
+      "Class 25",
+      "Class 50",
+      "Class 75",
+      "Class 100"
+    ],
+    "answer": 3,
+    "explanation": "A sterile product must be compounded in a Class 100 environment, which is an environment that contains no more than 100 particles per cubic foot of air."
+  },
+  {
+    "text": "What piece of equipment reduces the risk of contamination when IV admixtures are prepared?",
+    "options": [
+      "Foot pedal sinks",
+      "Humidifiers",
+      "Laminar flow hoods",
+      "Ultraviolet lighting"
+    ],
+    "answer": 2,
+    "explanation": "A laminar flow hood is a piece of equipment that provides a sterile environment for compounding IV admixtures. It does so by filtering the air and directing it in a unidirectional flow."
+  },
+  {
+    "text": "Which condition is adalimumab indicated to treat?",
+    "options": [
+      "Herpes zoster",
+      "Hyperuricemia",
+      "Rheumatoid arthritis",
+      "Tachycardia"
+    ],
+    "answer": 2,
+    "explanation": "Adalimumab (Humira) is a medication that is used to treat rheumatoid arthritis, as well as other autoimmune conditions, such as Crohn's disease and psoriasis."
+  },
+  {
+    "text": "Which of the following medications is the generic name for Remicade?",
+    "options": [
+      "fosphenytoin sodium injection",
+      "infliximab injection",
+      "leuprolide acetate injection",
+      "meropenem injection"
+    ],
+    "answer": 1,
+    "explanation": "Infliximab is the generic name for Remicade, a monoclonal antibody that is used to treat autoimmune conditions, such as Crohn's disease and rheumatoid arthritis."
+  },
+  {
+    "text": "What is the in-use time for a single-dose container in an ISO 5 environment?",
+    "options": [
+      "Use immediately after opening unless otherwise specified by the manufacturer.",
+      "Use within 6 hours of opening unless otherwise specified by the manufacturer.",
+      "Use within 12 hours of opening unless otherwise specified by the manufacturer.",
+      "Use within 28 days unless otherwise specified by the manufacturer."
+    ],
+    "answer": 1,
+    "explanation": "According to USP <797>, a single-dose container in an ISO 5 environment must be used within 6 hours of opening it unless the manufacturer specifies a different time."
+  },
+  {
+    "text": "Which class cabinet should a pharmacy technician use when compounding infectious microbiological agents?",
+    "options": [
+      "Class I",
+      "Class II",
+      "Class III",
+      "Class IV"
+    ],
+    "answer": 2,
+    "explanation": "A Class III biological safety cabinet is a gas-tight cabinet that is used when working with infectious microbiological agents. It provides the highest level of protection for the technician and the environment."
+  },
+  {
+    "text": "What is the maximum humidity level permitted when compounding sterile compounds?",
+    "options": [
+      "40%",
+      "50%",
+      "60%",
+      "70%"
+    ],
+    "answer": 2,
+    "explanation": "The maximum humidity level permitted when compounding sterile compounds is 60%. A high humidity level can promote the growth of microorganisms."
+  },
+  {
+    "text": "A patient has been diagnosed with dysrhythmia. Which medication would a provider administer intravenously to treat this condition?",
+    "options": [
+      "amiodarone",
+      "amphotericin B",
+      "argatroban",
+      "asparaginase"
+    ],
+    "answer": 0,
+    "explanation": "Amiodarone is an antiarrhythmic medication that is used to treat dysrhythmia, or an irregular heartbeat."
+  },
+  {
+    "text": "Aggregation is an example of which of the following physical incompatibilities?",
+    "options": [
+      "Absorption",
+      "Adsorption",
+      "Precipitation",
+      "Separation"
+    ],
+    "answer": 2,
+    "explanation": "Aggregation is a type of precipitation, which is a physical incompatibility that occurs when a drug separates from the solution."
+  },
+  {
+    "text": "Which term refers to the name of the opening of a needle?",
+    "options": [
+      "Bevel",
+      "Hilt",
+      "Lumen",
+      "Point"
+    ],
+    "answer": 2,
+    "explanation": "The lumen is the opening of a needle. The bevel is the slanted tip of the needle, and the point is the very tip of the bevel."
+  },
+  {
+    "text": "What size syringe should be used to measure 0.6 mL of fluid?",
+    "options": [
+      "1 mL",
+      "5 mL",
+      "10 mL",
+      "20 mL"
+    ],
+    "answer": 0,
+    "explanation": "To ensure accuracy, the smallest syringe that can accommodate the volume should be used. A 1 mL syringe is the most appropriate size for measuring 0.6 mL of fluid."
+  },
+  {
+    "text": "Which of the following may be worn in the anteroom?",
+    "options": [
+      "Coats",
+      "Cosmetics",
+      "Jewelry",
+      "Personal protective equipment"
+    ],
+    "answer": 3,
+    "explanation": "An anteroom is a room where personnel put on personal protective equipment (PPE), such as gowns, masks, and hair covers. Coats, cosmetics, and jewelry are not allowed in the anteroom."
+  },
+  {
+    "text": "The pharmacy technician is positioning supplies to be used in preparing a CSP in the laminar airflow workbench. How should they be placed?",
+    "options": [
+      "Larger supplies should be placed closer to the HEPA filter.",
+      "Larger supplies should be placed on the left side of the laminar airflow workbench.",
+      "Smaller supplies should be placed closer to the HEPA filter.",
+      "Smaller supplies should be placed on the left side of the laminar airflow workbench."
+    ],
+    "answer": 0,
+    "explanation": "Larger supplies should be placed closer to the HEPA filter. This is because they will block the flow of air and create a zone of turbulence. By placing them closer to the HEPA filter, the air will have a longer time to circulate around them and become sterile."
+  },
+  {
+    "text": "A label for nonhazardous intravenous medication must contain all of the following pieces of information EXCEPT",
+    "options": [
+      "Beyond use date",
+      "Directions for usage",
+      "Infusion rate",
+      "Pharmacist license number"
+    ],
+    "answer": 3,
+    "explanation": "A label for a nonhazardous intravenous medication must contain the beyond-use date, directions for usage, and infusion rate. The pharmacist license number is not required."
+  },
+  {
+    "text": "While preparing a hazardous drug how often should the pharmacy technician change their gloves?",
+    "options": [
+      "After each compound",
+      "At least every 15 minutes",
+      "At least every 30 minutes",
+      "At the end of the compounding session"
+    ],
+    "answer": 2,
+    "explanation": "A pharmacy technician must change their gloves at least every 30 minutes when preparing a hazardous drug. This is because the gloves can become contaminated and pose a risk to the technician."
+  },
+  {
+    "text": "Which of the following medications would an anesthesiologist order to induce a patient to lose consciousness prior to a medical procedure?",
+    "options": [
+      "oxytocin injection",
+      "propofol injection",
+      "risperidone injection",
+      "rituximab injection"
+    ],
+    "answer": 1,
+    "explanation": "Propofol (Diprivan) is a general anesthetic that is used to induce and maintain anesthesia during medical procedures. The other options are a hormone, an antipsychotic, and a monoclonal antibody, respectively."
+  },
+  {
+    "text": "When must viable air sampling be performed?",
+    "options": [
+      "Before equipment or facilities are serviced",
+      "Every 12 months as a requirement for recertification",
+      "When concerns are raised about the end-product",
+      "When equipment has been dismantled"
+    ],
+    "answer": 2,
+    "explanation": "Viable air sampling must be performed when concerns are raised about the end-product, such as a microbial contamination event. It is also a requirement for recertification."
+  },
+  {
+    "text": "All compounding personnel must complete all of the following tests prior to compounding a CSP EXCEPT",
+    "options": [
+      "didactic training.",
+      "media fill.",
+      "oral assessment.",
+      "skill assessment."
+    ],
+    "answer": 2,
+    "explanation": "All compounding personnel must complete didactic training, media fill, and a skill assessment prior to compounding a CSP. An oral assessment is not a requirement."
+  },
+  {
+    "text": "A pharmacy technician should NOT touch which two parts of a syringe?",
+    "options": [
+      "Barrel and collar",
+      "Collar and plunger",
+      "Needle and hub",
+      "Barrel and tip"
+    ],
+    "answer": 2,
+    "explanation": "A pharmacy technician should not touch the needle and hub of a syringe. These are critical sites that must remain sterile."
+  },
+  {
+    "text": "How often should the work surfaces in the ante area be cleaned?",
+    "options": [
+      "At least once every 3 hours",
+      "At least once every 6 hours",
+      "At least once every 12 hours",
+      "At least once every 24 hours"
+    ],
+    "answer": 3,
+    "explanation": "The work surfaces in the ante area should be cleaned at least once every 24 hours. This helps to maintain a clean environment and prevent contamination of the sterile compounding area."
+  },
+  {
+    "text": "Which ISO classification must be maintained when a pharmacy technician is performing hand hygiene?",
+    "options": [
+      "ISO Class 5",
+      "ISO Class 6",
+      "ISO Class 7",
+      "ISO Class 8"
+    ],
+    "answer": 3,
+    "explanation": "Hand hygiene is performed in the ante area, which must maintain an ISO Class 8 environment. This is a clean area where a technician can put on personal protective equipment and perform hand hygiene."
+  },
+  {
+    "text": "At what level should the pharmacy technician empty the sharps container?",
+    "options": [
+      "1/4 full",
+      "1/2 full",
+      "3/4 full",
+      "Completely full"
+    ],
+    "answer": 2,
+    "explanation": "A sharps container should be emptied when it is 3/4 full. This is a safety measure to prevent needlestick injuries."
+  },
+  {
+    "text": "The pharmacy technician is logging the refrigerator temperature of a nonhazardous intravenous medication. Which of the following temperatures would be an appropriate storage temperature?",
+    "options": [
+      "1°C",
+      "4°C",
+      "9°C",
+      "12°C"
+    ],
+    "answer": 1,
+    "explanation": "A refrigerator's temperature should be maintained between 2°C and 8°C. A temperature of 4°C is within this range and is an appropriate storage temperature."
+  },
+  {
+    "text": "How long must a pharmacy maintain a compounding record?",
+    "options": [
+      "A minimum of 1 year from the date the medication was prepared",
+      "A minimum of 2 years from the date the medication was prepared",
+      "A minimum of 3 years from the date the medication was prepared",
+      "A minimum of 4 years from the date the medication was prepared"
+    ],
+    "answer": 1,
+    "explanation": "A pharmacy must maintain a compounding record for a minimum of 2 years from the date the medication was prepared. This is a legal requirement that ensures that the pharmacy can be audited."
+  },
+  {
+    "text": "Which of the following medications is indicated in treating an acute ischemic stroke?",
+    "options": [
+      "alteplase recombinant injection",
+      "amphotericin B cholesteryl sulfate complex",
+      "asparaginase injection",
+      "carbamazepine injection"
+    ],
+    "answer": 0,
+    "explanation": "Alteplase is a thrombolytic agent that is used to treat an acute ischemic stroke. It works by dissolving blood clots and restoring blood flow to the brain."
+  },
+  {
+    "text": "In the ante area, how often are the sink, all contact surfaces, and floor cleaned?",
+    "options": [
+      "Daily",
+      "Weekly",
+      "Biweekly",
+      "Monthly"
+    ],
+    "answer": 0,
+    "explanation": "The sink, all contact surfaces, and floor in the ante area must be cleaned daily to maintain a clean environment."
+  },
+  {
+    "text": "What is the minimum air differential between buffer area and ante area when compounding low- and medium-risk compounds?",
+    "options": [
+      "20 feet/minute",
+      "30 feet/minute",
+      "40 feet /minute",
+      "50 meet/minute"
+    ],
+    "answer": 1,
+    "explanation": "The minimum air differential between the buffer area and the ante area is 30 feet/minute. This helps to maintain a positive pressure in the buffer area, which prevents contamination from the ante area."
+  },
+  {
+    "text": "Where should a pharmacy technician perform hand hygiene?",
+    "options": [
+      "Anteroom",
+      "Buffer area",
+      "Containment segregated compounding area",
+      "Segregated compounding area"
+    ],
+    "answer": 0,
+    "explanation": "Hand hygiene is performed in the anteroom, which is a clean area where a technician can put on personal protective equipment and perform hand hygiene."
+  },
+  {
+    "text": "A primary engineering control provides which ISO class for compounding sterile preparations?",
+    "options": [
+      "ISO Class 5",
+      "ISO Class 6",
+      "ISO Class 7",
+      "ISO Class 8"
+    ],
+    "answer": 0,
+    "explanation": "A primary engineering control (PEC) is a device that provides an ISO Class 5 environment for compounding sterile preparations. This is the cleanest environment possible for compounding."
+  },
+  {
+    "text": "Which of the following terms refers to a small volume intravenous bag used to deliver medication?",
+    "options": [
+      "Ampule",
+      "IVPB",
+      "LVP",
+      "Single dose vial"
+    ],
+    "answer": 1,
+    "explanation": "IVPB is the abbreviation for 'intravenous piggyback,' which is a small volume intravenous bag that is used to deliver medication over a short period of time."
+  },
+  {
+    "text": "Which of the following auxiliary labels should a pharmacy technician affix to a bag of Ringer’s irrigation solution?",
+    "options": [
+      "Not for injection",
+      "Ophthalmic use only",
+      "Refrigerate",
+      "Shake well"
+    ],
+    "answer": 0,
+    "explanation": "Ringer's irrigation solution is not intended for injection. Therefore, a 'not for injection' label should be affixed to the bag to prevent a medication error."
+  },
+  {
+    "text": "Which of the following medications might cause a patient to experience nephrotoxicity and hepatotoxicity as side effects?",
+    "options": [
+      "bivalirudin injection",
+      "cyclosporine injection",
+      "dexamethasone sodium phosphate injection",
+      "digoxin injection"
+    ],
+    "answer": 1,
+    "explanation": "Cyclosporine is an immunosuppressant that is used to prevent organ rejection. It is associated with nephrotoxicity (kidney damage) and hepatotoxicity (liver damage) as side effects."
+  },
+  {
+    "text": "A pharmacy technician is handling a volatile toxic chemical. Which biological safety cabinet should be used when manipulations must be done in the directly exhausted portion of the cabinet?",
+    "options": [
+      "Type A1",
+      "Type A2",
+      "Type B1",
+      "Type B2"
+    ],
+    "answer": 3,
+    "explanation": "A Type B2 biological safety cabinet is a total exhaust cabinet that is used when working with volatile toxic chemicals. It is designed to remove all air from the cabinet and exhaust it to the outside."
+  },
+  {
+    "text": "A pharmacy technician observes the presence of crystals in mannitol injection. What does this indicate?",
+    "options": [
+      "The solution was exposed to cold temperatures.",
+      "The solution settled during shipping.",
+      "The solution is adulterated and should not be dispensed.",
+      "The solution was compounded using sterile saline solution."
+    ],
+    "answer": 0,
+    "explanation": "Mannitol injection can crystallize when exposed to cold temperatures. This is a known issue, and the solution should be warmed up to dissolve the crystals. However, if the crystals do not dissolve, the solution should not be dispensed."
+  },
+  {
+    "text": "Which organization maintains a list of all antineoplastic agents and hazardous drugs used in health care?",
+    "options": [
+      "CDC",
+      "DEA",
+      "FDA",
+      "NIOSH"
+    ],
+    "answer": 3,
+    "explanation": "NIOSH (National Institute for Occupational Safety and Health) maintains a list of all antineoplastic agents and hazardous drugs used in health care. This list is a guide for pharmacists and other healthcare professionals to ensure that they handle these drugs safely."
+  },
+  {
+    "text": "Which medication would an obstetrician use to induce labor in a patient?",
+    "options": [
+      "nitroprusside",
+      "ondansetron",
+      "oxytocin",
+      "paclitaxel injection"
+    ],
+    "answer": 2,
+    "explanation": "Oxytocin (Pitocin) is a hormone that is used to induce labor in a patient. It works by causing the uterus to contract."
+  },
+  {
+    "text": "The pharmacy receives a medication order in which a 250-mL IV bag is to be infused at a rate of 50 mL/hour. How long will the bag last?",
+    "options": [
+      "2 hours",
+      "2.5 hours",
+      "5 hours",
+      "10 hours"
+    ],
+    "answer": 2,
+    "explanation": "To calculate the time, you divide the total volume by the flow rate. The total volume is 250 mL, and the flow rate is 50 mL/hr. So, the time is 250 mL / 50 mL/hr = 5 hours."
+  },
+  {
+    "text": "How long must a biological safety cabinet be on prior to compounding?",
+    "options": [
+      "10 minutes",
+      "20 minutes",
+      "30 minutes",
+      "60 minutes"
+    ],
+    "answer": 1,
+    "explanation": "A biological safety cabinet must be on for at least 20 minutes prior to compounding. This allows the hood to remove any contaminants that may be in the air."
+  },
+  {
+    "text": "A physician has prescribed Lovenox for a patient; which generic medication should the pharmacy technician select from the shelf?",
+    "options": [
+      "ceftazidime injection",
+      "epinephrine injection",
+      "enoxaparin sodium injection",
+      "epoetin alfa recombinant injection"
+    ],
+    "answer": 2,
+    "explanation": "Enoxaparin sodium is the generic name for Lovenox, a low-molecular-weight heparin that is used to prevent and treat blood clots."
+  },
+  {
+    "text": "How many particles/m3 are permitted in an ISO Class 5 environment?",
+    "options": [
+      "35.2",
+      "352",
+      "3520",
+      "35,200"
+    ],
+    "answer": 0,
+    "explanation": "An ISO Class 5 environment is the cleanest environment, and it is permitted to have no more than 352 particles per cubic meter that are 0.5 microns or larger."
+  },
+  {
+    "text": "What part of the needle attaches to the syringe?",
+    "options": [
+      "Bevel",
+      "Hub",
+      "Lumen",
+      "Point"
+    ],
+    "answer": 1,
+    "explanation": "The hub is the part of the needle that attaches to the syringe. The bevel, lumen, and point are all parts of the needle itself."
+  },
+  {
+    "text": "What is the purpose of a pharmacy technician using aseptic techniques in preparing a CSP?",
+    "options": [
+      "Maintain a solution’s osmolarity",
+      "Maintain the proper pH of a solution",
+      "Maintain sterility",
+      "Maintain proper temperature"
+    ],
+    "answer": 2,
+    "explanation": "The purpose of a pharmacy technician using aseptic techniques is to maintain sterility. This is the most important factor in compounding a CSP."
+  },
+  {
+    "text": "Which of the following medications is indicated to reverse a heparin overdose?",
+    "options": [
+      "promethazine HCl injection",
+      "propranolol HCl injection",
+      "protamine sulfate injection",
+      "reteplase recombinant injection"
+    ],
+    "answer": 2,
+    "explanation": "Protamine sulfate is a medication that is used to reverse a heparin overdose. It works by binding to heparin and neutralizing its anticoagulant effect."
+  },
+  {
+    "text": "Within which frequency must an ISO Class 5 be tested for microbial compliance?",
+    "options": [
+      "Weekly",
+      "Monthly",
+      "Every 6 months",
+      "Every 12 months"
+    ],
+    "answer": 2,
+    "explanation": "An ISO Class 5 must be tested for microbial compliance at least every 6 months."
+  },
+  {
+    "text": "At what frequency are pharmacy personnel required to be reassessed on handling hazardous drugs?",
+    "options": [
+      "At least every 3 months",
+      "At least every 6 months",
+      "At least every 9 months",
+      "At least every 12 months"
+    ],
+    "answer": 3,
+    "explanation": "Pharmacy personnel who handle hazardous drugs must be reassessed on their handling of these drugs at least every 12 months."
+  },
+  {
+    "text": "The pharmacy technician receives a TPN order that has the following additives: calcium, magnesium, potassium, and phosphate. Which additive should be incorporated first to prevent a precipitate from occurring?",
+    "options": [
+      "Calcium",
+      "Magnesium",
+      "Potassium",
+      "Phosphate"
+    ],
+    "answer": 3,
+    "explanation": "When compounding a TPN, phosphate should be added first to prevent a precipitate from occurring. This is because calcium and phosphate can form a precipitate if they are added together."
+  },
+  {
+    "text": "What is the minimum frequency that particle counting must be performed?",
+    "options": [
+      "Weekly",
+      "Monthly",
+      "Every 3 months",
+      "Every 6 months"
+    ],
+    "answer": 3,
+    "explanation": "Particle counting must be performed at least every 6 months to ensure that the sterile compounding environment is maintained."
+  },
+  {
+    "text": "A patient has been diagnosed with rheumatoid arthritis; which of the following would be an appropriate medication to treat the patient?",
+    "options": [
+      "doxorubicin HCl injection",
+      "methotrexate injection",
+      "mycophenolate mofetil HCl injection",
+      "natalizumab injection"
+    ],
+    "answer": 1,
+    "explanation": "Methotrexate is a disease-modifying antirheumatic drug (DMARD) that is used to treat rheumatoid arthritis. It works by suppressing the immune system and reducing inflammation."
+  },
+  {
+    "text": "If a pharmacy technician accidentally sprays themselves with a hazardous chemical, from which reference would they obtain information for treatment?",
+    "options": [
+      "Handbook on Injectable Drugs",
+      "Product insert",
+      "SDS",
+      "The King Guide to Parenteral Admixtures"
+    ],
+    "answer": 2,
+    "explanation": "The SDS (Safety Data Sheet) is the reference that a pharmacy technician would use to obtain information about a hazardous chemical, including what to do in the event of an exposure."
+  },
+  {
+    "text": "Which substance should be used in decontaminating cartoned supplies?",
+    "options": [
+      "70% IPA",
+      "95% IPA",
+      "Spray antiseptic",
+      "Spray disinfectant"
+    ],
+    "answer": 3,
+    "explanation": "A spray disinfectant should be used to decontaminate cartoned supplies. The other options are not appropriate for this purpose."
+  },
+  {
+    "text": "What is the infusion rate in mL/hour if there are 15 gtt/mL and the IV kit delivers 30 gtt/min?",
+    "options": [
+      "30 mL/hour",
+      "60 mL/hour",
+      "120 mL/hour",
+      "240 mL/hour"
+    ],
+    "answer": 2,
+    "explanation": "To calculate the infusion rate in mL/hr, you first divide the drops per minute by the drops per mL. The drops per minute is 30 gtt/min, and the drops per mL is 15 gtt/mL. So, the flow rate is 30 / 15 = 2 mL/min. Then, you multiply the flow rate by 60 to get the infusion rate in mL/hr: 2 mL/min * 60 min/hr = 120 mL/hr."
+  },
+  {
+    "text": "A glass IV container must be used when dispensing which of the following medications?",
+    "options": [
+      "Multiple vitamins",
+      "Nitroprusside",
+      "Nitroglycerin",
+      "Ondansetron"
+    ],
+    "answer": 2,
+    "explanation": "Nitroglycerin is a medication that is adsorbed by PVC plastic, so it must be dispensed in a glass IV container to prevent the loss of the drug."
+  },
+  {
+    "text": "When performing a straight draw, at what angle should the bevel of the needle be inserted into the center of the rubber stopper?",
+    "options": [
+      "30 degrees",
+      "45 degrees",
+      "60 degrees",
+      "90 degrees"
+    ],
+    "answer": 1,
+    "explanation": "The bevel of the needle should be inserted into the center of the rubber stopper at a 45-degree angle. This prevents coring, which is the cutting of a piece of the rubber stopper."
+  },
+  {
+    "text": "Which of the following is the generic name for Taxotere?",
+    "options": [
+      "daptomycin injection",
+      "deferoxamine mesylate injection",
+      "docetaxel injection",
+      "epoprostenol sodium injection"
+    ],
+    "answer": 2,
+    "explanation": "Docetaxel is the generic name for Taxotere, a chemotherapy medication that is used to treat various types of cancer, including breast cancer and prostate cancer."
+  },
+  {
+    "text": "Which of the following is a function of a Class 1 biological safety cabinet?",
+    "options": [
+      "Protects personnel but not the product",
+      "Protects the product but not personnel",
+      "Protects both personnel and the product",
+      "Protects the environment and the product"
+    ],
+    "answer": 0,
+    "explanation": "A Class I biological safety cabinet is designed to protect the technician but not the product. It works by drawing air from the front of the cabinet and exhausting it through a HEPA filter."
+  },
+  {
+    "text": "Which primary engineering control should be used when compounding hazardous CSPs?",
+    "options": [
+      "Class I biological safety cabinet",
+      "Class II biological safety cabinet",
+      "Class III biological safety cabinet",
+      "Class IV biological safety cabinet"
+    ],
+    "answer": 1,
+    "explanation": "A Class II biological safety cabinet is the primary engineering control that is used when compounding hazardous CSPs. It provides protection for the technician, the product, and the environment."
+  },
+  {
+    "text": "Which of the following sequences should be followed when removing PPEs?",
+    "options": [
+      "Goggles/face shield, gloves, gown, mask/respirator",
+      "Gown, gloves, goggles/face shield, mask/respirator",
+      "Gloves, goggles/face shield, gown, mask/respirator",
+      "Mask/respirator, gloves, goggles/face shield, gown"
+    ],
+    "answer": 2,
+    "explanation": "The correct sequence for removing PPE is gloves, goggles/face shield, gown, and then mask/respirator. This is done to prevent contamination of the technician."
+  },
+  {
+    "text": "After disinfecting a laminar airflow workbench, how long should the pharmacy technician wait before preparing a CSP?",
+    "options": [
+      "15 seconds",
+      "30 seconds",
+      "45 seconds",
+      "60 seconds"
+    ],
+    "answer": 1,
+    "explanation": "A pharmacy technician should wait at least 30 seconds after disinfecting a laminar airflow workbench before preparing a CSP. This allows the disinfectant to evaporate and for the workbench to become sterile."
+  },
+  {
+    "text": "An IV contains 2.5 mg/mL of medication. A medication order is written in which the patient is to receive 25 mg/hour. What is the infusion rate in mL/hour?",
+    "options": [
+      "0.1 mL/hour",
+      "2.5 mL/hour",
+      "5 mL/hour",
+      "10 mL/hour"
+    ],
+    "answer": 3,
+    "explanation": "To calculate the infusion rate, you divide the desired dose by the concentration of the solution. The desired dose is 25 mg/hr, and the concentration is 2.5 mg/mL. So, the infusion rate is 25 / 2.5 = 10 mL/hr."
+  },
+  {
+    "text": "Which of the following medications is a mitosis inhibitor indicated for testicular cancer?",
+    "options": [
+      "daunorubicin HCl injection",
+      "etoposide injection",
+      "fludarabine phosphate injection",
+      "fluphenazine injection"
+    ],
+    "answer": 1,
+    "explanation": "Etoposide is a chemotherapy medication that is a mitosis inhibitor. It is used to treat various types of cancer, including testicular cancer."
+  },
+  {
+    "text": "The pharmacy technician is referring to SDS. What type of information would they find?",
+    "options": [
+      "Emergency action plans",
+      "Information about hazardous substances",
+      "Pharmacy ordering procedures",
+      "Pharmacy protocols involving sterile compound preparation"
+    ],
+    "answer": 1,
+    "explanation": "An SDS (Safety Data Sheet) provides information about a hazardous substance, including its properties, hazards, and safety precautions."
+  },
+  {
+    "text": "The pharmacy receives an order for digoxin 0.125 mg. On hand is an ampule of digoxin injection that contains 500 mcg/2 mL. What volume must be drawn up in the syringe?",
+    "options": [
+      "0.125 mL",
+      "0.25 mL",
+      "0.5 mL",
+      "1 mL"
+    ],
+    "answer": 2,
+    "explanation": "First, convert the desired dose to micrograms: 0.125 mg = 125 mcg. The concentration of the solution is 500 mcg/2 mL. To find the volume, you can set up a proportion: (125 mcg / X mL) = (500 mcg / 2 mL). Cross-multiplying gives you 500X = 250, so X = 0.5 mL."
+  },
+  {
+    "text": "A patient is to receive 500 mL infused over 10 hours. What is the infusion rate in mL/minute?",
+    "options": [
+      "0.5 mL/min",
+      "0.83 mL/min",
+      "50 mL/min",
+      "83 mL/min"
+    ],
+    "answer": 1,
+    "explanation": "To calculate the infusion rate, you divide the total volume by the total time. The total volume is 500 mL, and the total time is 10 hours. First, convert hours to minutes: 10 hours * 60 min/hr = 600 minutes. Then, divide the volume by the time: 500 mL / 600 min = 0.83 mL/min."
+  },
+  {
+    "text": "An anesthesiologist wishes to use Diprivan for anesthesia. Which of the following is its generic name?",
+    "options": [
+      "methylprednisolone acetate",
+      "piperacillin sodium/tazobactam sodium injection",
+      "propofol",
+      "reteplase recombinant injection"
+    ],
+    "answer": 2,
+    "explanation": "Propofol is the generic name for Diprivan, a general anesthetic that is used to induce and maintain anesthesia during medical procedures."
+  },
+  {
+    "text": "Gloved fingertip sampling requires an incubation of how long?",
+    "options": [
+      "12–24 hours",
+      "24–48 hours",
+      "48–72 hours",
+      "72–96 hours"
+    ],
+    "answer": 2,
+    "explanation": "Gloved fingertip sampling is a test that is used to assess the aseptic technique of a pharmacy technician. The samples are incubated for 48 to 72 hours to see if any microorganisms grow."
+  },
+  {
+    "text": "Which biological safety cabinet should a pharmacy technician use when working with infectious microbiological agents?",
+    "options": [
+      "Class I",
+      "Class III",
+      "Type A1",
+      "Type B1"
+    ],
+    "answer": 1,
+    "explanation": "A Class III biological safety cabinet is a gas-tight cabinet that is used when working with infectious microbiological agents. It provides the highest level of protection for the technician and the environment."
+  },
+  {
+    "text": "Which of the following medications is classified as an alkylating agent?",
+    "options": [
+      "chlorpromazine HCl injection",
+      "cisplatin injection",
+      "cyclophosphamide injection",
+      "dexamethasone sodium phosphate injection"
+    ],
+    "answer": 2,
+    "explanation": "Cyclophosphamide is an alkylating agent, a type of chemotherapy medication that is used to treat various types of cancer. The other options are an antipsychotic, a platinum-based chemotherapy, and a corticosteroid, respectively."
+  }
+]
