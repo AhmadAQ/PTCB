@@ -1,0 +1,992 @@
+[
+  {
+    "text": "Which of the following is a true statement?",
+    "options": [
+      "Syrups contain sugar, usually to mask the taste of the medication.",
+      "Elixirs contain oil and water and should be shaken well before use.",
+      "Suspensions are liquid preparations that contain one or more active ingredients dissolved in a liquid vehicle.",
+      "Capsules are made of hard, compressed medication in round, oval, or square shapes."
+    ],
+    "answer": 0,
+    "explanation": "Syrups are viscous, concentrated, aqueous solutions of sugar used to mask the unpleasant taste of a medication."
+  },
+  {
+    "text": "Which of the following is true regarding storage of the MMRV vaccine?",
+    "options": [
+      "The vaccine should be stored at room temperature.",
+      "The vaccine should be stored in a refrigerator.",
+      "The vaccine should be stored in a freezer.",
+      "The vaccine may be stored at room temperature or placed in a refrigerator."
+    ],
+    "answer": 2,
+    "explanation": "The MMRV vaccine (measles, mumps, rubella, and varicella) must be stored in a freezer to maintain its efficacy."
+  },
+  {
+    "text": "Zetia is indicated for the treatment of ___________________.",
+    "options": [
+      "hypertension",
+      "gout",
+      "rheumatoid arthritis",
+      "hyperlipidemia"
+    ],
+    "answer": 3,
+    "explanation": "Zetia (ezetimibe) is used to lower high cholesterol levels, a condition known as hyperlipidemia."
+  },
+  {
+    "text": "Cranberry is a supplement that is commonly used for the prevention of what condition?",
+    "options": [
+      "diabetes mellitus",
+      "urinary tract infections (UTIs)",
+      "gout",
+      "hyperlipidemia"
+    ],
+    "answer": 1,
+    "explanation": "Cranberry is widely used to prevent urinary tract infections, as it is believed to prevent bacteria from adhering to the urinary tract walls."
+  },
+  {
+    "text": "Which of the following dosage forms bypasses the digestive system?",
+    "options": [
+      "elixir",
+      "suspension",
+      "sublingual tablet",
+      "ointment"
+    ],
+    "answer": 2,
+    "explanation": "A sublingual tablet is placed under the tongue, where it is absorbed directly into the bloodstream, bypassing the digestive system."
+  },
+  {
+    "text": "Which of the following capsule sizes is the largest?",
+    "options": [
+      "000",
+      "0",
+      "1",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "In the capsule size scale, 000 is the largest, and 5 is the smallest."
+  },
+  {
+    "text": "According to the Controlled Substances Act, which of the following drugs is classified as a controlled substance?",
+    "options": [
+      "warfarin (Coumadin)",
+      "tramadol (Ultram)",
+      "minocycline (Minocin, Solodyn)",
+      "mometasone (Nasonex)"
+    ],
+    "answer": 1,
+    "explanation": "Tramadol (Ultram) is classified as a Schedule IV controlled substance."
+  },
+  {
+    "text": "A prescription for a controlled substance must include which of the following statements on the label?",
+    "options": [
+      "“Caution: State law prohibits the sale of this drug to any person.”",
+      "“Caution: Federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed.”",
+      "“Caution: State law prohibits the sale of this drug to any person other than the patient for whom it was prescribed.”",
+      "“Caution: State law prohibits the sale of this drug.”"
+    ],
+    "answer": 1,
+    "explanation": "Federal law requires this specific caution statement on the label of all controlled substance prescriptions."
+  },
+  {
+    "text": "Which of the following nasal corticosteroids is available over-thecounter?",
+    "options": [
+      "Omnaris",
+      "Dymista",
+      "Flonase",
+      "Rhinocort"
+    ],
+    "answer": 2,
+    "explanation": "Flonase (fluticasone propionate) is an over-the-counter nasal corticosteroid for allergy relief."
+  },
+  {
+    "text": "Which auxiliary label should be placed onto a prescription vial containing metronidazole (Flagyl)?",
+    "options": [
+      "“Refrigerate.”",
+      "“Shake before use.”",
+      "“Do not drink alcohol.”",
+      "“Take with food.”"
+    ],
+    "answer": 2,
+    "explanation": "Metronidazole can cause a disulfiram-like reaction (severe nausea, vomiting) if consumed with alcohol."
+  },
+  {
+    "text": "Which of the following prescription medications should NOT be handled by a pharmacy technician who is pregnant?",
+    "options": [
+      "famotidine",
+      "furosemide",
+      "fexofenadine",
+      "finasteride"
+    ],
+    "answer": 3,
+    "explanation": "Finasteride is a teratogen and can be absorbed through the skin, posing a risk to a developing male fetus."
+  },
+  {
+    "text": "How many mg of magnesium sulfate are in 3 mL of a 50% solution?",
+    "options": [
+      "1,000 mg",
+      "1,500 mg",
+      "1,750 mg",
+      "2,000 mg"
+    ],
+    "answer": 1,
+    "explanation": "A 50% solution means 50 g in 100 mL. So, in 3 mL, there are (50 g / 100 mL) * 3 mL = 1.5 g, which is 1,500 mg."
+  },
+  {
+    "text": "How many mL of a 2% (w/v) solution are needed to make 8 oz of a 1:200 solution?",
+    "options": [
+      "15 mL",
+      "30 mL",
+      "60 mL",
+      "80 mL"
+    ],
+    "answer": 3,
+    "explanation": "First, convert 8 oz to mL: 8 oz * 30 mL/oz = 240 mL. Next, convert 1:200 to a percentage: (1/200) * 100 = 0.5%. Now use the alligation method: (C1)(V1) = (C2)(V2). (2%)(x) = (0.5%)(240 mL). x = (0.5 * 240) / 2 = 60 mL."
+  },
+  {
+    "text": "What is the antibiotic classification of the drug azithromycin (Zithromax)?",
+    "options": [
+      "tetracycline",
+      "penicillin",
+      "macrolide",
+      "cephalosporin"
+    ],
+    "answer": 2,
+    "explanation": "Azithromycin is a macrolide antibiotic."
+  },
+  {
+    "text": "Which of the following look-alike/sound-alike drug pairs contains an H1 antagonist?",
+    "options": [
+      "buPROPion and busPIRone",
+      "dimenhyDRINATE and diphenhydrAMINE",
+      "predniSONE and prednisoLONE",
+      "rOPINIRole and risperiDONE"
+    ],
+    "answer": 1,
+    "explanation": "DimenhyDRINATE and diphenhydrAMINE are both H1 antagonists (antihistamines)."
+  },
+  {
+    "text": "The acronym NDC is used when identifying a drug product. It also relays information pertaining to the manufacturer and the medication package size. What does the acronym NDC stand for?",
+    "options": [
+      "Nationwide Drug Carrier",
+      "National District Code",
+      "Nationwide District Code",
+      "National Drug Code"
+    ],
+    "answer": 3,
+    "explanation": "NDC stands for National Drug Code."
+  },
+  {
+    "text": "A root-cause analysis is a method that is used to __________.",
+    "options": [
+      "prevent an error from reoccurring",
+      "assess the appropriateness of drug therapy",
+      "identify an adverse drug reaction",
+      "promote MTM services"
+    ],
+    "answer": 0,
+    "explanation": "Root-cause analysis is a process used to identify the underlying cause of an error and implement strategies to prevent its recurrence."
+  },
+  {
+    "text": "Which of the following forms is issued by a reverse distributor who is picking up expired CII medications from a pharmacy?",
+    "options": [
+      "DEA form 222",
+      "pharmacy invoice",
+      "purchase order",
+      "DEA form 41"
+    ],
+    "answer": 0,
+    "explanation": "A reverse distributor is required to issue a DEA Form 222 when accepting Schedule II controlled substances from a pharmacy for destruction."
+  },
+  {
+    "text": "In the NDC number 0084-6571-10, what does the number 0084 indicate?",
+    "options": [
+      "package size",
+      "product strength",
+      "manufacturer",
+      "dosage form"
+    ],
+    "answer": 2,
+    "explanation": "The first segment of an NDC number (e.g., 0084) identifies the manufacturer or labeler."
+  },
+  {
+    "text": "How many 250 mg capsules are needed to prepare 75 mL of a 1% solution?",
+    "options": [
+      "1 capsule",
+      "2 capsules",
+      "3 capsules",
+      "4 capsules"
+    ],
+    "answer": 3,
+    "explanation": "A 1% solution means 1 g of drug per 100 mL. In 75 mL, there are (1 g / 100 mL) * 75 mL = 0.75 g or 750 mg of drug. Since each capsule contains 250 mg, you would need 750 mg / 250 mg/capsule = 3 capsules."
+  },
+  {
+    "text": "Which of the following patient service principles should NOT be used by pharmacy personnel when dealing with a patient’s complaint?",
+    "options": [
+      "Avoid passing judgment on the patient.",
+      "Provide accurate information to the patient.",
+      "Maintain a positive attitude toward the patient.",
+      "Provide a follow-up survey to gauge the patient’s feedback."
+    ],
+    "answer": 3,
+    "explanation": "This is a customer service best practice, but it's not a principle for handling a specific patient complaint."
+  },
+  {
+    "text": "Which government agency enforces the Controlled Substances Act?",
+    "options": [
+      "DEA",
+      "OSHA",
+      "FDA",
+      "CDC"
+    ],
+    "answer": 0,
+    "explanation": "The DEA (Drug Enforcement Administration) is the federal agency responsible for enforcing the Controlled Substances Act."
+  },
+  {
+    "text": "CCXI is equal to __________.",
+    "options": [
+      "209",
+      "210",
+      "211",
+      "212"
+    ],
+    "answer": 2,
+    "explanation": "CCXI breaks down into C (100) + C (100) + X (10) + I (1), which sums to 211."
+  },
+  {
+    "text": "What is the minimum sensitivity reading on a Class III prescription balance?",
+    "options": [
+      "2 mg",
+      "6 mg",
+      "8 mg",
+      "10 mg"
+    ],
+    "answer": 1,
+    "explanation": "A Class III prescription balance has a sensitivity requirement of 6 mg."
+  },
+  {
+    "text": "A pharmacy technician is filling out a controlled medication order on a DEA 222 form. Which copy of the paper form is kept by the pharmacy?",
+    "options": [
+      "top copy",
+      "middle copy",
+      "bottom copy",
+      "top and bottom copies"
+    ],
+    "answer": 2,
+    "explanation": "The pharmacy keeps the bottom copy (copy 3) of the DEA Form 222."
+  },
+  {
+    "text": "What is the brand name of the drug rabeprazole?",
+    "options": [
+      "AcipHex",
+      "Nexium",
+      "Prilosec",
+      "Protonix"
+    ],
+    "answer": 0,
+    "explanation": "AcipHex is the brand name for rabeprazole, a proton-pump inhibitor."
+  },
+  {
+    "text": "Nitrostat 0.4 mg is exempt from the child-resistant cap requirement according to which pharmacy-specific law?",
+    "options": [
+      "Poison Prevention Packaging Act of 1970",
+      "Isotretinoin Safety and Risk Management Act of 2004",
+      "Combat Methamphetamine Epidemic Act of 2005",
+      "Health Insurance Portability and Accountability Act of 1996"
+    ],
+    "answer": 0,
+    "explanation": "The Poison Prevention Packaging Act of 1970 requires child-resistant packaging for most medications, but it provides exemptions for certain drugs, including sublingual nitroglycerin tablets."
+  },
+  {
+    "text": "How many tablets should be dispensed, given the following order? prednisone 5 mg sig: ii tabs PO TID × 2 days ii tabs PO BID × 2 days i tab PO TID × 2 days ii tabs PO QD × 2 days i tab PO QD × 2 days Then stop",
+    "options": [
+      "22 tablets",
+      "30 tablets",
+      "32 tablets",
+      "38 tablets"
+    ],
+    "answer": 1,
+    "explanation": "The total number of tablets is: (2 tabs * 3 times/day * 2 days) + (2 tabs * 2 times/day * 2 days) + (1 tab * 3 times/day * 2 days) + (2 tabs * 1 time/day * 2 days) + (1 tab * 1 time/day * 2 days) = 12 + 8 + 6 + 4 + 2 = 32 tablets."
+  },
+  {
+    "text": "A patient is to receive 8 doses of azithromycin 500 mg. If the pharmacy only has 1-gram vials available, how many vials are needed to prepare this prescription?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "The total dose needed is 8 doses * 500 mg/dose = 4,000 mg or 4 grams. Each vial has 1 gram. So, 4 grams / 1 gram/vial = 4 vials."
+  },
+  {
+    "text": "The convex or concave curve located at the top of a volume of liquid in a graduated cylinder is known as a(n) __________________.",
+    "options": [
+      "levigation",
+      "meniscus",
+      "ointment",
+      "troches"
+    ],
+    "answer": 1,
+    "explanation": "The meniscus is the curve in the surface of a liquid caused by surface tension."
+  },
+  {
+    "text": "Which of the following abbreviations is on ISMP’s list of error-prone abbreviations?",
+    "options": [
+      "cap",
+      "prn",
+      "qhs",
+      "inj"
+    ],
+    "answer": 2,
+    "explanation": "The abbreviation 'qhs' (every night at bedtime) can be mistaken for 'q.h.s.' (every hour) and is on the ISMP's list of error-prone abbreviations."
+  },
+  {
+    "text": "Which of the following is NOT a solid dosage form?",
+    "options": [
+      "powder",
+      "capsule",
+      "suspension",
+      "suppository"
+    ],
+    "answer": 2,
+    "explanation": "A suspension is a liquid dosage form containing solid particles dispersed in a liquid vehicle."
+  },
+  {
+    "text": "A patient receives a prescription for an otic preparation. Where is an otic product instilled?",
+    "options": [
+      "in the eye",
+      "in the nose",
+      "in the rectum",
+      "in the ear"
+    ],
+    "answer": 3,
+    "explanation": "Otic preparations are for use in the ear."
+  },
+  {
+    "text": "A medication is to be kept at room temperature. What is the appropriate temperature range for this medication?",
+    "options": [
+      "−4°F to 14°F",
+      "36°F to 46°F",
+      "68°F to 77°F",
+      "90°F to 110°F"
+    ],
+    "answer": 2,
+    "explanation": "Room temperature is defined by the USP as a range from 15°C to 30°C, which is approximately 59°F to 86°F. The closest answer is 68°F to 77°F."
+  },
+  {
+    "text": "What is the maximum number of refills permitted for a Class III prescription according to federal law?",
+    "options": [
+      "0 refills",
+      "1 refill",
+      "5 refills in 6 months",
+      "11 refills in 12 months"
+    ],
+    "answer": 2,
+    "explanation": "Schedule III controlled substances may be refilled up to 5 times within a 6-month period."
+  },
+  {
+    "text": "All of the following are classified as high-alert medications by the Institute for Safe Medication Practices (ISMP) EXCEPT ________________.",
+    "options": [
+      "metformin",
+      "warfarin",
+      "midazolam",
+      "ampicillin"
+    ],
+    "answer": 3,
+    "explanation": "Ampicillin is a common antibiotic and is not typically on the ISMP's high-alert medication list. Metformin, warfarin, and midazolam are high-alert medications."
+  },
+  {
+    "text": "What is the name of the mandatory distribution program for products that contain isotretinoin?",
+    "options": [
+      "VAERS",
+      "iPLEDGE",
+      "ETASU",
+      "MedGUIDE"
+    ],
+    "answer": 1,
+    "explanation": "The iPLEDGE program is a mandatory risk management program for isotretinoin to prevent its use during pregnancy due to the high risk of birth defects."
+  },
+  {
+    "text": "Non-aqueous solutions, such as a capsule without water, have a maximum beyond-use date (BUD) of no later than _____________.",
+    "options": [
+      "14 days",
+      "30 days",
+      "6 months",
+      "1 year"
+    ],
+    "answer": 2,
+    "explanation": "According to USP <795>, the BUD for non-aqueous oral preparations is not later than 6 months or the earliest expiration date of any of the ingredients."
+  },
+  {
+    "text": "Convert 1.22 mg to micrograms.",
+    "options": [
+      "12.2 mcg",
+      "122 mcg",
+      "1,220 mcg",
+      "12,220 mcg"
+    ],
+    "answer": 2,
+    "explanation": "There are 1,000 micrograms (mcg) in 1 milligram (mg). So, 1.22 mg * 1,000 mcg/mg = 1,220 mcg."
+  },
+  {
+    "text": "A patient is requesting that her Class IV prescription be transferred to a pharmacy that does not share the same online database. What is the maximum number of times a Class IV prescription can be transferred to this pharmacy?",
+    "options": [
+      "one time",
+      "two times",
+      "five times",
+      "unlimited times"
+    ],
+    "answer": 0,
+    "explanation": "When transferring a Schedule III, IV, or V prescription to a pharmacy that does not share a real-time, online database, it can only be transferred once."
+  },
+  {
+    "text": "Biennial inventory is inventory of all controlled substances on hand that is to be conducted __________.",
+    "options": [
+      "twice a year",
+      "once a year",
+      "every 2 years",
+      "every 5 years"
+    ],
+    "answer": 2,
+    "explanation": "A biennial inventory of controlled substances must be conducted every two years."
+  },
+  {
+    "text": "Which of the following is NOT a strategy used to decrease the potential for expired drugs to be on pharmacy shelves?",
+    "options": [
+      "using colored stickers to indicate the month of expiration",
+      "placing medications with similar drug names away from each other",
+      "writing the month of expiration on the stock bottle",
+      "placing new products behind old products on the shelves"
+    ],
+    "answer": 1,
+    "explanation": "Placing look-alike/sound-alike medications away from each other is a strategy to prevent medication errors, not to prevent expired drugs."
+  },
+  {
+    "text": "Which of the following forms is required to order methylphenidate (Ritalin)?",
+    "options": [
+      "DEA 224 form",
+      "DEA 222 form",
+      "DEA 106 form",
+      "DEA 41 form"
+    ],
+    "answer": 1,
+    "explanation": "Methylphenidate (Ritalin) is a Schedule II controlled substance, and a DEA Form 222 is required for ordering."
+  },
+  {
+    "text": "A bothersome or unwanted effect that results from the use of a drug and is unrelated to the intended effect of the drug is called a(an) __________.",
+    "options": [
+      "side effect",
+      "contraindication",
+      "allergy",
+      "drug interaction"
+    ],
+    "answer": 0,
+    "explanation": "A side effect is a secondary, often undesirable, effect of a drug that is unrelated to its primary therapeutic purpose."
+  },
+  {
+    "text": "Which of the following error prevention strategies is used to avoid variation or complexity?",
+    "options": [
+      "the use of electronic processing software",
+      "the integration of a computer with the pharmacy register",
+      "the use of a scanner to match the NDC of the selected drug to the profiled medication",
+      "the use of preprinted prescription blanks that contain frequently prescribed medications"
+    ],
+    "answer": 3,
+    "explanation": "Preprinted prescription blanks standardize the prescribing process, reducing variation and the potential for errors from illegible handwriting."
+  },
+  {
+    "text": "When a prescription is filled with the wrong quantity of a medication as a result of illegible handwriting, this should be classified as a(an) __________.",
+    "options": [
+      "unauthorized drug error",
+      "prescribing error",
+      "wrong drug preparation error",
+      "administration error"
+    ],
+    "answer": 1,
+    "explanation": "Illegible handwriting is a form of prescribing error because the initial order from the prescriber was unclear."
+  },
+  {
+    "text": "What is the therapeutic equivalent for Claritin?",
+    "options": [
+      "diphenhydramine",
+      "cetirizine",
+      "loratadine",
+      "fexofenadine"
+    ],
+    "answer": 2,
+    "explanation": "Claritin is the brand name for the generic drug loratadine."
+  },
+  {
+    "text": "Counting trays should be __________________.",
+    "options": [
+      "tossed, and new trays should be purchased, every 6 months",
+      "labeled when used with hazardous medications",
+      "made of glass",
+      "kept in the compounding area"
+    ],
+    "answer": 1,
+    "explanation": "Counting trays used for hazardous medications must be clearly labeled and used only for that purpose to prevent cross-contamination."
+  },
+  {
+    "text": "What type of prescriptions may NOT be prescribed over the phone?",
+    "options": [
+      "Class II prescriptions",
+      "Class III prescriptions",
+      "Class IV prescriptions",
+      "noncontrolled prescriptions"
+    ],
+    "answer": 0,
+    "explanation": "Schedule II controlled substance prescriptions generally cannot be called into the pharmacy, with very few exceptions for emergencies."
+  },
+  {
+    "text": "In which controlled substance schedule does morphine belong?",
+    "options": [
+      "Schedule I",
+      "Schedule II",
+      "Schedule III",
+      "Schedule IV"
+    ],
+    "answer": 1,
+    "explanation": "Morphine is a powerful opioid analgesic and is classified as a Schedule II controlled substance."
+  },
+  {
+    "text": "How many 5 mL doses can be packaged from a pint of medication (rounded to the nearest whole number)?",
+    "options": [
+      "37",
+      "78",
+      "95",
+      "112"
+    ],
+    "answer": 2,
+    "explanation": "One pint is equal to 473 mL. The number of 5 mL doses is 473 mL / 5 mL/dose = 94.6 doses. Rounded to the nearest whole number, this is 95."
+  },
+  {
+    "text": "Which instrument is used to grind tablets into fine powders?",
+    "options": [
+      "spatula and ointment slab",
+      "electronic balance and spatula",
+      "stir rod and beaker",
+      "mortar and pestle"
+    ],
+    "answer": 3,
+    "explanation": "A mortar and pestle is the traditional equipment used in a pharmacy to grind and mix powders."
+  },
+  {
+    "text": "According to federal law, how long should Schedule II prescriptions be kept in the pharmacy?",
+    "options": [
+      "1 year",
+      "2 years",
+      "5 years",
+      "7 years"
+    ],
+    "answer": 1,
+    "explanation": "Federal law requires that all records for controlled substances, including Schedule II prescriptions, be kept for a minimum of two years."
+  },
+  {
+    "text": "Which of the following prefixes means “bladder”?",
+    "options": [
+      "chol-",
+      "cardi-",
+      "costo-",
+      "cyst-"
+    ],
+    "answer": 3,
+    "explanation": "The prefix 'cyst-' refers to the bladder, as in cystitis (inflammation of the bladder)."
+  },
+  {
+    "text": "Which of the following vitamins is fat-soluble?",
+    "options": [
+      "vitamin A",
+      "vitamin B12",
+      "vitamin B6",
+      "vitamin C"
+    ],
+    "answer": 0,
+    "explanation": "Vitamins A, D, E, and K are fat-soluble, while B and C are water-soluble."
+  },
+  {
+    "text": "What is the minimum weighable quantity for a Class III prescription balance?",
+    "options": [
+      "6 mg",
+      "120 mg",
+      "6 mL",
+      "120 mL"
+    ],
+    "answer": 1,
+    "explanation": "The minimum weighable quantity for a Class III balance is 120 mg, which is calculated as 6 mg (sensitivity) / 0.05 (acceptable error)."
+  },
+  {
+    "text": "Which measuring device would be the most appropriate for dispensing liquid for an infant?",
+    "options": [
+      "oral syringe",
+      "medication cup",
+      "oral dropper",
+      "teaspoon"
+    ],
+    "answer": 0,
+    "explanation": "An oral syringe is the most accurate device for measuring and administering small volumes of liquid medication to an infant."
+  },
+  {
+    "text": "Which of the following is a long-acting insulin?",
+    "options": [
+      "insulin glulisine",
+      "insulin aspart",
+      "insulin glargine",
+      "insulin lispro"
+    ],
+    "answer": 2,
+    "explanation": "Insulin glargine (Lantus) is a long-acting insulin, while the others are rapid-acting insulins."
+  },
+  {
+    "text": "A sig states that a medication should be taken QID. The medication should be taken __________________ a day.",
+    "options": [
+      "once",
+      "twice",
+      "three times",
+      "four times"
+    ],
+    "answer": 3,
+    "explanation": "The abbreviation 'QID' stands for 'quater in die,' which means 'four times a day'."
+  },
+  {
+    "text": "Which of the following dosage forms is taken orally and is designed to be quickly absorbed into the bloodstream?",
+    "options": [
+      "chewable tablet",
+      "syrup",
+      "sublingual tablet",
+      "elixir"
+    ],
+    "answer": 2,
+    "explanation": "A sublingual tablet is placed under the tongue for rapid absorption into the bloodstream, bypassing the digestive system."
+  },
+  {
+    "text": "Which of the following drugs is a calcium channel blocker?",
+    "options": [
+      "atenolol",
+      "furosemide",
+      "lidocaine",
+      "verapamil"
+    ],
+    "answer": 3,
+    "explanation": "Verapamil is a calcium channel blocker used to treat hypertension and angina."
+  },
+  {
+    "text": "How many gallons are in 240 pints?",
+    "options": [
+      "10 gallons",
+      "20 gallons",
+      "30 gallons",
+      "40 gallons"
+    ],
+    "answer": 2,
+    "explanation": "There are 8 pints in 1 gallon. So, 240 pints / 8 pints/gallon = 30 gallons."
+  },
+  {
+    "text": "According to federal law, who may perform the final check for all prescriptions processed and filled in the pharmacy?",
+    "options": [
+      "pharmacy technician",
+      "pharmacist",
+      "physician",
+      "pharmacy intern"
+    ],
+    "answer": 1,
+    "explanation": "Only a pharmacist is legally permitted to perform the final check of a prescription."
+  },
+  {
+    "text": "How many grams of drug are in 300 mL of a 50% solution?",
+    "options": [
+      "90 g",
+      "130 g",
+      "150 g",
+      "220 g"
+    ],
+    "answer": 2,
+    "explanation": "A 50% solution means 50 g in 100 mL. So, in 300 mL, there are (50 g / 100 mL) * 300 mL = 150 g."
+  },
+  {
+    "text": "How much dextrose is in 1,000 mL of D10W?",
+    "options": [
+      "100 g",
+      "1,000 g",
+      "100 mg",
+      "1,000 mg"
+    ],
+    "answer": 0,
+    "explanation": "D10W stands for 10% dextrose in water, which means there are 10 grams of dextrose in 100 mL. In 1,000 mL, there would be 100 g of dextrose."
+  },
+  {
+    "text": "Which of the following is an acceptable temperature at which to store insulin in the pharmacy’s refrigerator?",
+    "options": [
+      "1°C",
+      "5°C",
+      "12°C",
+      "15°C"
+    ],
+    "answer": 1,
+    "explanation": "Insulin should be stored in a refrigerator at a temperature between 2°C and 8°C (36°F and 46°F)."
+  },
+  {
+    "text": "Which organ(s) is/are mainly affected by hepatotoxicity?",
+    "options": [
+      "kidneys",
+      "stomach",
+      "liver",
+      "lungs"
+    ],
+    "answer": 2,
+    "explanation": "The prefix 'hepato-' refers to the liver, so hepatotoxicity is toxicity to the liver."
+  },
+  {
+    "text": "Why should medication stock be rotated in a pharmacy?",
+    "options": [
+      "to ensure that short-dated medications are used first",
+      "to ensure that long-dated medications are used first",
+      "to ensure that the pharmacy supply is maximized",
+      "to ensure that the stock is facing properly"
+    ],
+    "answer": 0,
+    "explanation": "Medication stock should be rotated to ensure that products with the earliest expiration dates are used first, reducing waste."
+  },
+  {
+    "text": "Which of the following best describes information that should be included on unit dose packaged medications?",
+    "options": [
+      "the medication name, the strength, the manufacturer’s name, the NDC, the lot number, and the expiration date",
+      "the medication name, the strength, the manufacturer’s name, the NDC, the lot number, and the instructions for patient use",
+      "the medication name, the strength, and the instructions for patient use",
+      "the medication name, the strength, and the manufacturer’s name"
+    ],
+    "answer": 0,
+    "explanation": "Unit dose packaging must contain all information required to ensure traceability and proper use, including the drug name, strength, manufacturer, NDC, lot number, and expiration date."
+  },
+  {
+    "text": "Glucovance is a combination product that contains which of the following medications?",
+    "options": [
+      "metformin and glipizide",
+      "rosiglitazone and glimepiride",
+      "rosiglitazone and metformin",
+      "metformin and glyburide"
+    ],
+    "answer": 3,
+    "explanation": "Glucovance is a combination product containing metformin and glyburide."
+  },
+  {
+    "text": "Which of the following could increase the likelihood of a medication error?",
+    "options": [
+      "using leading zeros",
+      "using trailing zeros",
+      "avoiding confusing abbreviations",
+      "using barcoding systems"
+    ],
+    "answer": 1,
+    "explanation": "Using a trailing zero (e.g., 5.0 mg) can be mistaken for a much larger dose (50 mg) and is considered an error-prone practice."
+  },
+  {
+    "text": "A physician orders an IV drip rate of a medication to be infused at 15 mL/hr for a total of 36 hours. What is the total volume of medication to be administered?",
+    "options": [
+      "240 mL",
+      "480 mL",
+      "540 mL",
+      "615 mL"
+    ],
+    "answer": 2,
+    "explanation": "To find the total volume, multiply the infusion rate by the total time: 15 mL/hr * 36 hours = 540 mL."
+  },
+  {
+    "text": "Which FDA recall classification is the least severe?",
+    "options": [
+      "Class I",
+      "Class II",
+      "Class III",
+      "Class IV"
+    ],
+    "answer": 2,
+    "explanation": "A Class III recall is the least severe, as it is for products that are not likely to cause adverse health consequences."
+  },
+  {
+    "text": "The doctor has prescribed antihistamine drops to treat seasonal allergy symptoms. The directions state 1–2 gtts os TID. What should be typed on the prescription label?",
+    "options": [
+      "Instill 1–2 drops in each eye three times a day.",
+      "Instill 1–2 drops in the right eye three times a day.",
+      "Instill 1–2 drops in the left eye three times a day.",
+      "Instill 1–2 drops in the left ear three times a day."
+    ],
+    "answer": 2,
+    "explanation": "The abbreviation 'gtts' means 'drops,' 'os' means 'left eye,' and 'TID' means 'three times a day'."
+  },
+  {
+    "text": "The pharmacy should complete which of the following steps after receiving an alert from the FDA about a drug recall from a specific manufacturer?",
+    "options": [
+      "pull the offending drug from pharmacy shelves and, if deemed appropriate, call patients who are taking this medication to inform them of the significant medication problem",
+      "pull the offending drug from pharmacy shelves but do not contact patients who are taking this medication until it is time for the next medication refill",
+      "continue to use the offending drug until stock runs out but do not order more for future fills",
+      "continue to use the offending drug but post an alert in the pharmacy for patients to see information about the significant medication problem"
+    ],
+    "answer": 0,
+    "explanation": "The appropriate action is to immediately pull the recalled product from the shelves and, depending on the severity of the recall (Class I or II), contact patients who may have received the affected medication."
+  },
+  {
+    "text": "Which of the following is an angiotensin II receptor blocker (ARB)?",
+    "options": [
+      "metoprolol",
+      "lisinopril",
+      "lovastatin",
+      "candesartan"
+    ],
+    "answer": 3,
+    "explanation": "Candesartan is an ARB used to treat high blood pressure and heart failure."
+  },
+  {
+    "text": "The expiration date of a bottle reads 9/28. What is the last day this medication may be used?",
+    "options": [
+      "09/01/2028",
+      "09/30/2028",
+      "10/01/2028",
+      "08/31/2028"
+    ],
+    "answer": 1,
+    "explanation": "The expiration date refers to the last day of the stated month. In this case, the medication is good until September 30, 2028."
+  },
+  {
+    "text": "The Combat Methamphetamine Epidemic Act of 2005 was enacted to regulate over-the-counter sales of which of the following substances?",
+    "options": [
+      "dextromethorphan",
+      "pseudoephedrine",
+      "guaifenesin",
+      "phenylephrine"
+    ],
+    "answer": 1,
+    "explanation": "The CMEA regulates the sale of pseudoephedrine, a decongestant that can be used in the illegal production of methamphetamine."
+  },
+  {
+    "text": "The pharmacy receives a prescription for 500 mL of 15% solution “X.” The pharmacy carries 30% and 5% stock solutions. How much of the 30% and 5% solutions, respectively, should be used to mix this order?",
+    "options": [
+      "100 mL of 30% solution, 400 mL of 5% solution",
+      "200 mL of 30% solution, 300 mL of 5% solution",
+      "300 mL of 30% solution, 200 mL of 5% solution",
+      "400 mL of 30% solution, 100 mL of 5% solution"
+    ],
+    "answer": 2,
+    "explanation": "Using the alligation method, we need 10 parts of the 30% solution and 15 parts of the 5% solution, for a total of 25 parts. To make 500 mL, we need (10/25) * 500 mL = 200 mL of the 30% solution and (15/25) * 500 mL = 300 mL of the 5% solution."
+  },
+  {
+    "text": "What volume of a 125 mg/mL injectable should be drawn up for a 275 mg dose?",
+    "options": [
+      "1.4 mL",
+      "2.2 mL",
+      "2.8 mL",
+      "3.1 mL"
+    ],
+    "answer": 1,
+    "explanation": "To find the volume, divide the required dose by the concentration: 275 mg / 125 mg/mL = 2.2 mL."
+  },
+  {
+    "text": "Which of the following eye drops is kept in a refrigerator prior to opening?",
+    "options": [
+      "latanoprost",
+      "timolol",
+      "ofloxacin",
+      "olopatadine"
+    ],
+    "answer": 0,
+    "explanation": "Latanoprost is a prostaglandin analog used for glaucoma and must be refrigerated until opened, after which it can be stored at room temperature."
+  },
+  {
+    "text": "Which organization oversees the Medication Errors Reporting Program (MERP)?",
+    "options": [
+      "FDA",
+      "CDC",
+      "DEA",
+      "ISMP"
+    ],
+    "answer": 3,
+    "explanation": "The ISMP (Institute for Safe Medication Practices) manages the Medication Errors Reporting Program (MERP)."
+  },
+  {
+    "text": "What is the color of the “C” stamped on controlled substance prescriptions and manufacturer bottles?",
+    "options": [
+      "green",
+      "blue",
+      "red",
+      "black"
+    ],
+    "answer": 2,
+    "explanation": "The 'C' symbol on controlled substance products is required to be stamped in red to make it easily identifiable."
+  },
+  {
+    "text": "A patient received her medication at 1800 military hours. At what standard time did she receive her medication?",
+    "options": [
+      "9:00 P.M.",
+      "6:00 P.M.",
+      "9:00 A.M.",
+      "6:00 A.M."
+    ],
+    "answer": 1,
+    "explanation": "To convert military time to standard time, subtract 12 from any hour over 12. 1800 - 1200 = 6:00 P.M."
+  },
+  {
+    "text": "What should a pharmacy technician do if he or she receives an incomplete prescription order?",
+    "options": [
+      "Call the prescriber to inquire about the missing information.",
+      "Ask the patient, and fill in the missing information.",
+      "Refuse to fill the prescription.",
+      "Fill the prescription using information from a previous fill."
+    ],
+    "answer": 0,
+    "explanation": "A pharmacy technician must call the prescriber to obtain any missing or incomplete information on a prescription."
+  },
+  {
+    "text": "According to USP <795>, what type of water should be used when compounding non-sterile drug preparations?",
+    "options": [
+      "tap water",
+      "alkaline water",
+      "purified water",
+      "hypertonic water"
+    ],
+    "answer": 2,
+    "explanation": "USP <795> mandates the use of purified water for compounding non-sterile preparations."
+  },
+  {
+    "text": "Capsules and tablets are counted in multiples of what number?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "Capsules and tablets are typically counted in multiples of 5 to maintain accuracy."
+  },
+  {
+    "text": "What is the technical name for the stem of a needle?",
+    "options": [
+      "shaft",
+      "bevel",
+      "hub",
+      "lumen"
+    ],
+    "answer": 0,
+    "explanation": "The shaft is the technical term for the main body or stem of a needle."
+  },
+  {
+    "text": "Which of the following is NOT an advantage of barcoding technology?",
+    "options": [
+      "It ensures that the patient receives the correct drug.",
+      "It ensures that the correct dose is given to the patient.",
+      "It ensures that the patient receives the medication at the best cost.",
+      "It ensures that the correct patient receives the dose."
+    ],
+    "answer": 2,
+    "explanation": "Barcoding technology is an error-prevention tool that confirms the identity of the drug, patient, and dose, but it does not address the cost of the medication."
+  },
+  {
+    "text": "What is the term for “solid particles dispersed in a liquid medium”?",
+    "options": [
+      "suspension",
+      "emulsion",
+      "elixir",
+      "solution"
+    ],
+    "answer": 0,
+    "explanation": "A suspension is a liquid preparation in which solid particles are dispersed throughout a liquid medium."
+  }
+]

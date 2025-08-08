@@ -57,12 +57,12 @@
         #show-score:disabled { background:#b7c9e6; cursor:not-allowed; }
         #score-display { margin-top:12px; font-size:1.1rem; font-weight:600; }
         .pdf-frame {
-          width: 100%;
-          height: 80vh;
-          border: 0;
-          border-radius: var(--radius);
-          box-shadow: var(--shadow);
-          background: #fff;
+            width: 100%;
+            height: 80vh;
+            border: 0;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            background: #fff;
         }
     </style>
 </head>
@@ -81,6 +81,8 @@
         <button class="nav-item" data-kind="json" data-file="test6.json">Quiz 6</button>
         <button class="nav-item" data-kind="json" data-file="test7.json">Quiz 7</button>
         <button class="nav-item" data-kind="json" data-file="test8.json">Quiz 8</button>
+        <button class="nav-item" data-kind="json" data-file="test9.json">Quiz 9</button>
+        <button class="nav-item" data-kind="json" data-file="test10.json">Quiz 10</button>
         <button class="nav-item" data-kind="pdf" data-src="Vaccines.pdf">Vaccines</button>
     </nav>
 </header>
@@ -89,7 +91,7 @@
     <div id="quiz"></div>
 
     <div id="score-container">
-        <button id="show-score" disabled>Show Score</button>
+        <button id="show-score">Show Score</button>
         <div id="score-display"></div>
     </div>
 </main>

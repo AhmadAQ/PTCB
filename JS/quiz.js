@@ -16,7 +16,7 @@ nav.addEventListener('click', (e) => {
     setActive(btn);
     quizEl.innerHTML = '';
     scoreDisplay.textContent = '';
-    showScoreBtn.disabled = true;
+    showScoreBtn.disabled = false;
 
     if (btn.dataset.kind === 'pdf') {
         const src = btn.dataset.src;
@@ -41,7 +41,7 @@ async function loadQuiz(file) {
     // reset UI
     quizEl.innerHTML = '';
     scoreDisplay.textContent = '';
-    showScoreBtn.disabled = true;
+    showScoreBtn.disabled = false;
     answeredCount = 0;
 
     try {
@@ -91,9 +91,7 @@ function renderQuiz() {
 
                 // progress
                 answeredCount++;
-                if (answeredCount === questions.length) {
-                    showScoreBtn.disabled = false;
-                }
+                // Keep the Show Score button always enabled; we compute based only on answered questions
             });
 
             label.append(radio, ` ${String.fromCharCode(97 + oi)}) ${opt}`);
@@ -107,20 +105,25 @@ function renderQuiz() {
     // Replace any previous click handler to avoid stacking
     showScoreBtn.onclick = () => {
         let correct = 0;
+        let answered = 0;
         questions.forEach((q, qi) => {
             const sel = document.querySelector(`input[name="q${qi}"]:checked`);
-            if (sel && Number(sel.value) === q.answer) correct++;
+            if (sel) {
+                answered++;
+                if (Number(sel.value) === q.answer) correct++;
+            }
         });
-        scoreDisplay.textContent = `You scored ${correct} out of ${questions.length}!`;
-        showScoreBtn.disabled = true;
+        if (answered === 0) {
+            scoreDisplay.textContent = 'No answers yet.';
+            return;
+        }
+        const pct = Math.round((correct / answered) * 100);
+        scoreDisplay.textContent = `Score: ${correct}/${answered} (${pct}%)`;
     };
 }
 
 // Auto-load the first tab on page load
 window.addEventListener('DOMContentLoaded', () => {
     const first = nav.querySelector('.nav-item');
-    if (first) {
-        setActive(first);
-        loadQuiz(first.dataset.file);
-    }
+    if (first) first.click();
 });

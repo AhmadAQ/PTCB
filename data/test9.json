@@ -1,0 +1,992 @@
+[
+  {
+    "text": "How many mL of 70% and 40% alcohol elixirs should be mixed to prepare 300 mL of 60% alcohol?",
+    "options": [
+      "200 mL of 70%, 100 mL of 40%",
+      "100 mL of 70%, 200 mL of 40%",
+      "75 mL of 70%, 25 mL of 40%",
+      "50 mL of 70%, 250 mL of 40%"
+    ],
+    "answer": 0,
+    "explanation": "This can be solved using the alligation method. Place the desired concentration (60%) in the middle. Put the two available concentrations (70% and 40%) on the left. Subtract diagonally: 70 - 60 = 10 parts of 70% solution, and 60 - 40 = 20 parts of 40% solution. The total parts are 10 + 20 = 30. The total volume is 300 mL. So, for the 70% solution, we need (10/30) * 300 mL = 100 mL. For the 40% solution, we need (20/30) * 300 mL = 200 mL. Wait, let me recheck my work.  (70-60)=10, (60-40)=20. Wait, I did it backwards. The first number should be on the top left. The second on the bottom left.  The answer should be 200mL of 70% and 100mL of 40%. The calculation is (20/(10+20)) * 300 = 200mL of 70% and (10/(10+20)) * 300 = 100mL of 40%. So the answer is (A) 200 mL of 70%, 100 mL of 40%."
+  },
+  {
+    "text": "Which of the following vaccines should be kept in a freezer?",
+    "options": [
+      "Varicella vaccine",
+      "MMR vaccine",
+      "Fluzone vaccine",
+      "Gardasil vaccine"
+    ],
+    "answer": 0,
+    "explanation": "The Varicella vaccine (chickenpox) must be stored in a freezer."
+  },
+  {
+    "text": "Which of the following is an example of a Class II recall?",
+    "options": [
+      "foreign objects that pose a physical hazard",
+      "a label mix-up on a life-saving drug",
+      "a medication container defect or malfunctioning drug delivery device",
+      "all of the above"
+    ],
+    "answer": 2,
+    "explanation": "A Class II recall is for products that might cause a temporary or medically reversible health problem, such as a container defect."
+  },
+  {
+    "text": "The Roman numeral XXXVI is equal to ____________.",
+    "options": [
+      "34",
+      "36",
+      "26",
+      "24"
+    ],
+    "answer": 1,
+    "explanation": "XXXVI breaks down into X (10) + X (10) + X (10) + V (5) + I (1), which sums to 36."
+  },
+  {
+    "text": "Many terminally ill patients on pain medications require increasingly higher doses to obtain pain relief. This is known as ______________________.",
+    "options": [
+      "tolerance",
+      "addiction",
+      "dependence",
+      "habituation"
+    ],
+    "answer": 0,
+    "explanation": "Tolerance is the physiological need for a drug to achieve the same effect after prolonged use."
+  },
+  {
+    "text": "What source should be used to determine therapeutic equivalence?",
+    "options": [
+      "Orange Book",
+      "Blue Book",
+      "Yellow Book",
+      "Red Book"
+    ],
+    "answer": 0,
+    "explanation": "The Orange Book, published by the FDA, lists drugs that are therapeutically equivalent to one another."
+  },
+  {
+    "text": "The physician orders cefaclor 450 mg TID. The drug is available as a 375 mg/5 mL suspension. How many mL should be given for each dose?",
+    "options": [
+      "2 mL",
+      "6 mL",
+      "12 mL",
+      "18 mL"
+    ],
+    "answer": 1,
+    "explanation": "To solve, set up the proportion: 375 mg / 5 mL = 450 mg / x mL. Solving for x gives x = (450 * 5) / 375 = 6 mL."
+  },
+  {
+    "text": "What is the appropriate form required for a pharmacy to order Schedule II medications from a distributor?",
+    "options": [
+      "DEA form 222",
+      "DEA form 41",
+      "DEA form 106",
+      "None of the above"
+    ],
+    "answer": 0,
+    "explanation": "DEA form 222 is the official document for ordering Schedule II controlled substances."
+  },
+  {
+    "text": "Hydrocortisone 0.5% cream in a 1-ounce tube contains ______________________.",
+    "options": [
+      "hydrocortisone 141.75 mg in 28.35 g of cream",
+      "hydrocortisone 0.4175 g in 100 mg of cream",
+      "hydrocortisone 0.4175 g in 28.35 g of cream",
+      "hydrocortisone 28.35 mg in 141.75 g of cream"
+    ],
+    "answer": 0,
+    "explanation": "A 1-ounce tube is approximately 28.35 grams. A 0.5% cream means there is 0.5 g of hydrocortisone per 100 g of cream. In a 28.35 g tube, there would be (0.5 g / 100 g) * 28.35 g = 0.14175 g, which is 141.75 mg."
+  },
+  {
+    "text": "How many prednisone 5 mg tablets are needed to fill a prescription with the following directions? prednisone 5 mg tablets Take tab PO QID × 2 days tab PO TID × 2 days tab PO BID × 2 days tab PO QD × 2 days Then stop",
+    "options": [
+      "5",
+      "10",
+      "20",
+      "30"
+    ],
+    "answer": 2,
+    "explanation": "The total number of tablets needed is calculated by: (1 tab * 4 times/day * 2 days) + (1 tab * 3 times/day * 2 days) + (1 tab * 2 times/day * 2 days) + (1 tab * 1 time/day * 2 days) = 8 + 6 + 4 + 2 = 20 tablets."
+  },
+  {
+    "text": "How much gentamicin 40 mg/mL is needed for a 130 mg dose?",
+    "options": [
+      "2 mL",
+      "2.25 mL",
+      "3 mL",
+      "3.25 mL"
+    ],
+    "answer": 3,
+    "explanation": "To find the volume, divide the required dose by the concentration: 130 mg / 40 mg/mL = 3.25 mL."
+  },
+  {
+    "text": "The four aspects of pharmacokinetics include ______________________.",
+    "options": [
+      "absorption, distribution, mitosis, and excretion",
+      "absorption, distribution, migration, and excretion",
+      "absorption, distribution, metastasis, and excretion",
+      "absorption, distribution, metabolism, and excretion"
+    ],
+    "answer": 3,
+    "explanation": "Pharmacokinetics is the study of how the body processes a drug, which includes absorption, distribution, metabolism, and excretion."
+  },
+  {
+    "text": "Ibuprofen can be given to a child at a dose of 10 mg/kg. What is the dose for a 44 lb child?",
+    "options": [
+      "200 mg",
+      "220 mg",
+      "440 mg",
+      "968 mg"
+    ],
+    "answer": 1,
+    "explanation": "First, convert the weight from pounds to kilograms: 44 lb / 2.2 kg/lb = 20 kg. Then, multiply the weight in kg by the dose: 20 kg * 10 mg/kg = 200 mg. Wait, let me recheck the options and question again. The answer should be 200 mg, but that's not an option. Let's re-calculate. 44 lbs is 20 kg. 20 kg * 10mg/kg = 200mg.  Hmm. The answer should be 200 mg but that's an option. Maybe the calculation is wrong.  Let's re-evaluate. The weight is 44 lb. The dose is 10 mg/kg.  Let's check the options again.  Wait, the options are 200mg, 220mg, 440mg, 968mg.  The closest is 200mg. It is possible the question is flawed.  However, based on the calculation, the answer should be 200mg. Let's assume there is a typo and the answer is 200mg. The question is flawed. But, since I have to choose an answer, I will go with 200mg and assume the question is flawed."
+  },
+  {
+    "text": "Concentrated sodium chloride solution (23.4%) contains 4 mEq/mL. How much (in mL) is needed to provide 40 mEq of NaCl for a parenteral nutrition admixture?",
+    "options": [
+      "4 mL",
+      "10 mL",
+      "23.4 mL",
+      "40 mL"
+    ],
+    "answer": 1,
+    "explanation": "Divide the total milliequivalents needed by the concentration: 40 mEq / 4 mEq/mL = 10 mL."
+  },
+  {
+    "text": "When reading the volume of liquid in a graduated cylinder, you should __________.   ",
+    "options": [
+      "read the top of the meniscus",
+      "read the middle of the meniscus",
+      "read the bottom of the meniscus",
+      "read the bubble that forms at the top of the meniscus"
+    ],
+    "answer": 2,
+    "explanation": "For most liquids, the volume is read at the bottom of the meniscus (the curved surface of the liquid) at eye level to ensure accuracy."
+  },
+  {
+    "text": "Which of the following is identified as an error-prone abbreviation by the ISMP?",
+    "options": [
+      "cc",
+      "prn",
+      "IV",
+      "ac"
+    ],
+    "answer": 0,
+    "explanation": "The abbreviation 'cc' is on the ISMP's list of error-prone abbreviations because it can be mistaken for 'u' (units)."
+  },
+  {
+    "text": "A pharmacy can order Schedule III drugs __________. ",
+    "options": [
+      "using a DEA 222 form",
+      "using a standard invoice",
+      "through a reverse distributor",
+      "only one day a week"
+    ],
+    "answer": 1,
+    "explanation": "Schedule III, IV, and V drugs can be ordered using a standard invoice or purchase order."
+  },
+  {
+    "text": "A failure to reconstitute a suspension is an example of an error that can occur during which of the following steps of the medication use process?",
+    "options": [
+      "prescribing",
+      "transcribing",
+      "dispensing",
+      "administration"
+    ],
+    "answer": 2,
+    "explanation": "Reconstitution is a part of the dispensing process, so a failure to do so is a dispensing error."
+  },
+  {
+    "text": "Look at the following sig. What instructions should be typed on the customer label? Sig: i tab po bid ac et qhs",
+    "options": [
+      "“Take one capsule by mouth twice a day before meals and at bedtime.”",
+      "“Take one tablet by mouth twice a day before meals and at bedtime.”",
+      "“Take one tablet by mouth twice a day after meals and at bedtime.”",
+      "“Take one capsule by mouth twice a day after meals and at bedtime.”"
+    ],
+    "answer": 1,
+    "explanation": "The sig translates to: 'i tab' (one tablet), 'po' (by mouth), 'bid' (twice a day), 'ac' (before meals), and 'et qhs' (and at bedtime)."
+  },
+  {
+    "text": "Which of the following liquid drug dosage forms contains concentrated sucrose solutions?",
+    "options": [
+      "suspension",
+      "elixir",
+      "syrup",
+      "tincture"
+    ],
+    "answer": 2,
+    "explanation": "A syrup is a concentrated sugar solution, often used to mask the unpleasant taste of a drug."
+  },
+  {
+    "text": "Pharmacy technicians check refrigerators that are used to hold medications daily and log temperature data. When checking the temperature of a refrigerator, an appropriate range is ______________.",
+    "options": [
+      "–4° to 14°F",
+      "36° to 46°F",
+      "46° to 59°F",
+      "68° to 77°F"
+    ],
+    "answer": 1,
+    "explanation": "The standard temperature range for a pharmacy refrigerator is 2°C to 8°C, which is approximately 36°F to 46°F."
+  },
+  {
+    "text": "A compounded solid drug product should never have a BUD beyond __________.",
+    "options": [
+      "14 days",
+      "3 months",
+      "6 months",
+      "1 year"
+    ],
+    "answer": 2,
+    "explanation": "For non-aqueous compounded solid products, the beyond-use date (BUD) is no more than 6 months."
+  },
+  {
+    "text": "How many teaspoons are in 1 ounce?",
+    "options": [
+      "1 teaspoon",
+      "3 teaspoons",
+      "6 teaspoons",
+      "8 teaspoons"
+    ],
+    "answer": 2,
+    "explanation": "There are 6 teaspoons (tsp) in 1 fluid ounce (fl oz)."
+  },
+  {
+    "text": "Which of the following medications is the brand name for omeprazole?",
+    "options": [
+      "Prilosec",
+      "Protonix",
+      "AcipHex",
+      "Nexium"
+    ],
+    "answer": 0,
+    "explanation": "Prilosec is the brand name for omeprazole."
+  },
+  {
+    "text": "Which of the following supplements is commonly used as a sleep aid?",
+    "options": [
+      "valerian root",
+      "ginseng",
+      "ginkgo biloba",
+      "resveratrol"
+    ],
+    "answer": 0,
+    "explanation": "Valerian root is an herbal supplement often used to treat insomnia and anxiety."
+  },
+  {
+    "text": "Which DEA form is used to register with the DEA to dispense controlled substances?",
+    "options": [
+      "form 41",
+      "form 106",
+      "form 222",
+      "form 224"
+    ],
+    "answer": 3,
+    "explanation": "DEA Form 224 is used by a pharmacy to register with the DEA to dispense controlled substances."
+  },
+  {
+    "text": "Most prescriptions, with the exception of controlled substances, are valid for _________________.",
+    "options": [
+      "6 months or 5 refills",
+      "a 3-month supply because of lower insurance copay",
+      "12 months from the date written",
+      "12 months from the date filled"
+    ],
+    "answer": 2,
+    "explanation": "Non-controlled substance prescriptions are generally valid for 12 months from the date they are written."
+  },
+  {
+    "text": "A medication is to be taken “PC.” It should be taken ______________.",
+    "options": [
+      "in the morning",
+      "in the evening",
+      "before meals",
+      "after meals"
+    ],
+    "answer": 3,
+    "explanation": "The abbreviation 'pc' is Latin for 'post cibum,' which means 'after meals'."
+  },
+  {
+    "text": "Oxycodone is a DEA Schedule II drug. This means that the drug has a __________ potential for abuse and __________ accepted medical uses in the United States.",
+    "options": [
+      "high; no currently",
+      "low; no currently",
+      "high; currently",
+      "low; currently"
+    ],
+    "answer": 2,
+    "explanation": "Schedule II drugs have a high potential for abuse but have currently accepted medical uses."
+  },
+  {
+    "text": "The Combat Methamphetamine Epidemic Act (CMEA) restricts the sale of which of the following?",
+    "options": [
+      "Robitussin",
+      "Delsym",
+      "Sudafed",
+      "Zyrtec"
+    ],
+    "answer": 2,
+    "explanation": "The CMEA regulates the over-the-counter sale of products containing pseudoephedrine, a key ingredient in Sudafed, due to its use in the illegal production of methamphetamine."
+  },
+  {
+    "text": "Which of the following is an example of a physical incompatibility that may result from the mixture of two or more substances?",
+    "options": [
+      "increase in temperature",
+      "effervescence",
+      "precipitation",
+      "decomposition"
+    ],
+    "answer": 2,
+    "explanation": "A physical incompatibility occurs when a mixture results in a visible change, such as the formation of a solid (precipitation)."
+  },
+  {
+    "text": "What class of drugs is used to treat elevated blood pressure?",
+    "options": [
+      "antihistamines",
+      "antihypertensives",
+      "anticoagulants",
+      "antihyperlipidemics"
+    ],
+    "answer": 1,
+    "explanation": "Antihypertensives are a class of drugs used to lower high blood pressure."
+  },
+  {
+    "text": "Pharmaceutical drugs are found in what hazardous drug list classification?",
+    "options": [
+      "P-list",
+      "S-list",
+      "K-list",
+      "F-list"
+    ],
+    "answer": 0,
+    "explanation": "The P-list from the EPA lists discarded commercial chemical products that are acutely hazardous."
+  },
+  {
+    "text": "Look at the following look-alike/sound-alike (LASA) drug pairs. Which LASA pair contains an antihypertensive?",
+    "options": [
+      "ALPRAZolam and LORazepam",
+      "methylPREDNISolone and medroxyPROGESTERone",
+      "hydrALAZINE and hydrOXYzine",
+      "vinBLAStine and vinCRIStine"
+    ],
+    "answer": 2,
+    "explanation": "HydrALAZINE is an antihypertensive drug used to treat high blood pressure, while hydrOXYzine is an antihistamine."
+  },
+  {
+    "text": "What needle gauge size is used in the administration of insulin?",
+    "options": [
+      "18",
+      "21",
+      "26",
+      "29"
+    ],
+    "answer": 3,
+    "explanation": "A 29-gauge needle is a small, fine needle used for subcutaneous injections, such as insulin."
+  },
+  {
+    "text": "Xanax is listed as a Schedule IV drug in Ohio. Xanax expires after ______ and may have ______ refills.",
+    "options": [
+      "1 year; no",
+      "6 months; no",
+      "6 months; up to 5",
+      "1 year; up to 5"
+    ],
+    "answer": 2,
+    "explanation": "Schedule IV controlled substances can be refilled up to 5 times within a 6-month period."
+  },
+  {
+    "text": "Convert 86°F to degrees Celsius.",
+    "options": [
+      "20°C",
+      "25°C",
+      "30°C",
+      "35°C"
+    ],
+    "answer": 1,
+    "explanation": "The conversion formula is C = (F - 32) * 5/9. So, C = (86 - 32) * 5/9 = 54 * 5/9 = 30. Wait. That's not right. Let me re-calculate. C = (86 - 32) * (5/9) = 54 * 0.5555... = 30. Yes, the answer is 30. Let me check the question again. The options are 20, 25, 30, 35. My calculation is 30 degrees C. The answer is (C) 30°C."
+  },
+  {
+    "text": "The Combat Methamphetamine Epidemic Act places ______ and ______ limits on the over-the-counter sale of products that contain pseudoephedrine.",
+    "options": [
+      "daily, weekly",
+      "daily, monthly",
+      "weekly, monthly",
+      "monthly, yearly"
+    ],
+    "answer": 1,
+    "explanation": "The CMEA sets daily and monthly sales limits on pseudoephedrine products."
+  },
+  {
+    "text": "How many mL are in 4 L of NS?",
+    "options": [
+      "40 mL",
+      "400 mL",
+      "4,000 mL",
+      "40,000 mL"
+    ],
+    "answer": 2,
+    "explanation": "There are 1,000 mL in 1 L, so 4 L * 1,000 mL/L = 4,000 mL."
+  },
+  {
+    "text": "A patient weighs 50 kg. What is his weight in lb?",
+    "options": [
+      "50 lb",
+      "100 lb",
+      "110 lb",
+      "200 lb"
+    ],
+    "answer": 2,
+    "explanation": "To convert kilograms to pounds, multiply by 2.2: 50 kg * 2.2 lb/kg = 110 lb."
+  },
+  {
+    "text": "A doctor has written a prescription for 10 mL of brand “X” antibiotic suspension to be taken twice daily. How many days will an 8-ounce bottle last?",
+    "options": [
+      "10 days",
+      "12 days",
+      "14 days",
+      "16 days"
+    ],
+    "answer": 1,
+    "explanation": "First, convert 8 ounces to mL. There are approximately 30 mL in 1 ounce, so 8 oz * 30 mL/oz = 240 mL. The daily dose is 10 mL * 2 times/day = 20 mL/day. The number of days the bottle will last is 240 mL / 20 mL/day = 12 days."
+  },
+  {
+    "text": "Which of the following techniques is used to identify medications that are about to expire?",
+    "options": [
+      "placing a colored sticker on the stock bottle",
+      "moving expired medication to the back of the shelf",
+      "organizing medications alphabetically by generic name",
+      "organizing medications by brand name"
+    ],
+    "answer": 0,
+    "explanation": "Placing a colored sticker on bottles with approaching expiration dates is a common practice to easily identify and manage stock."
+  },
+  {
+    "text": "Mixing powders of unequal quantity is called _________________.",
+    "options": [
+      "geometric dilution",
+      "spatulation",
+      "levigation",
+      "emulsion"
+    ],
+    "answer": 0,
+    "explanation": "Geometric dilution is a method used to mix a small amount of a potent substance with a larger amount of a diluent."
+  },
+  {
+    "text": "Which regulatory agency could initiate a Class II medication recall?",
+    "options": [
+      "DEA",
+      "ASHP",
+      "TJC",
+      "FDA"
+    ],
+    "answer": 3,
+    "explanation": "The FDA (Food and Drug Administration) is responsible for initiating and overseeing drug recalls."
+  },
+  {
+    "text": "What is the generic name for Cytomel?",
+    "options": [
+      "levothyroxine",
+      "liothyronine",
+      "lamotrigine",
+      "levetiracetam"
+    ],
+    "answer": 1,
+    "explanation": "The generic name for Cytomel is liothyronine."
+  },
+  {
+    "text": "Which of the following is an autoimmune disease in which the thyroid is overactive and produces excessive amounts of thyroid hormones?",
+    "options": [
+      "HIV/AIDS",
+      "hyperlipidemia",
+      "Graves’ disease",
+      "hypothyroidism"
+    ],
+    "answer": 2,
+    "explanation": "Graves' disease is an autoimmune disorder that results in an overactive thyroid gland (hyperthyroidism)."
+  },
+  {
+    "text": "If two drugs are taken together and one of them intensifies the action of the other, what type of drug interaction has occurred?",
+    "options": [
+      "additive",
+      "synergistic",
+      "potentiated",
+      "antagonistic"
+    ],
+    "answer": 2,
+    "explanation": "Potentiation is a type of drug interaction where one drug increases the effect of another drug, even though it may not have that effect on its own."
+  },
+  {
+    "text": "Which of the following herbal medications can be used to promote relaxation?",
+    "options": [
+      "kava",
+      "ginseng",
+      "garlic",
+      "ephedra"
+    ],
+    "answer": 0,
+    "explanation": "Kava is an herbal supplement commonly used for its calming and anxiety-reducing effects."
+  },
+  {
+    "text": "Which of the following drugs has a narrow therapeutic index?",
+    "options": [
+      "clindamycin",
+      "carbamazepine",
+      "labetalol",
+      "clopidogrel"
+    ],
+    "answer": 1,
+    "explanation": "Carbamazepine has a narrow therapeutic index, meaning the difference between a therapeutic dose and a toxic dose is small."
+  },
+  {
+    "text": "The drug name Synthroid is also known as the ____________ name.",
+    "options": [
+      "chemical",
+      "generic",
+      "brand",
+      "supplier"
+    ],
+    "answer": 2,
+    "explanation": "Synthroid is the brand name for the generic drug levothyroxine."
+  },
+  {
+    "text": "Which of the following situations requires a pharmacist’s intervention?",
+    "options": [
+      "an automated refill request",
+      "a prior authorization request",
+      "an OTC recommendation",
+      "ordering non-controlled medications"
+    ],
+    "answer": 1,
+    "explanation": "A prior authorization request requires the pharmacist to contact the insurance company for approval, which often involves clinical judgment."
+  },
+  {
+    "text": "The percent equivalent of a 1:80 ratio is ___________%.",
+    "options": [
+      "1.5",
+      "1.3",
+      "1.25",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "To convert a ratio to a percentage, divide 1 by 80 and then multiply by 100: (1 / 80) * 100 = 1.25%."
+  },
+  {
+    "text": "What method is used to prepare capsules?",
+    "options": [
+      "punch method",
+      "flocculation",
+      "dry gum method",
+      "geometric dilution"
+    ],
+    "answer": 0,
+    "explanation": "The punch method is a simple technique used in compounding to fill capsules with a powdered drug mixture."
+  },
+  {
+    "text": "Patients should be instructed to rinse well following corticosteroid use ___________. ",
+    "options": [
+      "due to the potential for candidiasis",
+      "to help relieve headaches",
+      "to prevent future cavities",
+      "to freshen breath"
+    ],
+    "answer": 0,
+    "explanation": "Rinsing the mouth after using an inhaled corticosteroid reduces the risk of developing oral candidiasis (thrush)."
+  },
+  {
+    "text": "What type of drug is metoprolol?",
+    "options": [
+      "proton-pump inhibitor (PPI)",
+      "beta blocker",
+      "diuretic",
+      "antihistamine"
+    ],
+    "answer": 1,
+    "explanation": "Metoprolol is a beta blocker used to treat high blood pressure, angina, and heart failure."
+  },
+  {
+    "text": "A term that is used to describe the harmful and undesired effects produced by a medication when taken at normal doses is called ___________. ",
+    "options": [
+      "potentiation",
+      "a contraindication",
+      "synergism",
+      "an adverse drug reaction"
+    ],
+    "answer": 3,
+    "explanation": "An adverse drug reaction is an unintended and harmful response to a medication that occurs at a normal dosage."
+  },
+  {
+    "text": "A patient’s prescription reads: albuterol, 1–2 puffs q4–6 hours as needed for asthma. The patient approaches the pharmacy and indicates that she is using the inhaler every day, twice in the morning and twice in the evening, as a proactive approach for her asthma. What type of issue is this patient experiencing?",
+    "options": [
+      "a drug interaction",
+      "an issue with adherence",
+      "therapeutic substitution",
+      "an adverse drug event"
+    ],
+    "answer": 1,
+    "explanation": "The patient is not adhering to the prescribed directions ('as needed' for symptoms) and is instead using the medication proactively, which is a common adherence issue."
+  },
+  {
+    "text": "Where is a NuvaRing stored in the pharmacy?",
+    "options": [
+      "at room temperature",
+      "in a refrigerator",
+      "in a freezer",
+      "in a refrigerator or a freezer"
+    ],
+    "answer": 1,
+    "explanation": "The NuvaRing is a temperature-sensitive medication and must be stored in a refrigerator."
+  },
+  {
+    "text": "Mrs. Smith is picking up an order of drug “X” #50 tablets, which cost her $120. While you’re ringing up her order, she asks, “How much does each tablet cost?” What is she being charged for each tablet?",
+    "options": [
+      "$1.20",
+      "$1.80",
+      "$2.40",
+      "$2.80"
+    ],
+    "answer": 2,
+    "explanation": "To find the cost per tablet, divide the total cost by the number of tablets: $120 / 50 tablets = $2.40 per tablet."
+  },
+  {
+    "text": "What size needle has the largest diameter?",
+    "options": [
+      "24",
+      "22",
+      "18",
+      "16"
+    ],
+    "answer": 3,
+    "explanation": "Needle gauges are a reverse scale; the smaller the gauge number, the larger the needle diameter."
+  },
+  {
+    "text": "A drug patent lasts ___________ years beginning on the ___________ date.",
+    "options": [
+      "10; filing",
+      "10; drug approval",
+      "20; filing",
+      "20; drug approval"
+    ],
+    "answer": 2,
+    "explanation": "A drug patent generally lasts for 20 years from the date the patent application is filed with the U.S. Patent and Trademark Office."
+  },
+  {
+    "text": "What percentage strength of isopropyl alcohol is used to clean pharmacy counters and counting trays?",
+    "options": [
+      "50% isopropyl alcohol",
+      "70% isopropyl alcohol",
+      "95% isopropyl alcohol",
+      "99% isopropyl alcohol"
+    ],
+    "answer": 1,
+    "explanation": "A 70% isopropyl alcohol solution is the most effective concentration for cleaning and disinfecting surfaces."
+  },
+  {
+    "text": "If the manufacturer’s expiration date for a drug is 12/25, the drug is considered acceptable to dispense until which date?",
+    "options": [
+      "12/31/25",
+      "12/01/25",
+      "12/15/25",
+      "12/07/25"
+    ],
+    "answer": 0,
+    "explanation": "The expiration date refers to the last day of the given month and year. In this case, the drug is good until the end of December 2025."
+  },
+  {
+    "text": "What is the generic name for Advair?",
+    "options": [
+      "tiotropium",
+      "salmeterol",
+      "salmeterol and fluticasone propionate",
+      "formoterol and budesonide"
+    ],
+    "answer": 2,
+    "explanation": "Advair is a combination of two generic drugs: salmeterol and fluticasone propionate."
+  },
+  {
+    "text": "Nitroglycerin is provided as a sublingual tablet. This means that the tablet should be dissolved ___________. ",
+    "options": [
+      "in a cup of water",
+      "under the tongue",
+      "in the eye",
+      "in normal saline"
+    ],
+    "answer": 1,
+    "explanation": "Sublingual means 'under the tongue,' where the drug can be absorbed quickly into the bloodstream."
+  },
+  {
+    "text": "Which of the following NSAIDs is available OTC?",
+    "options": [
+      "meloxicam",
+      "ibuprofen",
+      "ketorolac",
+      "celecoxib"
+    ],
+    "answer": 1,
+    "explanation": "Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) available over the counter, while the others are prescription-only."
+  },
+  {
+    "text": "The abbreviation “au” means ___________. ",
+    "options": [
+      "right ear",
+      "both ears",
+      "left eye",
+      "both eyes"
+    ],
+    "answer": 1,
+    "explanation": "The abbreviation 'au' is from the Latin 'auris utraque,' which means 'both ears'."
+  },
+  {
+    "text": "A script is presented for “Zocor 20 mg PO QHS.” The pharmacy is currently out of Zocor 20 mg. Which of the following may the pharmacist substitute to fill the order?",
+    "options": [
+      "atorvastatin",
+      "simvastatin",
+      "candesartan",
+      "losartan"
+    ],
+    "answer": 1,
+    "explanation": "Zocor is the brand name for simvastatin, so this would be the correct generic substitution."
+  },
+  {
+    "text": "A ___________ protects a brand name drug from unauthorized use.",
+    "options": [
+      "patent",
+      "copyright",
+      "trademark",
+      "symbol"
+    ],
+    "answer": 0,
+    "explanation": "A patent protects the intellectual property of a drug's discovery and development, allowing the manufacturer exclusive rights for a period of time."
+  },
+  {
+    "text": "Which clinical trial phase includes 20–100 individuals and tests for safety?",
+    "options": [
+      "Phase I",
+      "Phase II",
+      "Phase III",
+      "Phase IV"
+    ],
+    "answer": 0,
+    "explanation": "Phase I clinical trials involve a small group of healthy volunteers and focus on a drug's safety and dosage."
+  },
+  {
+    "text": "What is the maximum number of refills allowed for a Schedule II medication?",
+    "options": [
+      "0 refills",
+      "1 refill",
+      "5 refills",
+      "12 refills"
+    ],
+    "answer": 0,
+    "explanation": "Schedule II controlled substances are not permitted to have any refills."
+  },
+  {
+    "text": "Which of the following is a side effect that is associated with the ACE inhibitor lisinopril?",
+    "options": [
+      "dry, hacking cough",
+      "leukopenia",
+      "muscle weakness",
+      "drowsiness"
+    ],
+    "answer": 0,
+    "explanation": "A dry, hacking cough is a common and characteristic side effect of ACE inhibitors like lisinopril."
+  },
+  {
+    "text": "There are ___________ ounces (oz) in a pound (lb).",
+    "options": [
+      "2",
+      "8",
+      "16",
+      "24"
+    ],
+    "answer": 2,
+    "explanation": "There are 16 ounces in 1 pound."
+  },
+  {
+    "text": "What is the correct classification for furosemide?",
+    "options": [
+      "loop diuretic",
+      "thiazide diuretic",
+      "potassium-sparing diuretic",
+      "beta blocker"
+    ],
+    "answer": 0,
+    "explanation": "Furosemide is a potent loop diuretic used to treat edema and high blood pressure."
+  },
+  {
+    "text": "Which of the following suffixes indicates a condition of enlargement?",
+    "options": [
+      "-oma",
+      "-megaly",
+      "-osis",
+      "-itis"
+    ],
+    "answer": 1,
+    "explanation": "The suffix '-megaly' means 'enlargement,' as in cardiomegaly (enlargement of the heart)."
+  },
+  {
+    "text": "Pharmacies that handle hazardous medications must maintain which of the following documents?",
+    "options": [
+      "package insert",
+      "medication guide",
+      "safety data sheet",
+      "compounding log"
+    ],
+    "answer": 2,
+    "explanation": "A safety data sheet (SDS) contains essential information about the hazards of a chemical and how to handle it safely."
+  },
+  {
+    "text": "How would pharmacy personnel identify a medication in a drug recall situation?",
+    "options": [
+      "check the medication name",
+      "check the lot number",
+      "check the medication instructions",
+      "look for opened medications"
+    ],
+    "answer": 1,
+    "explanation": "Recalls are specific to certain lots or batches of a medication, so the lot number is the primary identifier."
+  },
+  {
+    "text": "Medications and foods that should not be taken together would be identified in which of the following monitoring parameters?",
+    "options": [
+      "drug-allergy interaction",
+      "drug-nutrient interaction",
+      "drug-drug interaction",
+      "drug-food interaction"
+    ],
+    "answer": 3,
+    "explanation": "A drug-food interaction describes an incompatibility between a medication and a food product, such as taking warfarin with foods rich in vitamin K."
+  },
+  {
+    "text": "A 70% HCl solution has a strength of 25 mEq/mL. How many mL are needed to prepare 60 mEq?",
+    "options": [
+      "1.2 mL",
+      "1.7 mL",
+      "2.1 mL",
+      "2.4 mL"
+    ],
+    "answer": 3,
+    "explanation": "Divide the total milliequivalents needed by the concentration: 60 mEq / 25 mEq/mL = 2.4 mL."
+  },
+  {
+    "text": "Which of the following medications for osteoporosis is taken once a month?",
+    "options": [
+      "Fosamax",
+      "Boniva",
+      "Actonel",
+      "Reclast"
+    ],
+    "answer": 1,
+    "explanation": "Boniva (ibandronate) is a bisphosphonate medication for osteoporosis that is available as a once-monthly oral tablet."
+  },
+  {
+    "text": "Which of the following is an antibiotic that is indicated in the treatment of UTIs?",
+    "options": [
+      "ketoconazole",
+      "miconazole",
+      "clotrimazole",
+      "metronidazole"
+    ],
+    "answer": 3,
+    "explanation": "Metronidazole is an antibiotic often used to treat bacterial and parasitic infections, including some types of UTIs."
+  },
+  {
+    "text": "Which of the following is NOT an example of a drug interaction?",
+    "options": [
+      "drug-drug",
+      "drug-laboratory",
+      "therapeutic duplication",
+      "food-environment"
+    ],
+    "answer": 3,
+    "explanation": "Food-environment is not a recognized type of drug interaction. The others are common forms of drug interactions that pharmacists monitor for."
+  },
+  {
+    "text": "Which of the following must appear on a written prescription for a controlled substance?",
+    "options": [
+      "indication",
+      "patient’s medication history",
+      "prescriber’s DEA number",
+      "patient’s social security number"
+    ],
+    "answer": 2,
+    "explanation": "A prescriber's DEA number is a required element on all prescriptions for controlled substances to ensure legal and proper dispensing."
+  },
+  {
+    "text": "What is the brand name for pravastatin?",
+    "options": [
+      "Pravachol",
+      "Lipitor",
+      "Zocor",
+      "Crestor"
+    ],
+    "answer": 0,
+    "explanation": "Pravachol is the brand name for the generic drug pravastatin."
+  },
+  {
+    "text": "What is the body surface area for a patient who weighs 22 kg and is 60 cm tall?",
+    "options": [
+      "0.9 m2",
+      "0.74 m2",
+      "0.61 m2",
+      "0.37 m2"
+    ],
+    "answer": 2,
+    "explanation": "Using the Mosteller formula (square root of (height in cm * weight in kg) / 3600), the calculation is sqrt((60 * 22) / 3600) = sqrt(1320 / 3600) = sqrt(0.3666) = 0.61 m^2. So the answer is 0.61 m2."
+  },
+  {
+    "text": "When calculating w/v%, the percentage refers to ___________. ",
+    "options": [
+      "mg/100 mL",
+      "g/100 mL",
+      "mg/100 L",
+      "g/100 L"
+    ],
+    "answer": 1,
+    "explanation": "Weight/volume percentage (w/v%) is defined as the number of grams of solute in 100 mL of solution."
+  },
+  {
+    "text": "On average, how many drops are in 1 mL?",
+    "options": [
+      "5 drops",
+      "10 drops",
+      "20 drops",
+      "30 drops"
+    ],
+    "answer": 2,
+    "explanation": "A common conversion used in pharmacy is that there are approximately 20 drops (gtt) in 1 mL."
+  },
+  {
+    "text": "Lanoxin pediatric solution is available in 0.05 mg/mL. If a patient takes 0.25 mg of Lanoxin per day, what will be the dispensed quantity in mL for 30 days?",
+    "options": [
+      "50 mL",
+      "100 mL",
+      "150 mL",
+      "200 mL"
+    ],
+    "answer": 2,
+    "explanation": "The daily volume is 0.25 mg / 0.05 mg/mL = 5 mL/day. Over 30 days, the total volume is 5 mL/day * 30 days = 150 mL."
+  },
+  {
+    "text": "What is the name of the process that is used to grind tablets into a fine powder using a mortar and pestle?",
+    "options": [
+      "spatulation",
+      "sifting",
+      "trituration",
+      "tumbling"
+    ],
+    "answer": 2,
+    "explanation": "Trituration is the process of grinding a solid substance into a fine powder."
+  },
+  {
+    "text": "Which of the following capsule sizes is the smallest?",
+    "options": [
+      "00",
+      "0",
+      "1",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "Capsule sizes range from 000 (largest) to 5 (smallest)."
+  }
+]
